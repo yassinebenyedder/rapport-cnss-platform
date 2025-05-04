@@ -1,0 +1,940 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{samplewebs8}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=ff1ecfda14d0795180a089fa576c7c89}{%
+           family={Agilemania},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff1ecfda14d0795180a089fa576c7c89}
+      \strng{fullhash}{ff1ecfda14d0795180a089fa576c7c89}
+      \strng{fullhashraw}{ff1ecfda14d0795180a089fa576c7c89}
+      \strng{bibnamehash}{ff1ecfda14d0795180a089fa576c7c89}
+      \strng{authorbibnamehash}{ff1ecfda14d0795180a089fa576c7c89}
+      \strng{authornamehash}{ff1ecfda14d0795180a089fa576c7c89}
+      \strng{authorfullhash}{ff1ecfda14d0795180a089fa576c7c89}
+      \strng{authorfullhashraw}{ff1ecfda14d0795180a089fa576c7c89}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{What is a Burndown Chart: A Comprehensive Guide}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://agilemania.com/what-is-a-burndown-chart#
+      \endverb
+      \verb{url}
+      \verb https://agilemania.com/what-is-a-burndown-chart#
+      \endverb
+    \endentry
+    \entry{samplewebs28}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=1c4789763930f82e79a6016864078c8d}{%
+           family={Atlassian.com},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c4789763930f82e79a6016864078c8d}
+      \strng{fullhash}{1c4789763930f82e79a6016864078c8d}
+      \strng{fullhashraw}{1c4789763930f82e79a6016864078c8d}
+      \strng{bibnamehash}{1c4789763930f82e79a6016864078c8d}
+      \strng{authorbibnamehash}{1c4789763930f82e79a6016864078c8d}
+      \strng{authornamehash}{1c4789763930f82e79a6016864078c8d}
+      \strng{authorfullhash}{1c4789763930f82e79a6016864078c8d}
+      \strng{authorfullhashraw}{1c4789763930f82e79a6016864078c8d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{What is Jira?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.atlassian.com/software/jira/guides/getting-started/introduction#what-is-jira-software
+      \endverb
+      \verb{url}
+      \verb https://www.atlassian.com/software/jira/guides/getting-started/introduction#what-is-jira-software
+      \endverb
+    \endentry
+    \entry{samplewebs6}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=74f8876d71c970ad37743262d497c67f}{%
+           family={AUDIBERT},
+           familyi={A\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{74f8876d71c970ad37743262d497c67f}
+      \strng{fullhash}{74f8876d71c970ad37743262d497c67f}
+      \strng{fullhashraw}{74f8876d71c970ad37743262d497c67f}
+      \strng{bibnamehash}{74f8876d71c970ad37743262d497c67f}
+      \strng{authorbibnamehash}{74f8876d71c970ad37743262d497c67f}
+      \strng{authornamehash}{74f8876d71c970ad37743262d497c67f}
+      \strng{authorfullhash}{74f8876d71c970ad37743262d497c67f}
+      \strng{authorfullhashraw}{74f8876d71c970ad37743262d497c67f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{Mise en œuvre d'UML}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://laurent-audibert.developpez.com/Cours-UML/?page=mise-en-oeuvre- uml
+      \endverb
+      \verb{url}
+      \verb https://laurent-audibert.developpez.com/Cours-UML/?page=mise-en-oeuvre-%20uml
+      \endverb
+    \endentry
+    \entry{samplewebs5}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=7bbef90440b39193b04feafd21ea6a10}{%
+           family={Awati},
+           familyi={A\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7bbef90440b39193b04feafd21ea6a10}
+      \strng{fullhash}{7bbef90440b39193b04feafd21ea6a10}
+      \strng{fullhashraw}{7bbef90440b39193b04feafd21ea6a10}
+      \strng{bibnamehash}{7bbef90440b39193b04feafd21ea6a10}
+      \strng{authorbibnamehash}{7bbef90440b39193b04feafd21ea6a10}
+      \strng{authornamehash}{7bbef90440b39193b04feafd21ea6a10}
+      \strng{authorfullhash}{7bbef90440b39193b04feafd21ea6a10}
+      \strng{authorfullhashraw}{7bbef90440b39193b04feafd21ea6a10}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{What is a Sprint}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.techtarget.com/searchsoftwarequality/definition/Scrum-sprint#
+      \endverb
+      \verb{url}
+      \verb https://www.techtarget.com/searchsoftwarequality/definition/Scrum-sprint#
+      \endverb
+    \endentry
+    \entry{samplewebs27}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4847e034bb0a55fcbc8a3380d6a3ab80}{%
+           family={AWS},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{fullhash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{fullhashraw}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{bibnamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorbibnamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authornamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorfullhash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorfullhashraw}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{What is Docker?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/docker/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/docker/
+      \endverb
+    \endentry
+    \entry{samplewebs11}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b628a3e46d6c8537926190f1da851a51}{%
+           family={balsamiq.com},
+           familyi={b\bibinitperiod}}}%
+      }
+      \strng{namehash}{b628a3e46d6c8537926190f1da851a51}
+      \strng{fullhash}{b628a3e46d6c8537926190f1da851a51}
+      \strng{fullhashraw}{b628a3e46d6c8537926190f1da851a51}
+      \strng{bibnamehash}{b628a3e46d6c8537926190f1da851a51}
+      \strng{authorbibnamehash}{b628a3e46d6c8537926190f1da851a51}
+      \strng{authornamehash}{b628a3e46d6c8537926190f1da851a51}
+      \strng{authorfullhash}{b628a3e46d6c8537926190f1da851a51}
+      \strng{authorfullhashraw}{b628a3e46d6c8537926190f1da851a51}
+      \field{sortinit}{b}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{Getting started with Balsamiq for Desktop}
+      \field{year}{2008-2025}
+      \verb{urlraw}
+      \verb https://balsamiq.com/support/docs/getting-started/desktop/#
+      \endverb
+      \verb{url}
+      \verb https://balsamiq.com/support/docs/getting-started/desktop/#
+      \endverb
+    \endentry
+    \entry{samplewebs30}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a2029b1ab7eda2ceb802502879ae7875}{%
+           family={c4model.com},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2029b1ab7eda2ceb802502879ae7875}
+      \strng{fullhash}{a2029b1ab7eda2ceb802502879ae7875}
+      \strng{fullhashraw}{a2029b1ab7eda2ceb802502879ae7875}
+      \strng{bibnamehash}{a2029b1ab7eda2ceb802502879ae7875}
+      \strng{authorbibnamehash}{a2029b1ab7eda2ceb802502879ae7875}
+      \strng{authornamehash}{a2029b1ab7eda2ceb802502879ae7875}
+      \strng{authorfullhash}{a2029b1ab7eda2ceb802502879ae7875}
+      \strng{authorfullhashraw}{a2029b1ab7eda2ceb802502879ae7875}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{Deployment diagram}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://c4model.com/diagrams/deployment#:~:text=A%20deployment%20diagram%20allows%20you,upon%20a%20UML%20deployment%20diagram.
+      \endverb
+      \verb{url}
+      \verb https://c4model.com/diagrams/deployment#:~:text=A%20deployment%20diagram%20allows%20you,upon%20a%20UML%20deployment%20diagram.
+      \endverb
+    \endentry
+    \entry{samplewebs31}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c192b0815580af2535bbafb1b15d36f2}{%
+           family={canva.com},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{c192b0815580af2535bbafb1b15d36f2}
+      \strng{fullhash}{c192b0815580af2535bbafb1b15d36f2}
+      \strng{fullhashraw}{c192b0815580af2535bbafb1b15d36f2}
+      \strng{bibnamehash}{c192b0815580af2535bbafb1b15d36f2}
+      \strng{authorbibnamehash}{c192b0815580af2535bbafb1b15d36f2}
+      \strng{authornamehash}{c192b0815580af2535bbafb1b15d36f2}
+      \strng{authorfullhash}{c192b0815580af2535bbafb1b15d36f2}
+      \strng{authorfullhashraw}{c192b0815580af2535bbafb1b15d36f2}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{Creating a Gantt chart: How-tos, templates, and tips}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.canva.com/online-whiteboard/gantt-chart/
+      \endverb
+      \verb{url}
+      \verb https://www.canva.com/online-whiteboard/gantt-chart/
+      \endverb
+    \endentry
+    \entry{samplewebs10}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=3094f4812cc660f7320fd1ab3d3da906}{%
+           family={Carlisle},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3094f4812cc660f7320fd1ab3d3da906}
+      \strng{fullhash}{3094f4812cc660f7320fd1ab3d3da906}
+      \strng{fullhashraw}{3094f4812cc660f7320fd1ab3d3da906}
+      \strng{bibnamehash}{3094f4812cc660f7320fd1ab3d3da906}
+      \strng{authorbibnamehash}{3094f4812cc660f7320fd1ab3d3da906}
+      \strng{authornamehash}{3094f4812cc660f7320fd1ab3d3da906}
+      \strng{authorfullhash}{3094f4812cc660f7320fd1ab3d3da906}
+      \strng{authorfullhashraw}{3094f4812cc660f7320fd1ab3d3da906}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{What is the difference between LaTeX and Overleaf?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://tex.stackexchange.com/questions/708018/what-is-the-difference-between-latex-and-overleaf#
+      \endverb
+      \verb{url}
+      \verb https://tex.stackexchange.com/questions/708018/what-is-the-difference-between-latex-and-overleaf#
+      \endverb
+    \endentry
+    \entry{samplewebs25}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=676c64550d7cc23f511c59718f2ab6d6}{%
+           family={chartjs.org},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{676c64550d7cc23f511c59718f2ab6d6}
+      \strng{fullhash}{676c64550d7cc23f511c59718f2ab6d6}
+      \strng{fullhashraw}{676c64550d7cc23f511c59718f2ab6d6}
+      \strng{bibnamehash}{676c64550d7cc23f511c59718f2ab6d6}
+      \strng{authorbibnamehash}{676c64550d7cc23f511c59718f2ab6d6}
+      \strng{authornamehash}{676c64550d7cc23f511c59718f2ab6d6}
+      \strng{authorfullhash}{676c64550d7cc23f511c59718f2ab6d6}
+      \strng{authorfullhashraw}{676c64550d7cc23f511c59718f2ab6d6}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{Chart.js}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.chartjs.org
+      \endverb
+      \verb{url}
+      \verb https://www.chartjs.org
+      \endverb
+    \endentry
+    \entry{samplewebs20}{online}{}{}
+      \name{author}{2}{}{%
+        {{hash=7cea7dc5d6f8f1d0eb33fa5c87657145}{%
+           family={Daniel\bibnamedelima Quinn},
+           familyi={D\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           given={Jonas\bibnamedelima Winkler},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=cac5c16ea8d89f219907240112ca5a77}{%
+           family={Paperless-ngx\bibnamedelima team},
+           familyi={P\bibinithyphendelim n\bibinitperiod\bibinitdelim t\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{83424312d74c08a4a0139b204a25a5be}
+      \strng{fullhash}{83424312d74c08a4a0139b204a25a5be}
+      \strng{fullhashraw}{83424312d74c08a4a0139b204a25a5be}
+      \strng{bibnamehash}{83424312d74c08a4a0139b204a25a5be}
+      \strng{authorbibnamehash}{83424312d74c08a4a0139b204a25a5be}
+      \strng{authornamehash}{83424312d74c08a4a0139b204a25a5be}
+      \strng{authorfullhash}{83424312d74c08a4a0139b204a25a5be}
+      \strng{authorfullhashraw}{83424312d74c08a4a0139b204a25a5be}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{Paperless-ngx.}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://docs.paperless-ngx.com
+      \endverb
+      \verb{url}
+      \verb https://docs.paperless-ngx.com
+      \endverb
+    \endentry
+    \entry{samplewebs9}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=d4692cbbb63c5b240a959769f12019f4}{%
+           family={drawio},
+           familyi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4692cbbb63c5b240a959769f12019f4}
+      \strng{fullhash}{d4692cbbb63c5b240a959769f12019f4}
+      \strng{fullhashraw}{d4692cbbb63c5b240a959769f12019f4}
+      \strng{bibnamehash}{d4692cbbb63c5b240a959769f12019f4}
+      \strng{authorbibnamehash}{d4692cbbb63c5b240a959769f12019f4}
+      \strng{authornamehash}{d4692cbbb63c5b240a959769f12019f4}
+      \strng{authorfullhash}{d4692cbbb63c5b240a959769f12019f4}
+      \strng{authorfullhashraw}{d4692cbbb63c5b240a959769f12019f4}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{About drawio}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.drawio.com/about
+      \endverb
+      \verb{url}
+      \verb https://www.drawio.com/about
+      \endverb
+    \endentry
+    \entry{samplewebs1}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=0425d104025e930ce8f544a6cfae2ec9}{%
+           family={Drumond},
+           familyi={D\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0425d104025e930ce8f544a6cfae2ec9}
+      \strng{fullhash}{0425d104025e930ce8f544a6cfae2ec9}
+      \strng{fullhashraw}{0425d104025e930ce8f544a6cfae2ec9}
+      \strng{bibnamehash}{0425d104025e930ce8f544a6cfae2ec9}
+      \strng{authorbibnamehash}{0425d104025e930ce8f544a6cfae2ec9}
+      \strng{authornamehash}{0425d104025e930ce8f544a6cfae2ec9}
+      \strng{authorfullhash}{0425d104025e930ce8f544a6cfae2ec9}
+      \strng{authorfullhashraw}{0425d104025e930ce8f544a6cfae2ec9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in March 2025}
+      \field{title}{What is scrum and how to get started}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.atlassian.com/agile/scrum
+      \endverb
+      \verb{url}
+      \verb https://www.atlassian.com/agile/scrum
+      \endverb
+    \endentry
+    \entry{samplewebs17}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=d87e602699ec178ca914a1ace35c1ac5}{%
+           family={expressjs.com},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{d87e602699ec178ca914a1ace35c1ac5}
+      \strng{fullhash}{d87e602699ec178ca914a1ace35c1ac5}
+      \strng{fullhashraw}{d87e602699ec178ca914a1ace35c1ac5}
+      \strng{bibnamehash}{d87e602699ec178ca914a1ace35c1ac5}
+      \strng{authorbibnamehash}{d87e602699ec178ca914a1ace35c1ac5}
+      \strng{authornamehash}{d87e602699ec178ca914a1ace35c1ac5}
+      \strng{authorfullhash}{d87e602699ec178ca914a1ace35c1ac5}
+      \strng{authorfullhashraw}{d87e602699ec178ca914a1ace35c1ac5}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{Express, Fast, unopinionated, minimalist web framework for Node.js}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://expressjs.com
+      \endverb
+      \verb{url}
+      \verb https://expressjs.com
+      \endverb
+    \endentry
+    \entry{samplewebs4}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a86fc3430821f57f16c0c8b000acf401}{%
+           family={Figma},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{fullhash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{fullhashraw}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{bibnamehash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{authorbibnamehash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{authornamehash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{authorfullhash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{authorfullhashraw}{a86fc3430821f57f16c0c8b000acf401}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{What is a use case}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.figma.com/resource-library/what-is-a-use-case/
+      \endverb
+      \verb{url}
+      \verb https://www.figma.com/resource-library/what-is-a-use-case/
+      \endverb
+    \endentry
+    \entry{samplewebs29}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=85a4018604e2122a6ff1f32213351e3f}{%
+           family={github.com},
+           familyi={g\bibinitperiod}}}%
+      }
+      \strng{namehash}{85a4018604e2122a6ff1f32213351e3f}
+      \strng{fullhash}{85a4018604e2122a6ff1f32213351e3f}
+      \strng{fullhashraw}{85a4018604e2122a6ff1f32213351e3f}
+      \strng{bibnamehash}{85a4018604e2122a6ff1f32213351e3f}
+      \strng{authorbibnamehash}{85a4018604e2122a6ff1f32213351e3f}
+      \strng{authornamehash}{85a4018604e2122a6ff1f32213351e3f}
+      \strng{authorfullhash}{85a4018604e2122a6ff1f32213351e3f}
+      \strng{authorfullhashraw}{85a4018604e2122a6ff1f32213351e3f}
+      \field{sortinit}{g}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{About GitHub and Git}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://docs.github.com/en/get-started/start-your-journey/about-github-and-git
+      \endverb
+      \verb{url}
+      \verb https://docs.github.com/en/get-started/start-your-journey/about-github-and-git
+      \endverb
+    \endentry
+    \entry{samplewebs2}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=534c3f537418e687b1f1c42ad13bc520}{%
+           family={Iqbal},
+           familyi={I\bibinitperiod},
+           given={Marry},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{534c3f537418e687b1f1c42ad13bc520}
+      \strng{fullhash}{534c3f537418e687b1f1c42ad13bc520}
+      \strng{fullhashraw}{534c3f537418e687b1f1c42ad13bc520}
+      \strng{bibnamehash}{534c3f537418e687b1f1c42ad13bc520}
+      \strng{authorbibnamehash}{534c3f537418e687b1f1c42ad13bc520}
+      \strng{authornamehash}{534c3f537418e687b1f1c42ad13bc520}
+      \strng{authorfullhash}{534c3f537418e687b1f1c42ad13bc520}
+      \strng{authorfullhashraw}{534c3f537418e687b1f1c42ad13bc520}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté en March 2025}
+      \field{title}{Why is Scrum the Most Popular Agile framework}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework
+      \endverb
+      \verb{url}
+      \verb https://www.scrum.org/resources/blog/why-scrum-most-popular-agile-framework
+      \endverb
+    \endentry
+    \entry{samplewebs22}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c5e9b2f909f893e132c61c3acc6ac132}{%
+           family={jwt.io},
+           familyi={j\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5e9b2f909f893e132c61c3acc6ac132}
+      \strng{fullhash}{c5e9b2f909f893e132c61c3acc6ac132}
+      \strng{fullhashraw}{c5e9b2f909f893e132c61c3acc6ac132}
+      \strng{bibnamehash}{c5e9b2f909f893e132c61c3acc6ac132}
+      \strng{authorbibnamehash}{c5e9b2f909f893e132c61c3acc6ac132}
+      \strng{authornamehash}{c5e9b2f909f893e132c61c3acc6ac132}
+      \strng{authorfullhash}{c5e9b2f909f893e132c61c3acc6ac132}
+      \strng{authorfullhashraw}{c5e9b2f909f893e132c61c3acc6ac132}
+      \field{sortinit}{j}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{What is JSON Web Token?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://jwt.io/introduction
+      \endverb
+      \verb{url}
+      \verb https://jwt.io/introduction
+      \endverb
+    \endentry
+    \entry{samplewebs15}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8a00fa9f783b5fb1966ac850188795d4}{%
+           family={microsoft.com},
+           familyi={m\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a00fa9f783b5fb1966ac850188795d4}
+      \strng{fullhash}{8a00fa9f783b5fb1966ac850188795d4}
+      \strng{fullhashraw}{8a00fa9f783b5fb1966ac850188795d4}
+      \strng{bibnamehash}{8a00fa9f783b5fb1966ac850188795d4}
+      \strng{authorbibnamehash}{8a00fa9f783b5fb1966ac850188795d4}
+      \strng{authornamehash}{8a00fa9f783b5fb1966ac850188795d4}
+      \strng{authorfullhash}{8a00fa9f783b5fb1966ac850188795d4}
+      \strng{authorfullhashraw}{8a00fa9f783b5fb1966ac850188795d4}
+      \field{sortinit}{m}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{Meet the Visual Studio family}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://visualstudio.microsoft.com
+      \endverb
+      \verb{url}
+      \verb https://visualstudio.microsoft.com
+      \endverb
+    \endentry
+    \entry{samplewebs26}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=17159d1a84979a52b92fc9e697fdf8d2}{%
+           family={mozilla.org},
+           familyi={m\bibinitperiod}}}%
+      }
+      \strng{namehash}{17159d1a84979a52b92fc9e697fdf8d2}
+      \strng{fullhash}{17159d1a84979a52b92fc9e697fdf8d2}
+      \strng{fullhashraw}{17159d1a84979a52b92fc9e697fdf8d2}
+      \strng{bibnamehash}{17159d1a84979a52b92fc9e697fdf8d2}
+      \strng{authorbibnamehash}{17159d1a84979a52b92fc9e697fdf8d2}
+      \strng{authornamehash}{17159d1a84979a52b92fc9e697fdf8d2}
+      \strng{authorfullhash}{17159d1a84979a52b92fc9e697fdf8d2}
+      \strng{authorfullhashraw}{17159d1a84979a52b92fc9e697fdf8d2}
+      \field{sortinit}{m}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{UUID}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/en-US/docs/Glossary/UUID
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/en-US/docs/Glossary/UUID
+      \endverb
+    \endentry
+    \entry{samplewebs18}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=e1e1989ad85e5ae20cf0813fa39a294a}{%
+           family={nodejs.org},
+           familyi={n\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1e1989ad85e5ae20cf0813fa39a294a}
+      \strng{fullhash}{e1e1989ad85e5ae20cf0813fa39a294a}
+      \strng{fullhashraw}{e1e1989ad85e5ae20cf0813fa39a294a}
+      \strng{bibnamehash}{e1e1989ad85e5ae20cf0813fa39a294a}
+      \strng{authorbibnamehash}{e1e1989ad85e5ae20cf0813fa39a294a}
+      \strng{authornamehash}{e1e1989ad85e5ae20cf0813fa39a294a}
+      \strng{authorfullhash}{e1e1989ad85e5ae20cf0813fa39a294a}
+      \strng{authorfullhashraw}{e1e1989ad85e5ae20cf0813fa39a294a}
+      \field{sortinit}{n}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{Run JavaScript Everywhere}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://nodejs.org/en
+      \endverb
+      \verb{url}
+      \verb https://nodejs.org/en
+      \endverb
+    \endentry
+    \entry{samplewebs13}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=36f4195ea36a74ae75854754d1ab4fde}{%
+           family={oracle.com},
+           familyi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{36f4195ea36a74ae75854754d1ab4fde}
+      \strng{fullhash}{36f4195ea36a74ae75854754d1ab4fde}
+      \strng{fullhashraw}{36f4195ea36a74ae75854754d1ab4fde}
+      \strng{bibnamehash}{36f4195ea36a74ae75854754d1ab4fde}
+      \strng{authorbibnamehash}{36f4195ea36a74ae75854754d1ab4fde}
+      \strng{authornamehash}{36f4195ea36a74ae75854754d1ab4fde}
+      \strng{authorfullhash}{36f4195ea36a74ae75854754d1ab4fde}
+      \strng{authorfullhashraw}{36f4195ea36a74ae75854754d1ab4fde}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{SQL Developer}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.oracle.com/database/sqldeveloper/
+      \endverb
+      \verb{url}
+      \verb https://www.oracle.com/database/sqldeveloper/
+      \endverb
+    \endentry
+    \entry{samplewebs3}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a2a93e83e8b4050f5b1ff18289b2fab2}{%
+           family={Paradigm},
+           familyi={P\bibinitperiod},
+           given={Visual},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2a93e83e8b4050f5b1ff18289b2fab2}
+      \strng{fullhash}{a2a93e83e8b4050f5b1ff18289b2fab2}
+      \strng{fullhashraw}{a2a93e83e8b4050f5b1ff18289b2fab2}
+      \strng{bibnamehash}{a2a93e83e8b4050f5b1ff18289b2fab2}
+      \strng{authorbibnamehash}{a2a93e83e8b4050f5b1ff18289b2fab2}
+      \strng{authornamehash}{a2a93e83e8b4050f5b1ff18289b2fab2}
+      \strng{authorfullhash}{a2a93e83e8b4050f5b1ff18289b2fab2}
+      \strng{authorfullhashraw}{a2a93e83e8b4050f5b1ff18289b2fab2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{What is Unified Modeling Language (UML)}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/
+      \endverb
+      \verb{url}
+      \verb https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/
+      \endverb
+    \endentry
+    \entry{samplewebs12}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=042e36ceb8b18c859ad6ec0dadfda38e}{%
+           family={postman.com},
+           familyi={p\bibinitperiod}}}%
+      }
+      \strng{namehash}{042e36ceb8b18c859ad6ec0dadfda38e}
+      \strng{fullhash}{042e36ceb8b18c859ad6ec0dadfda38e}
+      \strng{fullhashraw}{042e36ceb8b18c859ad6ec0dadfda38e}
+      \strng{bibnamehash}{042e36ceb8b18c859ad6ec0dadfda38e}
+      \strng{authorbibnamehash}{042e36ceb8b18c859ad6ec0dadfda38e}
+      \strng{authornamehash}{042e36ceb8b18c859ad6ec0dadfda38e}
+      \strng{authorfullhash}{042e36ceb8b18c859ad6ec0dadfda38e}
+      \strng{authorfullhashraw}{042e36ceb8b18c859ad6ec0dadfda38e}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{Your Complete API Platform, From Design to Delivery}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.postman.com
+      \endverb
+      \verb{url}
+      \verb https://www.postman.com
+      \endverb
+    \endentry
+    \entry{samplewebs16}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=61d7c2d0c2cc3e39b96dc0c7e2457771}{%
+           family={react.dev},
+           familyi={r\bibinitperiod}}}%
+      }
+      \strng{namehash}{61d7c2d0c2cc3e39b96dc0c7e2457771}
+      \strng{fullhash}{61d7c2d0c2cc3e39b96dc0c7e2457771}
+      \strng{fullhashraw}{61d7c2d0c2cc3e39b96dc0c7e2457771}
+      \strng{bibnamehash}{61d7c2d0c2cc3e39b96dc0c7e2457771}
+      \strng{authorbibnamehash}{61d7c2d0c2cc3e39b96dc0c7e2457771}
+      \strng{authornamehash}{61d7c2d0c2cc3e39b96dc0c7e2457771}
+      \strng{authorfullhash}{61d7c2d0c2cc3e39b96dc0c7e2457771}
+      \strng{authorfullhashraw}{61d7c2d0c2cc3e39b96dc0c7e2457771}
+      \field{sortinit}{r}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{React,The library for web and native user interfaces}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://react.dev
+      \endverb
+      \verb{url}
+      \verb https://react.dev
+      \endverb
+    \endentry
+    \entry{samplewebs21}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=722fe4a83c0af109b0a18c11b5d7fd4b}{%
+           family={redis.io},
+           familyi={r\bibinitperiod}}}%
+      }
+      \strng{namehash}{722fe4a83c0af109b0a18c11b5d7fd4b}
+      \strng{fullhash}{722fe4a83c0af109b0a18c11b5d7fd4b}
+      \strng{fullhashraw}{722fe4a83c0af109b0a18c11b5d7fd4b}
+      \strng{bibnamehash}{722fe4a83c0af109b0a18c11b5d7fd4b}
+      \strng{authorbibnamehash}{722fe4a83c0af109b0a18c11b5d7fd4b}
+      \strng{authornamehash}{722fe4a83c0af109b0a18c11b5d7fd4b}
+      \strng{authorfullhash}{722fe4a83c0af109b0a18c11b5d7fd4b}
+      \strng{authorfullhashraw}{722fe4a83c0af109b0a18c11b5d7fd4b}
+      \field{sortinit}{r}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{About Redis}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://redis.io
+      \endverb
+      \verb{url}
+      \verb https://redis.io
+      \endverb
+    \endentry
+    \entry{somebook}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=2e44e3517d7c279fb135a104cefeb0d2}{%
+           family={Rosenzweig},
+           familyi={R\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Morgan Kaufmann}%
+      }
+      \strng{namehash}{2e44e3517d7c279fb135a104cefeb0d2}
+      \strng{fullhash}{2e44e3517d7c279fb135a104cefeb0d2}
+      \strng{fullhashraw}{2e44e3517d7c279fb135a104cefeb0d2}
+      \strng{bibnamehash}{2e44e3517d7c279fb135a104cefeb0d2}
+      \strng{authorbibnamehash}{2e44e3517d7c279fb135a104cefeb0d2}
+      \strng{authornamehash}{2e44e3517d7c279fb135a104cefeb0d2}
+      \strng{authorfullhash}{2e44e3517d7c279fb135a104cefeb0d2}
+      \strng{authorfullhashraw}{2e44e3517d7c279fb135a104cefeb0d2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Successful User Experience}
+      \field{year}{2015}
+    \endentry
+    \entry{samplewebs14}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f17f0385ca85fa1cba369cf788e337a6}{%
+           family={solarwinds.com},
+           familyi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{f17f0385ca85fa1cba369cf788e337a6}
+      \strng{fullhash}{f17f0385ca85fa1cba369cf788e337a6}
+      \strng{fullhashraw}{f17f0385ca85fa1cba369cf788e337a6}
+      \strng{bibnamehash}{f17f0385ca85fa1cba369cf788e337a6}
+      \strng{authorbibnamehash}{f17f0385ca85fa1cba369cf788e337a6}
+      \strng{authornamehash}{f17f0385ca85fa1cba369cf788e337a6}
+      \strng{authorfullhash}{f17f0385ca85fa1cba369cf788e337a6}
+      \strng{authorfullhashraw}{f17f0385ca85fa1cba369cf788e337a6}
+      \field{sortinit}{s}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{What Is an Oracle Database?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.solarwinds.com/resources/it-glossary/oracle-database
+      \endverb
+      \verb{url}
+      \verb https://www.solarwinds.com/resources/it-glossary/oracle-database
+      \endverb
+    \endentry
+    \entry{samplewebs7}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=154210b19b5b63e6ca6145fe99179045}{%
+           family={Stardust},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{154210b19b5b63e6ca6145fe99179045}
+      \strng{fullhash}{154210b19b5b63e6ca6145fe99179045}
+      \strng{fullhashraw}{154210b19b5b63e6ca6145fe99179045}
+      \strng{bibnamehash}{154210b19b5b63e6ca6145fe99179045}
+      \strng{authorbibnamehash}{154210b19b5b63e6ca6145fe99179045}
+      \strng{authornamehash}{154210b19b5b63e6ca6145fe99179045}
+      \strng{authorfullhash}{154210b19b5b63e6ca6145fe99179045}
+      \strng{authorfullhashraw}{154210b19b5b63e6ca6145fe99179045}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{Le test dans un projet agile}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www2.stardust-testing.com/blog-fr/le-test-dans-un-projet-agile
+      \endverb
+      \verb{url}
+      \verb https://www2.stardust-testing.com/blog-fr/le-test-dans-un-projet-agile
+      \endverb
+    \endentry
+    \entry{samplewebs19}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=75387e62562e76f133af5bd6286485f2}{%
+           family={tailwindcss.com},
+           familyi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{75387e62562e76f133af5bd6286485f2}
+      \strng{fullhash}{75387e62562e76f133af5bd6286485f2}
+      \strng{fullhashraw}{75387e62562e76f133af5bd6286485f2}
+      \strng{bibnamehash}{75387e62562e76f133af5bd6286485f2}
+      \strng{authorbibnamehash}{75387e62562e76f133af5bd6286485f2}
+      \strng{authornamehash}{75387e62562e76f133af5bd6286485f2}
+      \strng{authorfullhash}{75387e62562e76f133af5bd6286485f2}
+      \strng{authorfullhashraw}{75387e62562e76f133af5bd6286485f2}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in April 2025}
+      \field{title}{Rapidly build modern websites without ever leaving your HTML.}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://tailwindcss.com
+      \endverb
+      \verb{url}
+      \verb https://tailwindcss.com
+      \endverb
+    \endentry
+    \entry{samplewebs24}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=2224d98fb6c0f850473a88e0ae8515d7}{%
+           family={Thevapalan},
+           familyi={T\bibinitperiod},
+           given={Arunn},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2224d98fb6c0f850473a88e0ae8515d7}
+      \strng{fullhash}{2224d98fb6c0f850473a88e0ae8515d7}
+      \strng{fullhashraw}{2224d98fb6c0f850473a88e0ae8515d7}
+      \strng{bibnamehash}{2224d98fb6c0f850473a88e0ae8515d7}
+      \strng{authorbibnamehash}{2224d98fb6c0f850473a88e0ae8515d7}
+      \strng{authornamehash}{2224d98fb6c0f850473a88e0ae8515d7}
+      \strng{authorfullhash}{2224d98fb6c0f850473a88e0ae8515d7}
+      \strng{authorfullhashraw}{2224d98fb6c0f850473a88e0ae8515d7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{A Beginner's Guide to The OpenAI API: Hands-On Tutorial and Best Practices}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.datacamp.com/tutorial/guide-to-openai-api-on-tutorial-best-practices
+      \endverb
+      \verb{url}
+      \verb https://www.datacamp.com/tutorial/guide-to-openai-api-on-tutorial-best-practices
+      \endverb
+    \endentry
+    \entry{samplewebs23}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a46bd31f8cbbb0913fbda3b3aae37b9a}{%
+           family={world.siteground.com},
+           familyi={w\bibinitperiod}}}%
+      }
+      \strng{namehash}{a46bd31f8cbbb0913fbda3b3aae37b9a}
+      \strng{fullhash}{a46bd31f8cbbb0913fbda3b3aae37b9a}
+      \strng{fullhashraw}{a46bd31f8cbbb0913fbda3b3aae37b9a}
+      \strng{bibnamehash}{a46bd31f8cbbb0913fbda3b3aae37b9a}
+      \strng{authorbibnamehash}{a46bd31f8cbbb0913fbda3b3aae37b9a}
+      \strng{authornamehash}{a46bd31f8cbbb0913fbda3b3aae37b9a}
+      \strng{authorfullhash}{a46bd31f8cbbb0913fbda3b3aae37b9a}
+      \strng{authorfullhashraw}{a46bd31f8cbbb0913fbda3b3aae37b9a}
+      \field{sortinit}{w}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Visited in Mai 2025}
+      \field{title}{What Is Gmail SMTP and How to Use Gmail With My Domain?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://world.siteground.com/kb/gmail-smtp-server/#What_is_SMTP
+      \endverb
+      \verb{url}
+      \verb https://world.siteground.com/kb/gmail-smtp-server/#What_is_SMTP
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,150 @@
+\documentclass[a4paper,11pt]{report}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{biblatex}
+\addbibresource{references.bib}
+\usepackage{tikz}
+\usepackage{setspace}
+\usepackage{microtype}
+\usepackage[nottoc]{tocbibind}
+\usepackage{background} % For page borders
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{array} 
+\usepackage{placeins}
+\usepackage{wrapfig}  % For wrapping text around figures
+\usepackage{lipsum}
+\usepackage[export]{adjustbox}
+
+\usepackage[table]{xcolor}
+\usepackage{colortbl}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{headerblue}{RGB}{0,102,204}
+\definecolor{rowgray}{gray}{0.95}
+\definecolor{white}{RGB}{255,255,255}
+
+% Declare categories
+\DeclareBibliographyCategory{print}
+\DeclareBibliographyCategory{online}
+
+% Assign entries to each category
+\addtocategory{print}{somebook}
+\addtocategory{online}{samplewebsite}
+
+% === Page Layout ===
+\geometry{
+  a4paper,
+  left=2.5cm,    % Larger left margin for binding
+  right=2.5cm,
+  top=2.5cm,
+  bottom=2.5cm,
+  bindingoffset=1cm  % Extra space for spiral binding
+}
+
+
+
+% === Adjusted Page Border ===
+\definecolor{myblue}{RGB}{0,100,200}
+\backgroundsetup{
+  scale=1,
+  angle=0,
+  opacity=1,
+  contents={\begin{tikzpicture}[remember picture,overlay]
+    \draw[line width=1pt,blue]  % Increased thickness
+      ([xshift=15mm,yshift=10mm]current page.south west) 
+      rectangle 
+      ([xshift=-10mm,yshift=-10mm]current page.north east);
+  \end{tikzpicture}}
+}
+% Customize chapter style to center on an empty page
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\centering}  % Centered, bold, and large font
+  {\chaptertitlename\ \thechapter}  % "Chapter X"
+  {20pt}  % Space between "Chapter X" and title
+  {\Huge}  % Title itself in Huge font
+
+% Adjust spacing: push the title to the vertical center
+\titlespacing*{\chapter}{0pt}{\fill}{\fill}
+
+
+% === Line Spacing ===
+\onehalfspacing  % 1.5 line spacing (better than double for readability)
+
+% === Page Numbering ===
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\begin{document}
+% === Title Page (No Border/Number) ===
+\begingroup
+\thispagestyle{empty}
+\backgroundsetup{contents={}} % Disable border for title page
+\input{chapitres/pageDeGarde}
+\clearpage
+\endgroup
+
+% Dedication Pages
+\input{chapitres/Dedication}  
+\clearpage  
+\input{chapitres/Dedication2}  
+\clearpage  
+
+% Acknowledgments
+\input{chapitres/Acknowledgments}  
+\clearpage  
+
+% === Tables ===
+\tableofcontents  
+\clearpage  
+\listoffigures  
+\clearpage  
+\listoftables  
+\clearpage  
+
+% === Main Content (Arabic Numbers) ===
+\pagenumbering{arabic}
+
+% Introduction
+\input{chapitres/Introduction}  
+\clearpage  
+
+% Chapters
+\input{chapitres/chapitre1}  
+\clearpage  
+\input{chapitres/chapitre2}  
+\clearpage 
+\input{chapitres/chapitre3}
+\clearpage
+\input{chapitres/chapitre4}
+\clearpage
+\input{chapitres/chapitre5}
+\clearpage
+\input{chapitres/chapitre6}
+\clearpage
+\input{chapitres/Conclusion}
+\clearpage
+
+% === Bibliography ===
+\newpage
+\phantomsection
+\addcontentsline{toc}{chapter}{Bibliographie}
+\printbibliography[title=Bibliographie, nottype=online]
+
+% === Webography ===
+\newpage
+\phantomsection
+\addcontentsline{toc}{chapter}{Webographie}
+\printbibliography[title=Webographie, type=online]
+
+
+\end{document}
