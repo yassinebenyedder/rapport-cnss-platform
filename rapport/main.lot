@@ -1,66 +1,66 @@
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces Principles of Agile and Scrum}}{16}{table.1.1}%
+\contentsline {table}{\numberline {1.1}{\ignorespaces Principles of Agile and Scrum}}{17}{table.1.1}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{Product Backlog Table}}{35}{table.2.1}%
+\contentsline {table}{\numberline {2.1}{Product Backlog Table}}{36}{table.2.1}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{Product Backlog of Sprint 1.}}{44}{table.3.1}%
-\contentsline {table}{\numberline {3.2}{\ignorespaces Use Case: Authenticate}}{52}{table.3.2}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces Use Case: Submit a service request}}{54}{table.3.3}%
-\contentsline {table}{\numberline {3.4}{\ignorespaces Use Case: Display Profile page}}{56}{table.3.4}%
-\contentsline {table}{\numberline {3.5}{\ignorespaces Use Case: Update Profile}}{58}{table.3.5}%
-\contentsline {table}{\numberline {3.6}{\ignorespaces Use Case: Update Password}}{60}{table.3.6}%
-\contentsline {table}{\numberline {3.7}{\ignorespaces Use Case: Display submission details}}{62}{table.3.7}%
-\contentsline {table}{\numberline {3.8}{\ignorespaces Use Case: Refuse Submission}}{64}{table.3.8}%
-\contentsline {table}{\numberline {3.9}{\ignorespaces Use Case: Escalate Submission to a Higher Authority}}{66}{table.3.9}%
-\contentsline {table}{\numberline {3.10}{\ignorespaces Use Case: Create Internal Stakeholders}}{69}{table.3.10}%
-\contentsline {table}{\numberline {3.11}{\ignorespaces Use Case: Delete an Internal Stakeholder}}{71}{table.3.11}%
-\contentsline {table}{\numberline {3.12}{\ignorespaces Use Case: Assign an Internal Stakeholder to another}}{73}{table.3.12}%
-\contentsline {table}{\numberline {3.13}{\ignorespaces Use Case: Create a New Form}}{76}{table.3.13}%
-\contentsline {table}{\numberline {3.14}{\ignorespaces Use Case: Disable/Enable a Form}}{78}{table.3.14}%
-\contentsline {table}{\numberline {3.15}{\ignorespaces Table \texttt {CHARGERDEDOSSIER}}}{91}{table.3.15}%
-\contentsline {table}{\numberline {3.16}{\ignorespaces Table \texttt {ResponsableDirection}}}{92}{table.3.16}%
-\contentsline {table}{\numberline {3.17}{\ignorespaces Table \texttt {AgentDirection}}}{92}{table.3.17}%
-\contentsline {table}{\numberline {3.18}{\ignorespaces Table \texttt {DirectionCentrale}}}{92}{table.3.18}%
-\contentsline {table}{\numberline {3.19}{\ignorespaces Table \texttt {Submission}}}{93}{table.3.19}%
-\contentsline {table}{\numberline {3.20}{\ignorespaces Table \texttt {Form}}}{93}{table.3.20}%
-\contentsline {table}{\numberline {3.21}{\ignorespaces Table \texttt {Review}}}{93}{table.3.21}%
-\contentsline {table}{\numberline {3.22}{\ignorespaces Table \texttt {Assure}}}{94}{table.3.22}%
-\contentsline {table}{\numberline {3.23}{\ignorespaces Table \texttt {Employeur}}}{94}{table.3.23}%
-\contentsline {table}{\numberline {3.24}{\ignorespaces Burndown Chart Table for Sprint 1 (20 Days)}}{106}{table.3.24}%
+\contentsline {table}{\numberline {3.1}{Product Backlog of Sprint 1.}}{45}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Use Case: Authenticate}}{53}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Use Case: Submit a service request}}{55}{table.3.3}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Use Case: Display Profile page}}{57}{table.3.4}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Use Case: Update Profile}}{59}{table.3.5}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Use Case: Update Password}}{61}{table.3.6}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Use Case: Display submission details}}{63}{table.3.7}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces Use Case: Refuse Submission}}{65}{table.3.8}%
+\contentsline {table}{\numberline {3.9}{\ignorespaces Use Case: Escalate Submission to a Higher Authority}}{67}{table.3.9}%
+\contentsline {table}{\numberline {3.10}{\ignorespaces Use Case: Create Internal Stakeholders}}{70}{table.3.10}%
+\contentsline {table}{\numberline {3.11}{\ignorespaces Use Case: Delete an Internal Stakeholder}}{72}{table.3.11}%
+\contentsline {table}{\numberline {3.12}{\ignorespaces Use Case: Assign an Internal Stakeholder to another}}{74}{table.3.12}%
+\contentsline {table}{\numberline {3.13}{\ignorespaces Use Case: Create a New Form}}{77}{table.3.13}%
+\contentsline {table}{\numberline {3.14}{\ignorespaces Use Case: Disable/Enable a Form}}{79}{table.3.14}%
+\contentsline {table}{\numberline {3.15}{\ignorespaces Table \texttt {CHARGERDEDOSSIER}}}{92}{table.3.15}%
+\contentsline {table}{\numberline {3.16}{\ignorespaces Table \texttt {ResponsableDirection}}}{93}{table.3.16}%
+\contentsline {table}{\numberline {3.17}{\ignorespaces Table \texttt {AgentDirection}}}{93}{table.3.17}%
+\contentsline {table}{\numberline {3.18}{\ignorespaces Table \texttt {DirectionCentrale}}}{93}{table.3.18}%
+\contentsline {table}{\numberline {3.19}{\ignorespaces Table \texttt {Submission}}}{94}{table.3.19}%
+\contentsline {table}{\numberline {3.20}{\ignorespaces Table \texttt {Form}}}{94}{table.3.20}%
+\contentsline {table}{\numberline {3.21}{\ignorespaces Table \texttt {Review}}}{94}{table.3.21}%
+\contentsline {table}{\numberline {3.22}{\ignorespaces Table \texttt {Assure}}}{95}{table.3.22}%
+\contentsline {table}{\numberline {3.23}{\ignorespaces Table \texttt {Employeur}}}{95}{table.3.23}%
+\contentsline {table}{\numberline {3.24}{\ignorespaces Burndown Chart Table for Sprint 1 (20 Days)}}{107}{table.3.24}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{Product Backlog of Sprint 2.}}{112}{table.4.1}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces Use Case: Track Submission Status}}{117}{table.4.2}%
-\contentsline {table}{\numberline {4.3}{\ignorespaces Use Case: Consult the Notifications}}{118}{table.4.3}%
-\contentsline {table}{\numberline {4.4}{\ignorespaces Use Case: Supervise Assigned File Managers}}{118}{table.4.4}%
-\contentsline {table}{\numberline {4.5}{\ignorespaces Use Case: Track Submissions Workflows History}}{119}{table.4.5}%
-\contentsline {table}{\numberline {4.6}{\ignorespaces Use Case: Consult Global Statistics}}{121}{table.4.6}%
-\contentsline {table}{\numberline {4.7}{\ignorespaces Table \texttt {CHARGERDEDOSSIER}}}{131}{table.4.7}%
-\contentsline {table}{\numberline {4.8}{\ignorespaces Table \texttt {ResponsableDirection}}}{131}{table.4.8}%
-\contentsline {table}{\numberline {4.9}{\ignorespaces Table \texttt {AgentDirection}}}{132}{table.4.9}%
-\contentsline {table}{\numberline {4.10}{\ignorespaces Table \texttt {DirectionCentrale}}}{132}{table.4.10}%
-\contentsline {table}{\numberline {4.11}{\ignorespaces Table \texttt {Submission}}}{132}{table.4.11}%
-\contentsline {table}{\numberline {4.12}{\ignorespaces Table "NOTIFICATION"}}{133}{table.4.12}%
-\contentsline {table}{\numberline {4.13}{\ignorespaces Table \texttt {Review}}}{133}{table.4.13}%
-\contentsline {table}{\numberline {4.14}{\ignorespaces Table \texttt {Assure}}}{133}{table.4.14}%
-\contentsline {table}{\numberline {4.15}{\ignorespaces Table \texttt {Employeur}}}{134}{table.4.15}%
-\contentsline {table}{\numberline {4.16}{\ignorespaces Tableau de valeurs de Burndown Chart du sprint 2}}{142}{table.4.16}%
+\contentsline {table}{\numberline {4.1}{Product Backlog of Sprint 2.}}{113}{table.4.1}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Use Case: Track Submission Status}}{118}{table.4.2}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Use Case: Consult the Notifications}}{119}{table.4.3}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Use Case: Supervise Assigned File Managers}}{119}{table.4.4}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Use Case: Track Submissions Workflows History}}{120}{table.4.5}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Use Case: Consult Global Statistics}}{122}{table.4.6}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Table \texttt {CHARGERDEDOSSIER}}}{132}{table.4.7}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Table \texttt {ResponsableDirection}}}{132}{table.4.8}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Table \texttt {AgentDirection}}}{133}{table.4.9}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Table \texttt {DirectionCentrale}}}{133}{table.4.10}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces Table \texttt {Submission}}}{133}{table.4.11}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces Table "NOTIFICATION"}}{134}{table.4.12}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces Table \texttt {Review}}}{134}{table.4.13}%
+\contentsline {table}{\numberline {4.14}{\ignorespaces Table \texttt {Assure}}}{134}{table.4.14}%
+\contentsline {table}{\numberline {4.15}{\ignorespaces Table \texttt {Employeur}}}{135}{table.4.15}%
+\contentsline {table}{\numberline {4.16}{\ignorespaces Tableau de valeurs de Burndown Chart du sprint 2}}{143}{table.4.16}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{Product Backlog for Sprint 3}}{147}{table.5.1}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces Use Case: See the news}}{152}{table.5.2}%
-\contentsline {table}{\numberline {5.3}{\ignorespaces Use Case: Receive emails about my submissions}}{153}{table.5.3}%
-\contentsline {table}{\numberline {5.4}{\ignorespaces Use Case: Reset forgotten password}}{155}{table.5.4}%
-\contentsline {table}{\numberline {5.5}{\ignorespaces Use Case: Create a news}}{157}{table.5.5}%
-\contentsline {table}{\numberline {5.6}{\ignorespaces Use Case: Update a news}}{159}{table.5.6}%
-\contentsline {table}{\numberline {5.7}{\ignorespaces Use Case: Delete a news}}{161}{table.5.7}%
-\contentsline {table}{\numberline {5.8}{\ignorespaces Use Case: Validate national identity documents}}{163}{table.5.8}%
-\contentsline {table}{\numberline {5.9}{\ignorespaces Table \texttt {VERIFICATION\_CODES}}}{170}{table.5.9}%
-\contentsline {table}{\numberline {5.10}{\ignorespaces Table \texttt {Submission}}}{171}{table.5.10}%
-\contentsline {table}{\numberline {5.11}{\ignorespaces Table \texttt {DIRECTIONCENTRALE}}}{171}{table.5.11}%
-\contentsline {table}{\numberline {5.12}{\ignorespaces Table \texttt {Assure}}}{172}{table.5.12}%
-\contentsline {table}{\numberline {5.13}{\ignorespaces Table \texttt {Employeur}}}{172}{table.5.13}%
-\contentsline {table}{\numberline {5.14}{\ignorespaces Table \texttt {NEWS}}}{172}{table.5.14}%
-\contentsline {table}{\numberline {5.15}{\ignorespaces Table \texttt {Form}}}{173}{table.5.15}%
-\contentsline {table}{\numberline {5.16}{\ignorespaces Burndown Chart Table for Sprint 3 (20 Days)}}{183}{table.5.16}%
+\contentsline {table}{\numberline {5.1}{Product Backlog for Sprint 3}}{148}{table.5.1}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Use Case: See the news}}{153}{table.5.2}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Use Case: Receive emails about my submissions}}{154}{table.5.3}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Use Case: Reset forgotten password}}{156}{table.5.4}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces Use Case: Create a news}}{158}{table.5.5}%
+\contentsline {table}{\numberline {5.6}{\ignorespaces Use Case: Update a news}}{160}{table.5.6}%
+\contentsline {table}{\numberline {5.7}{\ignorespaces Use Case: Delete a news}}{162}{table.5.7}%
+\contentsline {table}{\numberline {5.8}{\ignorespaces Use Case: Validate national identity documents}}{164}{table.5.8}%
+\contentsline {table}{\numberline {5.9}{\ignorespaces Table \texttt {VERIFICATION\_CODES}}}{171}{table.5.9}%
+\contentsline {table}{\numberline {5.10}{\ignorespaces Table \texttt {Submission}}}{172}{table.5.10}%
+\contentsline {table}{\numberline {5.11}{\ignorespaces Table \texttt {DIRECTIONCENTRALE}}}{172}{table.5.11}%
+\contentsline {table}{\numberline {5.12}{\ignorespaces Table \texttt {Assure}}}{173}{table.5.12}%
+\contentsline {table}{\numberline {5.13}{\ignorespaces Table \texttt {Employeur}}}{173}{table.5.13}%
+\contentsline {table}{\numberline {5.14}{\ignorespaces Table \texttt {NEWS}}}{173}{table.5.14}%
+\contentsline {table}{\numberline {5.15}{\ignorespaces Table \texttt {Form}}}{174}{table.5.15}%
+\contentsline {table}{\numberline {5.16}{\ignorespaces Burndown Chart Table for Sprint 3 (20 Days)}}{184}{table.5.16}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Hardware Environment}}{186}{table.6.1}%
-\contentsline {table}{\numberline {6.2}{\ignorespaces Task Allocation Table — Project Schedule (2025)}}{195}{table.6.2}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces Hardware Environment}}{187}{table.6.1}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Task Allocation Table — Project Schedule (2025)}}{196}{table.6.2}%
