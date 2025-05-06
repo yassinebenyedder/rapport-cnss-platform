@@ -1,0 +1,46 @@
+\chapter*{Declaration on the Use of Generative Artificial Intelligence}
+
+\vspace{0.5cm}
+We hereby affirm having utilized generative artificial intelligence (GAI) tools in a limited 
+and responsible way while working on this project:
+
+\vspace{0.3cm}
+\begin{enumerate}
+    \item \textbf{Text reformulation and punctuation correction}: We used "ChatGPT" to rephrase and polish some sections of the report,
+    namely to enhance clarity, punctuation, and stylistic consistency. All content produced was derived from our original work and was thoroughly 
+    checked and, where needed, altered to guarantee its accuracy and originality.
+    
+    \vspace{0.2cm}
+    \item \textbf{Code debugging and optimization}: We used "Claud 3.5" and "DeepSeek" as development assistants to identify potential bugs and suggest enhancements to the design and logic of our code. 
+    All suggestions provided by these tools were thoroughly checked and adjusted to meet the specific needs of our application.
+    
+    \vspace{0.2cm}
+    \item \textbf{Technical translation assistance}: ChatGPT was also used to translate specific technical terms or short phrases between French and English, in order to ensure accurate terminology
+    within the report.
+\end{enumerate}
+
+\vspace{0.4cm}
+\par These GAI tools were used strictly as only support technologies to enhance the clarity, quality, and functionality of our work.
+When it comes to core research, writing, and problem-solving processes they were certainly and entirely carried out and validated by us.
+
+\vspace{1cm}
+\begin{figure}[!htb]
+    \centering
+    \begin{minipage}[t]{0.32\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{figures/chatgpt.jpg}
+        \caption{ChatGPT}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.32\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{figures/deepseek.jpg}
+        \caption{DeepSeek}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.32\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{figures/claud3.5.png}
+        \caption{Claud 3.5}
+    \end{minipage}
+\end{figure}

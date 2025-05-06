@@ -1,6 +1,6 @@
-PWD c:\Users\Nourchene\Desktop\ver fin
+PWD c:\Users\Nourchene\Desktop\rapport\rapport
 INPUT C:\Users\Nourchene\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Nourchene\Desktop\ver fin\main.tex
+INPUT c:\Users\Nourchene\Desktop\rapport\rapport\main.tex
 OUTPUT main.log
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -273,6 +273,8 @@ INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3ke
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\adjustbox.sty
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\adjustbox.sty
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\adjcalc.sty
@@ -383,13 +385,41 @@ INPUT .\chapitres\Acknowledgments.tex
 INPUT .\chapitres\Acknowledgments.tex
 INPUT .\chapitres\Acknowledgments.tex
 INPUT chapitres\Acknowledgments.tex
+INPUT .\chapitres\IA Declaration
+INPUT .\chapitres\IA Declaration
+INPUT chapitres\IA Declaration
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
+INPUT .\figures\chatgpt.jpg
+INPUT .\figures\chatgpt.jpg
+INPUT .\figures\chatgpt.jpg
+INPUT .\figures\chatgpt.jpg
+INPUT .\figures\chatgpt.jpg
+INPUT .\figures\chatgpt.jpg
+INPUT .\figures\chatgpt.jpg
+INPUT .\figures\deepseek.jpg
+INPUT .\figures\deepseek.jpg
+INPUT .\figures\deepseek.jpg
+INPUT .\figures\deepseek.jpg
+INPUT .\figures\deepseek.jpg
+INPUT .\figures\deepseek.jpg
+INPUT .\figures\deepseek.jpg
+INPUT .\figures\claud3.5.png
+INPUT .\figures\claud3.5.png
+INPUT .\figures\claud3.5.png
+INPUT .\figures\claud3.5.png
+INPUT .\figures\claud3.5.png
+INPUT .\figures\claud3.5.png
+INPUT .\figures\claud3.5.png
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
-INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
@@ -401,10 +431,6 @@ INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
-INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
-INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
-INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 OUTPUT main.toc
 INPUT .\main.lof
 INPUT .\main.lof
@@ -460,13 +486,6 @@ INPUT .\figures\agile.jpg
 INPUT .\figures\agile.jpg
 INPUT .\figures\agile.jpg
 INPUT .\figures\agile.jpg
-INPUT .\figures\agileUmbrella.png
-INPUT .\figures\agileUmbrella.png
-INPUT .\figures\agileUmbrella.png
-INPUT .\figures\agileUmbrella.png
-INPUT .\figures\agileUmbrella.png
-INPUT .\figures\agileUmbrella.png
-INPUT .\figures\agileUmbrella.png
 INPUT .\figures\rugbystock.jpg
 INPUT .\figures\rugbystock.jpg
 INPUT .\figures\rugbystock.jpg
@@ -500,6 +519,8 @@ INPUT .\chapitres\chapitre2.tex
 INPUT .\chapitres\chapitre2.tex
 INPUT .\chapitres\chapitre2.tex
 INPUT chapitres\chapitre2.tex
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8c.tfm
+INPUT C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8c.vf
 INPUT .\figures\statdia.png
 INPUT .\figures\statdia.png
 INPUT .\figures\statdia.png

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.4)  4 MAY 2025 01:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.4)  6 MAY 2025 01:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Nourchene/Desktop/ver fin/main.tex"
-(c:/Users/Nourchene/Desktop/ver fin/main.tex
+**c:/Users/Nourchene/Desktop/rapport/rapport/main.tex
+(c:/Users/Nourchene/Desktop/rapport/rapport/main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
 (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -730,7 +730,76 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count444
 \l__lipsum_a_int=\count445
 \l__lipsum_b_int=\count446
- (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+ (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count447
+\mult@box=\box76
+\multicol@leftmargin=\dimen278
+\c@unbalance=\count448
+\c@collectmore=\count449
+\doublecol@number=\count450
+\multicoltolerance=\count451
+\multicolpretolerance=\count452
+\full@width=\dimen279
+\page@free=\dimen280
+\premulticols=\dimen281
+\postmulticols=\dimen282
+\multicolsep=\skip97
+\multicolbaselineskip=\skip98
+\partial@page=\box77
+\last@line=\box78
+\mc@boxedresult=\box79
+\maxbalancingoverflow=\dimen283
+\mult@rightbox=\box80
+\mult@grightbox=\box81
+\mult@firstbox=\box82
+\mult@gfirstbox=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\c@minrows=\count453
+\c@columnbadness=\count454
+\c@finalcolumnbadness=\count455
+\last@try=\dimen284
+\multicolovershoot=\dimen285
+\multicolundershoot=\dimen286
+\mult@nat@firstbox=\box120
+\colbreak@box=\box121
+\mc@col@check@num=\count456
+) (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
  (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
@@ -738,67 +807,67 @@ Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-
 Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
  (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box76
+\collectedbox=\box122
 )
-\tc@llx=\dimen278
-\tc@lly=\dimen279
-\tc@urx=\dimen280
-\tc@ury=\dimen281
+\tc@llx=\dimen287
+\tc@lly=\dimen288
+\tc@urx=\dimen289
+\tc@ury=\dimen290
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen282
-\adjbox@Height=\dimen283
-\adjbox@Depth=\dimen284
-\adjbox@Totalheight=\dimen285
-\adjbox@pwidth=\dimen286
-\adjbox@pheight=\dimen287
-\adjbox@pdepth=\dimen288
-\adjbox@ptotalheight=\dimen289
+\adjbox@Width=\dimen291
+\adjbox@Height=\dimen292
+\adjbox@Depth=\dimen293
+\adjbox@Totalheight=\dimen294
+\adjbox@pwidth=\dimen295
+\adjbox@pheight=\dimen296
+\adjbox@pdepth=\dimen297
+\adjbox@ptotalheight=\dimen298
  (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count447
+\c@checkoddpage=\count457
 ) (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box77
-\sift@deathcycles=\count448
-\@vwid@loff=\dimen290
-\@vwid@roff=\dimen291
+\@vwid@box=\box123
+\sift@deathcycles=\count458
+\@vwid@loff=\dimen299
+\@vwid@roff=\dimen300
 )) (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
 \everycr=\toks43
-\minrowclearance=\skip97
-\rownum=\count449
+\minrowclearance=\skip99
+\rownum=\count459
 ) (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-\@quotelevel=\count450
-\@quotereset=\count451
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 87.
+\@quotelevel=\count460
+\@quotereset=\count461
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 88.
  (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -837,16 +906,16 @@ LaTeX Font Info:    ... okay on input line 87.
 
 (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count452
-\scratchdimen=\dimen292
-\scratchbox=\box78
-\nofMPsegments=\count453
-\nofMParguments=\count454
+\scratchcounter=\count462
+\scratchdimen=\dimen301
+\scratchbox=\box124
+\nofMPsegments=\count463
+\nofMParguments=\count464
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count455
-\MPscratchDim=\dimen293
-\MPnumerator=\count456
-\makeMPintoPDFobject=\count457
+\MPscratchCnt=\count465
+\MPscratchDim=\dimen302
+\MPnumerator=\count466
+\makeMPintoPDFobject=\count467
 \everyMPtoPDFconversion=\toks45
 ) (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -867,25 +936,25 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 87.
-Package biblatex Info: Reference segment=0 on input line 87.
+Package biblatex Info: Reference section=0 on input line 88.
+Package biblatex Info: Reference segment=0 on input line 88.
 Package microtype Info: Patching varwidth to enable character protrusion.
-\MT@vwid@leftmargin=\dimen294
-\MT@vwid@rightmargin=\dimen295
-LaTeX Info: Redefining \microtypecontext on input line 87.
-Package microtype Info: Applying patch `item' on input line 87.
-Package microtype Info: Applying patch `toc' on input line 87.
-Package microtype Info: Applying patch `eqnum' on input line 87.
-Package microtype Info: Applying patch `footnote' on input line 87.
-Package microtype Info: Applying patch `verbatim' on input line 87.
-LaTeX Info: Redefining \microtypesetup on input line 87.
+\MT@vwid@leftmargin=\dimen303
+\MT@vwid@rightmargin=\dimen304
+LaTeX Info: Redefining \microtypecontext on input line 88.
+Package microtype Info: Applying patch `item' on input line 88.
+Package microtype Info: Applying patch `toc' on input line 88.
+Package microtype Info: Applying patch `eqnum' on input line 88.
+Package microtype Info: Applying patch `footnote' on input line 88.
+Package microtype Info: Applying patch `verbatim' on input line 88.
+LaTeX Info: Redefining \microtypesetup on input line 88.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 87.
+LaTeX Info: Redefining \showhyphens on input line 88.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -893,7 +962,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: Link coloring OFF on input line 87.
+Package hyperref Info: Link coloring OFF on input line 88.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -952,7 +1021,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.98 \clearpage
+l.99 \clearpage
                 [1
 
 
@@ -964,7 +1033,28 @@ l.98 \clearpage
 
 [3
 
-] (main.toc (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+] (chapitres/IA Declaration
+<figures/chatgpt.jpg, id=609, 770.88pt x 469.00218pt>
+File: figures/chatgpt.jpg Graphic file (type jpg)
+<use figures/chatgpt.jpg>
+Package pdftex.def Info: figures/chatgpt.jpg  used on input line 31.
+(pdftex.def)             Requested size: 136.57635pt x 83.09282pt.
+<figures/deepseek.jpg, id=610, 602.25pt x 357.335pt>
+File: figures/deepseek.jpg Graphic file (type jpg)
+<use figures/deepseek.jpg>
+Package pdftex.def Info: figures/deepseek.jpg  used on input line 37.
+(pdftex.def)             Requested size: 136.57635pt x 81.03484pt.
+<figures/claud3.5.png, id=611, 507.8975pt x 380.42125pt>
+File: figures/claud3.5.png Graphic file (type png)
+<use figures/claud3.5.png>
+Package pdftex.def Info: figures/claud3.5.png  used on input line 43.
+(pdftex.def)             Requested size: 136.57635pt x 102.29716pt.
+)
+
+[4
+
+
+ <./figures/chatgpt.jpg> <./figures/deepseek.jpg> <./figures/claud3.5.png (PNG copy)>] (main.toc (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -975,338 +1065,318 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
 
 
-[4
+[5
 
 
 ]
 
-[5]
-Overfull \hbox (1.29184pt too wide) detected at line 116
- []\T1/phv/m/n/10.95 102
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 117
- []\T1/phv/m/n/10.95 102
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 118
- []\T1/phv/m/n/10.95 102
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 122
- []\T1/phv/m/n/10.95 104
- []
-
-
+[6]
 Overfull \hbox (1.29184pt too wide) detected at line 126
- []\T1/phv/m/n/10.95 106
+ []\T1/phv/m/n/10.95 101
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 127
- []\T1/phv/m/n/10.95 108
+ []\T1/phv/m/n/10.95 103
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 129
- []\T1/phv/m/n/10.95 110
+ []\T1/phv/m/n/10.95 105
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 130
- []\T1/phv/m/n/10.95 110
+ []\T1/phv/m/n/10.95 105
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 131
- []\T1/phv/m/n/10.95 110
+ []\T1/phv/m/n/10.95 105
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 132
- []\T1/phv/m/n/10.95 113
+ []\T1/phv/m/n/10.95 108
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 133
- []\T1/phv/m/n/10.95 114
+ []\T1/phv/m/n/10.95 109
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 134
- []\T1/phv/m/n/10.95 115
- []
-
-
-
-[6]
-Overfull \hbox (1.29184pt too wide) detected at line 135
- []\T1/phv/m/n/10.95 115
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 137
- []\T1/phv/m/n/10.95 116
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 139
- []\T1/phv/m/n/10.95 117
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 141
- []\T1/phv/m/n/10.95 118
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 143
- []\T1/phv/m/n/10.95 122
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 145
- []\T1/phv/m/n/10.95 124
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 146
- []\T1/phv/m/n/10.95 124
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 153
- []\T1/phv/m/n/10.95 127
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 160
- []\T1/phv/m/n/10.95 131
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 161
- []\T1/phv/m/n/10.95 132
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 162
- []\T1/phv/m/n/10.95 132
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 163
- []\T1/phv/m/n/10.95 135
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 164
- []\T1/phv/m/n/10.95 138
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 165
- []\T1/phv/m/n/10.95 138
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 166
- []\T1/phv/m/n/10.95 138
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 170
- []\T1/phv/m/n/10.95 141
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 174
- []\T1/phv/m/n/10.95 143
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 175
- []\T1/phv/m/n/10.95 144
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 177
- []\T1/phv/m/n/10.95 146
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 178
- []\T1/phv/m/n/10.95 146
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 179
- []\T1/phv/m/n/10.95 146
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 180
- []\T1/phv/m/n/10.95 149
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 181
- []\T1/phv/m/n/10.95 152
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 182
- []\T1/phv/m/n/10.95 153
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 183
- []\T1/phv/m/n/10.95 153
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 185
- []\T1/phv/m/n/10.95 154
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 187
- []\T1/phv/m/n/10.95 156
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 189
- []\T1/phv/m/n/10.95 158
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 194
- []\T1/phv/m/n/10.95 164
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 196
- []\T1/phv/m/n/10.95 165
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 197
- []\T1/phv/m/n/10.95 165
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 203
- []\T1/phv/m/n/10.95 167
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 208
- []\T1/phv/m/n/10.95 171
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 209
- []\T1/phv/m/n/10.95 171
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 210
- []\T1/phv/m/n/10.95 171
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 211
- []\T1/phv/m/n/10.95 174
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 212
- []\T1/phv/m/n/10.95 179
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 213
- []\T1/phv/m/n/10.95 179
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 214
- []\T1/phv/m/n/10.95 179
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 218
- []\T1/phv/m/n/10.95 182
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 222
- []\T1/phv/m/n/10.95 184
+ []\T1/phv/m/n/10.95 110
  []
 
 
 
 [7]
+Overfull \hbox (1.29184pt too wide) detected at line 135
+ []\T1/phv/m/n/10.95 110
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 137
+ []\T1/phv/m/n/10.95 111
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 139
+ []\T1/phv/m/n/10.95 112
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 141
+ []\T1/phv/m/n/10.95 113
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 143
+ []\T1/phv/m/n/10.95 117
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 145
+ []\T1/phv/m/n/10.95 119
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 146
+ []\T1/phv/m/n/10.95 119
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 153
+ []\T1/phv/m/n/10.95 122
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 160
+ []\T1/phv/m/n/10.95 126
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 161
+ []\T1/phv/m/n/10.95 127
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 162
+ []\T1/phv/m/n/10.95 127
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 163
+ []\T1/phv/m/n/10.95 130
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 164
+ []\T1/phv/m/n/10.95 133
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 165
+ []\T1/phv/m/n/10.95 133
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 166
+ []\T1/phv/m/n/10.95 133
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 170
+ []\T1/phv/m/n/10.95 136
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 174
+ []\T1/phv/m/n/10.95 138
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 175
+ []\T1/phv/m/n/10.95 139
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 177
+ []\T1/phv/m/n/10.95 141
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 178
+ []\T1/phv/m/n/10.95 141
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 179
+ []\T1/phv/m/n/10.95 141
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 180
+ []\T1/phv/m/n/10.95 144
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 181
+ []\T1/phv/m/n/10.95 147
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 182
+ []\T1/phv/m/n/10.95 148
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 183
+ []\T1/phv/m/n/10.95 148
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 185
+ []\T1/phv/m/n/10.95 149
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 187
+ []\T1/phv/m/n/10.95 151
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 189
+ []\T1/phv/m/n/10.95 153
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 194
+ []\T1/phv/m/n/10.95 159
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 196
+ []\T1/phv/m/n/10.95 160
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 197
+ []\T1/phv/m/n/10.95 160
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 203
+ []\T1/phv/m/n/10.95 162
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 208
+ []\T1/phv/m/n/10.95 166
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 209
+ []\T1/phv/m/n/10.95 166
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 210
+ []\T1/phv/m/n/10.95 166
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 211
+ []\T1/phv/m/n/10.95 169
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 212
+ []\T1/phv/m/n/10.95 174
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 213
+ []\T1/phv/m/n/10.95 174
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 214
+ []\T1/phv/m/n/10.95 174
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 218
+ []\T1/phv/m/n/10.95 177
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 222
+ []\T1/phv/m/n/10.95 179
+ []
+
+
+
+[8]
 Overfull \hbox (1.29184pt too wide) detected at line 223
- []\T1/phv/m/n/10.95 185
+ []\T1/phv/m/n/10.95 180
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 225
- []\T1/phv/m/n/10.95 187
+ []\T1/phv/m/n/10.95 182
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 226
- []\T1/phv/m/n/10.95 187
+ []\T1/phv/m/n/10.95 182
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 227
- []\T1/phv/m/n/10.95 187
+ []\T1/phv/m/n/10.95 182
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 228
- []\T1/phv/m/n/10.95 187
+ []\T1/phv/m/n/10.95 182
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 229
- []\T1/phv/m/n/10.95 192
+ []\T1/phv/m/n/10.95 187
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 230
- []\T1/phv/m/n/10.95 192
+ []\T1/phv/m/n/10.95 187
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 231
- []\T1/phv/m/n/10.95 194
+ []\T1/phv/m/n/10.95 189
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 232
- []\T1/phv/m/n/10.95 194
+ []\T1/phv/m/n/10.95 189
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 233
- []\T1/phv/m/n/10.95 194
+ []\T1/phv/m/n/10.95 189
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 234
- []\T1/phv/m/n/10.95 196
+ []\T1/phv/m/n/10.95 191
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 235
- []\T1/phv/m/n/10.95 197
+ []\T1/phv/m/n/10.95 192
  []
 
 )
@@ -1315,652 +1385,617 @@ Overfull \hbox (1.29184pt too wide) detected at line 235
 
 
 
-[8] (main.lof
+[9] (main.lof
 
-[9
+[10
 
 
 ]
-Overfull \hbox (1.29184pt too wide) detected at line 74
- []\T1/phv/m/n/10.95 100
- []
 
-
-Overfull \hbox (1.29184pt too wide) detected at line 75
- []\T1/phv/m/n/10.95 100
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 76
- []\T1/phv/m/n/10.95 101
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 77
- []\T1/phv/m/n/10.95 103
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 78
- []\T1/phv/m/n/10.95 103
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 79
- []\T1/phv/m/n/10.95 104
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 80
- []\T1/phv/m/n/10.95 104
- []
-
-
-
-[10]
-Overfull \hbox (1.29184pt too wide) detected at line 81
- []\T1/phv/m/n/10.95 105
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 82
- []\T1/phv/m/n/10.95 106
- []
-
-
+[11]
 Overfull \hbox (1.29184pt too wide) detected at line 83
- []\T1/phv/m/n/10.95 106
+ []\T1/phv/m/n/10.95 100
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 84
- []\T1/phv/m/n/10.95 107
+ []\T1/phv/m/n/10.95 101
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 85
- []\T1/phv/m/n/10.95 107
+ []\T1/phv/m/n/10.95 101
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 86
+ []\T1/phv/m/n/10.95 102
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 87
- []\T1/phv/m/n/10.95 114
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 88
- []\T1/phv/m/n/10.95 114
+ []\T1/phv/m/n/10.95 102
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 89
- []\T1/phv/m/n/10.95 115
+ []\T1/phv/m/n/10.95 109
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 90
- []\T1/phv/m/n/10.95 115
+ []\T1/phv/m/n/10.95 109
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 91
- []\T1/phv/m/n/10.95 116
+ []\T1/phv/m/n/10.95 110
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 92
- []\T1/phv/m/n/10.95 116
+ []\T1/phv/m/n/10.95 110
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 93
- []\T1/phv/m/n/10.95 117
+ []\T1/phv/m/n/10.95 111
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 94
- []\T1/phv/m/n/10.95 117
+ []\T1/phv/m/n/10.95 111
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 95
- []\T1/phv/m/n/10.95 118
+ []\T1/phv/m/n/10.95 112
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 96
- []\T1/phv/m/n/10.95 119
+ []\T1/phv/m/n/10.95 112
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 97
- []\T1/phv/m/n/10.95 120
+ []\T1/phv/m/n/10.95 113
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 98
- []\T1/phv/m/n/10.95 121
+ []\T1/phv/m/n/10.95 114
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 99
- []\T1/phv/m/n/10.95 123
+ []\T1/phv/m/n/10.95 115
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 100
- []\T1/phv/m/n/10.95 124
+ []\T1/phv/m/n/10.95 116
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 101
- []\T1/phv/m/n/10.95 124
+ []\T1/phv/m/n/10.95 118
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 102
- []\T1/phv/m/n/10.95 125
+ []\T1/phv/m/n/10.95 119
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 103
- []\T1/phv/m/n/10.95 125
+ []\T1/phv/m/n/10.95 119
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 104
- []\T1/phv/m/n/10.95 126
+ []\T1/phv/m/n/10.95 120
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 105
- []\T1/phv/m/n/10.95 126
+ []\T1/phv/m/n/10.95 120
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 106
- []\T1/phv/m/n/10.95 127
+ []\T1/phv/m/n/10.95 121
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 107
- []\T1/phv/m/n/10.95 127
+ []\T1/phv/m/n/10.95 121
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 108
- []\T1/phv/m/n/10.95 128
+ []\T1/phv/m/n/10.95 122
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 109
- []\T1/phv/m/n/10.95 129
+ []\T1/phv/m/n/10.95 122
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 110
- []\T1/phv/m/n/10.95 129
+ []\T1/phv/m/n/10.95 123
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 111
- []\T1/phv/m/n/10.95 130
+ []\T1/phv/m/n/10.95 124
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 112
- []\T1/phv/m/n/10.95 131
+ []\T1/phv/m/n/10.95 124
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 113
- []\T1/phv/m/n/10.95 135
+ []\T1/phv/m/n/10.95 125
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 114
- []\T1/phv/m/n/10.95 136
+ []\T1/phv/m/n/10.95 126
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 115
- []\T1/phv/m/n/10.95 136
+ []\T1/phv/m/n/10.95 130
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 116
- []\T1/phv/m/n/10.95 136
+ []\T1/phv/m/n/10.95 131
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 117
- []\T1/phv/m/n/10.95 137
+ []\T1/phv/m/n/10.95 131
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 118
- []\T1/phv/m/n/10.95 137
+ []\T1/phv/m/n/10.95 131
  []
 
 
-
-[11]
 Overfull \hbox (1.29184pt too wide) detected at line 119
- []\T1/phv/m/n/10.95 139
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 120
- []\T1/phv/m/n/10.95 139
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 121
- []\T1/phv/m/n/10.95 140
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 122
- []\T1/phv/m/n/10.95 140
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 123
- []\T1/phv/m/n/10.95 141
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 124
- []\T1/phv/m/n/10.95 142
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 125
- []\T1/phv/m/n/10.95 142
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 126
- []\T1/phv/m/n/10.95 143
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 127
- []\T1/phv/m/n/10.95 144
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 129
- []\T1/phv/m/n/10.95 149
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 130
- []\T1/phv/m/n/10.95 149
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 131
- []\T1/phv/m/n/10.95 150
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 132
- []\T1/phv/m/n/10.95 150
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 133
- []\T1/phv/m/n/10.95 151
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 134
- []\T1/phv/m/n/10.95 151
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 135
- []\T1/phv/m/n/10.95 152
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 136
- []\T1/phv/m/n/10.95 152
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 137
- []\T1/phv/m/n/10.95 153
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 138
- []\T1/phv/m/n/10.95 154
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 139
- []\T1/phv/m/n/10.95 155
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 140
- []\T1/phv/m/n/10.95 157
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 141
- []\T1/phv/m/n/10.95 158
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 142
- []\T1/phv/m/n/10.95 159
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 143
- []\T1/phv/m/n/10.95 161
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 144
- []\T1/phv/m/n/10.95 163
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 145
- []\T1/phv/m/n/10.95 164
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 146
- []\T1/phv/m/n/10.95 165
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 147
- []\T1/phv/m/n/10.95 165
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 148
- []\T1/phv/m/n/10.95 166
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 149
- []\T1/phv/m/n/10.95 166
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 150
- []\T1/phv/m/n/10.95 167
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 151
- []\T1/phv/m/n/10.95 167
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 152
- []\T1/phv/m/n/10.95 168
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 153
- []\T1/phv/m/n/10.95 168
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 154
- []\T1/phv/m/n/10.95 169
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 155
- []\T1/phv/m/n/10.95 169
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 156
- []\T1/phv/m/n/10.95 170
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 157
- []\T1/phv/m/n/10.95 171
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 158
- []\T1/phv/m/n/10.95 174
+ []\T1/phv/m/n/10.95 132
  []
 
 
 
 [12]
+Overfull \hbox (1.29184pt too wide) detected at line 120
+ []\T1/phv/m/n/10.95 132
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 121
+ []\T1/phv/m/n/10.95 134
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 122
+ []\T1/phv/m/n/10.95 134
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 123
+ []\T1/phv/m/n/10.95 135
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 124
+ []\T1/phv/m/n/10.95 135
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 125
+ []\T1/phv/m/n/10.95 136
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 126
+ []\T1/phv/m/n/10.95 137
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 127
+ []\T1/phv/m/n/10.95 137
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 128
+ []\T1/phv/m/n/10.95 138
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 129
+ []\T1/phv/m/n/10.95 139
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 131
+ []\T1/phv/m/n/10.95 144
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 132
+ []\T1/phv/m/n/10.95 144
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 133
+ []\T1/phv/m/n/10.95 145
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 134
+ []\T1/phv/m/n/10.95 145
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 135
+ []\T1/phv/m/n/10.95 146
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 136
+ []\T1/phv/m/n/10.95 146
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 137
+ []\T1/phv/m/n/10.95 147
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 138
+ []\T1/phv/m/n/10.95 147
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 139
+ []\T1/phv/m/n/10.95 148
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 140
+ []\T1/phv/m/n/10.95 149
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 141
+ []\T1/phv/m/n/10.95 150
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 142
+ []\T1/phv/m/n/10.95 152
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 143
+ []\T1/phv/m/n/10.95 153
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 144
+ []\T1/phv/m/n/10.95 154
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 145
+ []\T1/phv/m/n/10.95 156
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 146
+ []\T1/phv/m/n/10.95 158
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 147
+ []\T1/phv/m/n/10.95 159
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 148
+ []\T1/phv/m/n/10.95 160
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 149
+ []\T1/phv/m/n/10.95 160
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 150
+ []\T1/phv/m/n/10.95 161
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 151
+ []\T1/phv/m/n/10.95 161
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 152
+ []\T1/phv/m/n/10.95 162
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 153
+ []\T1/phv/m/n/10.95 162
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 154
+ []\T1/phv/m/n/10.95 163
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 155
+ []\T1/phv/m/n/10.95 163
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 156
+ []\T1/phv/m/n/10.95 164
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 157
+ []\T1/phv/m/n/10.95 164
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 158
+ []\T1/phv/m/n/10.95 165
+ []
+
+
 Overfull \hbox (1.29184pt too wide) detected at line 159
- []\T1/phv/m/n/10.95 175
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 160
- []\T1/phv/m/n/10.95 175
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 161
- []\T1/phv/m/n/10.95 176
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 162
- []\T1/phv/m/n/10.95 176
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 163
- []\T1/phv/m/n/10.95 177
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 164
- []\T1/phv/m/n/10.95 177
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 165
- []\T1/phv/m/n/10.95 178
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 166
- []\T1/phv/m/n/10.95 178
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 167
- []\T1/phv/m/n/10.95 180
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 168
- []\T1/phv/m/n/10.95 180
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 169
- []\T1/phv/m/n/10.95 181
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 170
- []\T1/phv/m/n/10.95 181
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 171
- []\T1/phv/m/n/10.95 182
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 172
- []\T1/phv/m/n/10.95 183
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 173
- []\T1/phv/m/n/10.95 183
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 174
- []\T1/phv/m/n/10.95 184
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 175
- []\T1/phv/m/n/10.95 185
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 177
- []\T1/phv/m/n/10.95 188
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 178
- []\T1/phv/m/n/10.95 188
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 179
- []\T1/phv/m/n/10.95 188
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 180
- []\T1/phv/m/n/10.95 188
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 181
- []\T1/phv/m/n/10.95 189
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 182
- []\T1/phv/m/n/10.95 189
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 183
- []\T1/phv/m/n/10.95 189
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 184
- []\T1/phv/m/n/10.95 189
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 185
- []\T1/phv/m/n/10.95 189
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 186
- []\T1/phv/m/n/10.95 189
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 187
- []\T1/phv/m/n/10.95 190
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 188
- []\T1/phv/m/n/10.95 190
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 189
- []\T1/phv/m/n/10.95 190
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 190
- []\T1/phv/m/n/10.95 190
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 191
- []\T1/phv/m/n/10.95 190
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 192
- []\T1/phv/m/n/10.95 190
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 193
- []\T1/phv/m/n/10.95 191
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 194
- []\T1/phv/m/n/10.95 191
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 195
- []\T1/phv/m/n/10.95 191
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 196
- []\T1/phv/m/n/10.95 191
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 197
- []\T1/phv/m/n/10.95 191
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 198
- []\T1/phv/m/n/10.95 193
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 199
- []\T1/phv/m/n/10.95 194
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 200
- []\T1/phv/m/n/10.95 195
- []
-
-
-Overfull \hbox (1.29184pt too wide) detected at line 201
- []\T1/phv/m/n/10.95 195
+ []\T1/phv/m/n/10.95 166
  []
 
 
 
 [13]
-Overfull \hbox (1.29184pt too wide) detected at line 202
- []\T1/phv/m/n/10.95 195
+Overfull \hbox (1.29184pt too wide) detected at line 160
+ []\T1/phv/m/n/10.95 169
  []
 
 
+Overfull \hbox (1.29184pt too wide) detected at line 161
+ []\T1/phv/m/n/10.95 170
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 162
+ []\T1/phv/m/n/10.95 170
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 163
+ []\T1/phv/m/n/10.95 171
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 164
+ []\T1/phv/m/n/10.95 171
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 165
+ []\T1/phv/m/n/10.95 172
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 166
+ []\T1/phv/m/n/10.95 172
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 167
+ []\T1/phv/m/n/10.95 173
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 168
+ []\T1/phv/m/n/10.95 173
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 169
+ []\T1/phv/m/n/10.95 175
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 170
+ []\T1/phv/m/n/10.95 175
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 171
+ []\T1/phv/m/n/10.95 176
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 172
+ []\T1/phv/m/n/10.95 176
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 173
+ []\T1/phv/m/n/10.95 177
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 174
+ []\T1/phv/m/n/10.95 178
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 175
+ []\T1/phv/m/n/10.95 178
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 176
+ []\T1/phv/m/n/10.95 179
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 177
+ []\T1/phv/m/n/10.95 180
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 179
+ []\T1/phv/m/n/10.95 183
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 180
+ []\T1/phv/m/n/10.95 183
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 181
+ []\T1/phv/m/n/10.95 183
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 182
+ []\T1/phv/m/n/10.95 183
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 183
+ []\T1/phv/m/n/10.95 184
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 184
+ []\T1/phv/m/n/10.95 184
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 185
+ []\T1/phv/m/n/10.95 184
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 186
+ []\T1/phv/m/n/10.95 184
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 187
+ []\T1/phv/m/n/10.95 184
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 188
+ []\T1/phv/m/n/10.95 184
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 189
+ []\T1/phv/m/n/10.95 185
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 190
+ []\T1/phv/m/n/10.95 185
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 191
+ []\T1/phv/m/n/10.95 185
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 192
+ []\T1/phv/m/n/10.95 185
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 193
+ []\T1/phv/m/n/10.95 185
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 194
+ []\T1/phv/m/n/10.95 185
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 195
+ []\T1/phv/m/n/10.95 186
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 196
+ []\T1/phv/m/n/10.95 186
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 197
+ []\T1/phv/m/n/10.95 186
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 198
+ []\T1/phv/m/n/10.95 186
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 199
+ []\T1/phv/m/n/10.95 186
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 200
+ []\T1/phv/m/n/10.95 188
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 201
+ []\T1/phv/m/n/10.95 189
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 202
+ []\T1/phv/m/n/10.95 190
+ []
+
+
+
+[14]
 Overfull \hbox (1.29184pt too wide) detected at line 203
- []\T1/phv/m/n/10.95 196
+ []\T1/phv/m/n/10.95 190
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 204
+ []\T1/phv/m/n/10.95 190
+ []
+
+
+Overfull \hbox (1.29184pt too wide) detected at line 205
+ []\T1/phv/m/n/10.95 191
  []
 
 )
@@ -1969,189 +2004,189 @@ Overfull \hbox (1.29184pt too wide) detected at line 203
 
 
 
-[14] (main.lot
+[15] (main.lot
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 Overfull \hbox (1.29184pt too wide) detected at line 29
- []\T1/phv/m/n/10.95 107
+ []\T1/phv/m/n/10.95 102
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 31
- []\T1/phv/m/n/10.95 113
+ []\T1/phv/m/n/10.95 108
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 32
- []\T1/phv/m/n/10.95 118
+ []\T1/phv/m/n/10.95 113
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 33
- []\T1/phv/m/n/10.95 119
+ []\T1/phv/m/n/10.95 114
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 34
- []\T1/phv/m/n/10.95 119
+ []\T1/phv/m/n/10.95 114
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 35
- []\T1/phv/m/n/10.95 120
+ []\T1/phv/m/n/10.95 115
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 36
- []\T1/phv/m/n/10.95 122
+ []\T1/phv/m/n/10.95 117
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 37
- []\T1/phv/m/n/10.95 132
+ []\T1/phv/m/n/10.95 127
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 38
- []\T1/phv/m/n/10.95 132
+ []\T1/phv/m/n/10.95 127
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 39
- []\T1/phv/m/n/10.95 133
+ []\T1/phv/m/n/10.95 128
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 40
- []\T1/phv/m/n/10.95 133
+ []\T1/phv/m/n/10.95 128
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 41
- []\T1/phv/m/n/10.95 133
+ []\T1/phv/m/n/10.95 128
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 42
- []\T1/phv/m/n/10.95 134
+ []\T1/phv/m/n/10.95 129
  []
 
 
 
-[15
+[16
 
 
 ]
 Overfull \hbox (1.29184pt too wide) detected at line 43
- []\T1/phv/m/n/10.95 134
+ []\T1/phv/m/n/10.95 129
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 44
- []\T1/phv/m/n/10.95 134
+ []\T1/phv/m/n/10.95 129
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 45
- []\T1/phv/m/n/10.95 135
+ []\T1/phv/m/n/10.95 130
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 46
- []\T1/phv/m/n/10.95 143
+ []\T1/phv/m/n/10.95 138
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 48
- []\T1/phv/m/n/10.95 148
+ []\T1/phv/m/n/10.95 143
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 49
- []\T1/phv/m/n/10.95 153
+ []\T1/phv/m/n/10.95 148
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 50
- []\T1/phv/m/n/10.95 154
+ []\T1/phv/m/n/10.95 149
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 51
- []\T1/phv/m/n/10.95 156
+ []\T1/phv/m/n/10.95 151
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 52
- []\T1/phv/m/n/10.95 158
+ []\T1/phv/m/n/10.95 153
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 53
- []\T1/phv/m/n/10.95 160
+ []\T1/phv/m/n/10.95 155
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 54
- []\T1/phv/m/n/10.95 162
+ []\T1/phv/m/n/10.95 157
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 55
- []\T1/phv/m/n/10.95 164
+ []\T1/phv/m/n/10.95 159
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 56
- []\T1/phv/m/n/10.95 171
+ []\T1/phv/m/n/10.95 166
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 57
- []\T1/phv/m/n/10.95 172
+ []\T1/phv/m/n/10.95 167
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 58
- []\T1/phv/m/n/10.95 172
+ []\T1/phv/m/n/10.95 167
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 59
- []\T1/phv/m/n/10.95 173
+ []\T1/phv/m/n/10.95 168
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 60
- []\T1/phv/m/n/10.95 173
+ []\T1/phv/m/n/10.95 168
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 61
- []\T1/phv/m/n/10.95 173
+ []\T1/phv/m/n/10.95 168
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 62
- []\T1/phv/m/n/10.95 174
+ []\T1/phv/m/n/10.95 169
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 63
- []\T1/phv/m/n/10.95 184
+ []\T1/phv/m/n/10.95 179
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 65
- []\T1/phv/m/n/10.95 187
+ []\T1/phv/m/n/10.95 182
  []
 
 
 Overfull \hbox (1.29184pt too wide) detected at line 66
- []\T1/phv/m/n/10.95 196
+ []\T1/phv/m/n/10.95 191
  []
 
 )
@@ -2160,8 +2195,8 @@ Overfull \hbox (1.29184pt too wide) detected at line 66
 
 
 
-[16] (chapitres/Introduction.tex
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 15.
+[17] (chapitres/Introduction.tex
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 18.
  (C:\Users\Nourchene\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
@@ -2175,8 +2210,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.17     \item \textbf
-                      {Chapter 3: Sprint 1 – User and Submitted File Manag... [1
+l.34     \item[\textbullet]
+                            \textbf{Chapter 5: Sprint 3 - User Access and Se... [1
 
 
 ])
@@ -2185,7 +2220,7 @@ l.17     \item \textbf
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.119 \clearpage
+l.122 \clearpage
                  [2] (chapitres/chapitre1.tex
 Chapter 1.
 
@@ -2203,242 +2238,192 @@ l.2 \newpage
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 9.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
+<figures/logocnss.png, id=1353, 741.77126pt x 480.79625pt>
+File: figures/logocnss.png Graphic file (type png)
+<use figures/logocnss.png>
+Package pdftex.def Info: figures/logocnss.png  used on input line 19.
+(pdftex.def)             Requested size: 213.39568pt x 138.31221pt.
 
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.16 \clearpage
-                [4]
-<figures/logocnss.png, id=1341, 741.77126pt x 480.79625pt>
-File: figures/logocnss.png Graphic file (type png)
-<use figures/logocnss.png>
-Package pdftex.def Info: figures/logocnss.png  used on input line 19.
-(pdftex.def)             Requested size: 213.39568pt x 138.31221pt.
-
-Overfull \hbox (22.29245pt too wide) in paragraph at lines 36--37
-[]\T1/phv/m/n/14.4 (-20) Some cat-e-gories of self-employed work-ers (un-der spe-cific schemes). 
- []
-
+l.30     \item F
+                amily allowances (financial support for dependent children). [4 <./figures/logocnss.png (PNG copy)>]
+<figures/orga cnss.jpg, id=1357, 1256.695pt x 896.34875pt>
+File: figures/orga cnss.jpg Graphic file (type jpg)
+<use figures/orga cnss.jpg>
+Package pdftex.def Info: figures/orga cnss.jpg  used on input line 49.
+(pdftex.def)             Requested size: 426.79137pt x 304.41261pt.
 
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \clearpage
-                [5
-
- <./figures/logocnss.png (PNG copy)>]
-<figures/orga cnss.jpg, id=1345, 1256.695pt x 896.34875pt>
-File: figures/orga cnss.jpg Graphic file (type jpg)
-<use figures/orga cnss.jpg>
-Package pdftex.def Info: figures/orga cnss.jpg  used on input line 50.
-(pdftex.def)             Requested size: 426.79137pt x 304.41261pt.
-
-Overfull \hbox (24.88031pt too wide) in paragraph at lines 55--56
-\T1/phv/m/n/14.4 (-20) The DCSI (Di-rec-tion de la Com-mu-ni-ca-tion et des Sys-t�mes d'Information)
- []
-
-
+l.55 
+      [5 <./figures/orga cnss.jpg>]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 \end{itemize}
-                   [6
-
- <./figures/orga cnss.jpg>]
+l.91     \item E
+                nhances transparency in social security management. [6]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92     \item E
-                nhances transparency in social security management. [7]
+l.123     \item \textbf
+                       {Insured:} Can submit and track their folders. [7]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.113 \end{itemize}
-                    [8]
+l.157     \item I
+                 f the folder is complete and meets the requirements, the fi... [8]
+<figures/etude de l'existant.png, id=1378, 333.245pt x 746.79pt>
+File: figures/etude de l'existant.png Graphic file (type png)
+<use figures/etude de l'existant.png>
+Package pdftex.def Info: figures/etude de l'existant.png  used on input line 188.
+(pdftex.def)             Requested size: 213.39568pt x 478.21744pt.
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.141 \end{itemize}
-                    [9]
+l.202     \item P
+                 aper-based records are prone to being lost easily, photocop... [9]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.167 \begin{itemize}
-                      [10]
+l.202     \item P
+                 aper-based records are prone to being lost easily, photocop... [10 <./figures/etude de l'existant.png (PNG copy)>]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.186 \clearpage
-                 [11]
-<figures/etude de l'existant.png, id=1372, 333.245pt x 746.79pt>
-File: figures/etude de l'existant.png Graphic file (type png)
-<use figures/etude de l'existant.png>
-Package pdftex.def Info: figures/etude de l'existant.png  used on input line 189.
-(pdftex.def)             Requested size: 213.39568pt x 478.21744pt.
+l.242     \item S
+                 upervisors and agents are immediately alerted to pending work. [11]
+<figures/agile.jpg, id=1389, 681.29532pt x 383.18156pt>
+File: figures/agile.jpg Graphic file (type jpg)
+<use figures/agile.jpg>
+Package pdftex.def Info: figures/agile.jpg  used on input line 275.
+(pdftex.def)             Requested size: 298.75264pt x 168.0274pt.
+
+Overfull \hbox (6.79393pt too wide) in paragraph at lines 282--298
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.203     \item P
-                 aper-based records are prone to being lost easily, photocop... [12
-
- <./figures/etude de l'existant.png (PNG copy)>]
+l.303 \begin{itemize}
+                      [12]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.227 \clearpage
-                 [13]
+l.313 ...ntinuously improve."}\cite{samplewebs1}\\
+                                                   [13 <./figures/agile.jpg>]
+<figures/rugbystock.jpg, id=1399, 501.875pt x 309.155pt>
+File: figures/rugbystock.jpg Graphic file (type jpg)
+<use figures/rugbystock.jpg>
+Package pdftex.def Info: figures/rugbystock.jpg  used on input line 318.
+(pdftex.def)             Requested size: 298.75264pt x 184.04149pt.
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.262 \end{itemize}
-                    [14
-
-]
-<figures/agile.jpg, id=1384, 681.29532pt x 383.18156pt>
-File: figures/agile.jpg Graphic file (type jpg)
-<use figures/agile.jpg>
-Package pdftex.def Info: figures/agile.jpg  used on input line 276.
-(pdftex.def)             Requested size: 213.39568pt x 120.01874pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+l.334 \end{itemize}
+                    [14 <./figures/rugbystock.jpg>]
+<figures/Sprint-review-table-2-1.jpg, id=1406, 2007.5pt x 1204.5pt>
+File: figures/Sprint-review-table-2-1.jpg Graphic file (type jpg)
+<use figures/Sprint-review-table-2-1.jpg>
+Package pdftex.def Info: figures/Sprint-review-table-2-1.jpg  used on input line 339.
+(pdftex.def)             Requested size: 298.75264pt x 179.252pt.
+<figures/Scrum Team.png, id=1407, 734.24312pt x 445.665pt>
+File: figures/Scrum Team.png Graphic file (type png)
+<use figures/Scrum Team.png>
+Package pdftex.def Info: figures/Scrum Team.png  used on input line 355.
+(pdftex.def)             Requested size: 298.75264pt x 181.33656pt.
 
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.15}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \clearpage
-                 [15]
+l.369 \end{itemize}
+                    [15 <./figures/Sprint-review-table-2-1.jpg>]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.16}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \clearpage
-                 [16 <./figures/agile.jpg>]
-Overfull \hbox (6.79393pt too wide) in paragraph at lines 284--300
- [][] 
- []
-
-<figures/agileUmbrella.png, id=1392, 493.845pt x 539.01375pt>
-File: figures/agileUmbrella.png Graphic file (type png)
-<use figures/agileUmbrella.png>
-Package pdftex.def Info: figures/agileUmbrella.png  used on input line 316.
-(pdftex.def)             Requested size: 298.75264pt x 326.07553pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+l.390     \item \textbf
+                       {Sprint Retrospective:} A Scrum team internal meeting... [16 <./figures/Scrum Team.png>]
+<figures/UML_logo.png, id=1422, 642.4pt x 467.7475pt>
+File: figures/UML_logo.png Graphic file (type png)
+<use figures/UML_logo.png>
+Package pdftex.def Info: figures/UML_logo.png  used on input line 396.
+(pdftex.def)             Requested size: 213.39568pt x 155.37776pt.
 
 
 
-[17
+pdfTeX warning (ext4): destination with the same identifier (name{page.17}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.402 \newpage
+               [17 <./figures/UML_logo.png>])
 
-]
-
-[18 <./figures/agileUmbrella.png (PNG copy)>]
-<figures/rugbystock.jpg, id=1402, 501.875pt x 309.155pt>
-File: figures/rugbystock.jpg Graphic file (type jpg)
-<use figures/rugbystock.jpg>
-Package pdftex.def Info: figures/rugbystock.jpg  used on input line 328.
-(pdftex.def)             Requested size: 298.75264pt x 184.04149pt.
+[18] (chapitres/chapitre2.tex
+Chapter 2.
 
 
 [19
 
- <./figures/rugbystock.jpg>]
-<figures/Sprint-review-table-2-1.jpg, id=1410, 2007.5pt x 1204.5pt>
-File: figures/Sprint-review-table-2-1.jpg Graphic file (type jpg)
-<use figures/Sprint-review-table-2-1.jpg>
-Package pdftex.def Info: figures/Sprint-review-table-2-1.jpg  used on input line 349.
-(pdftex.def)             Requested size: 298.75264pt x 179.252pt.
-
-
-[20 <./figures/Sprint-review-table-2-1.jpg>]
-<figures/Scrum Team.png, id=1420, 734.24312pt x 445.665pt>
-File: figures/Scrum Team.png Graphic file (type png)
-<use figures/Scrum Team.png>
-Package pdftex.def Info: figures/Scrum Team.png  used on input line 365.
-(pdftex.def)             Requested size: 298.75264pt x 181.33656pt.
-
-
-[21 <./figures/Scrum Team.png>]
-
-[22]
-<figures/UML_logo.png, id=1433, 642.4pt x 467.7475pt>
-File: figures/UML_logo.png Graphic file (type png)
-<use figures/UML_logo.png>
-Package pdftex.def Info: figures/UML_logo.png  used on input line 406.
-(pdftex.def)             Requested size: 213.39568pt x 155.37776pt.
-
-
-[23 <./figures/UML_logo.png>])
-
-[24] (chapitres/chapitre2.tex
-Chapter 2.
-
-
-[25
-
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
- []
-
-
-
-[26]
-<figures/statdia.png, id=1456, 723.45282pt x 565.36218pt>
+[20]
+<figures/statdia.png, id=1444, 723.45282pt x 565.36218pt>
 File: figures/statdia.png Graphic file (type png)
 <use figures/statdia.png>
 Package pdftex.def Info: figures/statdia.png  used on input line 70.
 (pdftex.def)             Requested size: 256.07742pt x 200.11404pt.
 
 
-[27]
+[21]
 
-[28 <./figures/statdia.png>]
+[22 <./figures/statdia.png>]
 
-[29]
-<figures/scrumteam.png, id=1482, 1027.84pt x 1027.84pt>
+[23]
+<figures/scrumteam.png, id=1470, 1027.84pt x 1027.84pt>
 File: figures/scrumteam.png Graphic file (type png)
 <use figures/scrumteam.png>
 Package pdftex.def Info: figures/scrumteam.png  used on input line 151.
 (pdftex.def)             Requested size: 298.75264pt x 298.75604pt.
 
 
-[30]
+[24]
 
-[31 <./figures/scrumteam.png (PNG copy)>]
+[25 <./figures/scrumteam.png (PNG copy)>]
 Overfull \hbox (11.9867pt too wide) in alignment at lines 169--173
  [] [] [] [] [] 
  []
@@ -2448,50 +2433,60 @@ Overfull \hbox (11.9867pt too wide) in alignment at lines 173--217
  [] [] [] [] [] 
  []
 
-[32] [33] [34] [35]
-<figures/jira logo.png, id=1509, 602.25pt x 316.18124pt>
+[26] [27] [28] [29]
+<figures/jira logo.png, id=1497, 602.25pt x 316.18124pt>
 File: figures/jira logo.png Graphic file (type png)
 <use figures/jira logo.png>
 Package pdftex.def Info: figures/jira logo.png  used on input line 223.
 (pdftex.def)             Requested size: 256.07742pt x 134.4452pt.
-<figures/sprints.png, id=1511, 1541.76pt x 1027.84pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/sprints.png, id=1499, 1541.76pt x 1027.84pt>
 File: figures/sprints.png Graphic file (type png)
 <use figures/sprints.png>
 Package pdftex.def Info: figures/sprints.png  used on input line 233.
 (pdftex.def)             Requested size: 213.39568pt x 142.24985pt.
 
 
-[36 <./figures/jira logo.png>]
-<figures/sprintplan.png, id=1518, 1445.4pt x 813.0375pt>
+[30]
+<figures/sprintplan.png, id=1505, 1445.4pt x 813.0375pt>
 File: figures/sprintplan.png Graphic file (type png)
 <use figures/sprintplan.png>
 Package pdftex.def Info: figures/sprintplan.png  used on input line 239.
 (pdftex.def)             Requested size: 426.79137pt x 240.06729pt.
 
 
-[37 <./figures/sprints.png (PNG copy)> <./figures/sprintplan.png (PNG copy)>]
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[38
+
+
+[31 <./figures/jira logo.png> <./figures/sprints.png (PNG copy)>]
+
+[32 <./figures/sprintplan.png (PNG copy)>]
+
+[33
 
 ]
-<figures/usecaseglobal.jpg, id=1529, 824.07875pt x 1064.97874pt>
+<figures/usecaseglobal.jpg, id=1521, 824.07875pt x 1064.97874pt>
 File: figures/usecaseglobal.jpg Graphic file (type jpg)
 <use figures/usecaseglobal.jpg>
 Package pdftex.def Info: figures/usecaseglobal.jpg  used on input line 257.
 (pdftex.def)             Requested size: 384.10962pt x 496.39627pt.
 
 
-[39
+[34
 
  <./figures/usecaseglobal.jpg>])
 
-[40
+[35
 
 ] (chapitres/chapitre3.tex
 Chapter 3.
 
 
-[41
+[36
 
 
 ]
@@ -2514,55 +2509,55 @@ Overfull \hbox (2.64894pt too wide) in alignment at lines 29--86
  [] [] [] [] [] 
  []
 
-[42] [43] [44]
+[37] [38] [39]
 
-[45]
-<figures/use case par acteur.png, id=1559, 667.74469pt x 578.16pt>
+[40]
+<figures/use case par acteur.png, id=1551, 667.74469pt x 578.16pt>
 File: figures/use case par acteur.png Graphic file (type png)
 <use figures/use case par acteur.png>
 Package pdftex.def Info: figures/use case par acteur.png  used on input line 93.
 (pdftex.def)             Requested size: 426.79137pt x 369.54474pt.
 
 
-[46
+[41
 
  <./figures/use case par acteur.png>]
-<figures/sprint1 use case.jpg, id=1565, 1031.855pt x 792.9625pt>
+<figures/sprint1 use case.jpg, id=1557, 1031.855pt x 792.9625pt>
 File: figures/sprint1 use case.jpg Graphic file (type jpg)
 <use figures/sprint1 use case.jpg>
 Package pdftex.def Info: figures/sprint1 use case.jpg  used on input line 101.
 (pdftex.def)             Requested size: 426.79137pt x 327.98433pt.
 
 
-[47
+[42
 
  <./figures/sprint1 use case.jpg>]
-<figures/login.JPG, id=1570, 475.7775pt x 315.579pt>
+<figures/login.JPG, id=1562, 475.7775pt x 315.579pt>
 File: figures/login.JPG Graphic file (type jpg)
 <use figures/login.JPG>
 Package pdftex.def Info: figures/login.JPG  used on input line 111.
 (pdftex.def)             Requested size: 384.10962pt x 254.78934pt.
-<figures/signup.JPG, id=1571, 600.44325pt x 331.2375pt>
+<figures/signup.JPG, id=1563, 600.44325pt x 331.2375pt>
 File: figures/signup.JPG Graphic file (type jpg)
 <use figures/signup.JPG>
 Package pdftex.def Info: figures/signup.JPG  used on input line 116.
 (pdftex.def)             Requested size: 384.10962pt x 211.89523pt.
 
 
-[48
+[43
 
  <./figures/login.JPG> <./figures/signup.JPG>]
-<figures/service page.JPG, id=1576, 605.8635pt x 310.15875pt>
+<figures/service page.JPG, id=1569, 605.8635pt x 310.15875pt>
 File: figures/service page.JPG Graphic file (type jpg)
 <use figures/service page.JPG>
 Package pdftex.def Info: figures/service page.JPG  used on input line 125.
 (pdftex.def)             Requested size: 426.79137pt x 218.49156pt.
-<figures/formulaire page.JPG, id=1577, 638.98724pt x 314.97675pt>
+<figures/formulaire page.JPG, id=1570, 638.98724pt x 314.97675pt>
 File: figures/formulaire page.JPG Graphic file (type jpg)
 <use figures/formulaire page.JPG>
 Package pdftex.def Info: figures/formulaire page.JPG  used on input line 131.
 (pdftex.def)             Requested size: 426.79137pt x 210.37968pt.
-<figures/form sub page.JPG, id=1578, 636.57825pt x 317.38576pt>
+<figures/form sub page.JPG, id=1571, 636.57825pt x 317.38576pt>
 File: figures/form sub page.JPG Graphic file (type jpg)
 <use figures/form sub page.JPG>
 Package pdftex.def Info: figures/form sub page.JPG  used on input line 137.
@@ -2573,93 +2568,93 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[49
+[44
 
  <./figures/service page.JPG> <./figures/formulaire page.JPG>]
-<figures/profil page.JPG, id=1583, 635.976pt x 319.1925pt>
+<figures/profil page.JPG, id=1576, 635.976pt x 319.1925pt>
 File: figures/profil page.JPG Graphic file (type jpg)
 <use figures/profil page.JPG>
 Package pdftex.def Info: figures/profil page.JPG  used on input line 146.
 (pdftex.def)             Requested size: 426.79137pt x 214.20366pt.
 
 
-[50 <./figures/form sub page.JPG> <./figures/profil page.JPG>]
-<figures/review sub.JPG, id=1589, 621.522pt x 311.9655pt>
+[45 <./figures/form sub page.JPG> <./figures/profil page.JPG>]
+<figures/review sub.JPG, id=1581, 621.522pt x 311.9655pt>
 File: figures/review sub.JPG Graphic file (type jpg)
 <use figures/review sub.JPG>
 Package pdftex.def Info: figures/review sub.JPG  used on input line 155.
 (pdftex.def)             Requested size: 426.79137pt x 214.22823pt.
-<figures/ges emp.JPG, id=1590, 657.657pt x 311.36325pt>
+<figures/ges emp.JPG, id=1582, 657.657pt x 311.36325pt>
 File: figures/ges emp.JPG Graphic file (type jpg)
 <use figures/ges emp.JPG>
 Package pdftex.def Info: figures/ges emp.JPG  used on input line 162.
 (pdftex.def)             Requested size: 426.79137pt x 202.07014pt.
 
 
-[51
+[46
 
  <./figures/review sub.JPG> <./figures/ges emp.JPG>]
-<figures/ges emp2.JPG, id=1595, 655.248pt x 311.36325pt>
+<figures/ges emp2.JPG, id=1587, 655.248pt x 311.36325pt>
 File: figures/ges emp2.JPG Graphic file (type jpg)
 <use figures/ges emp2.JPG>
 Package pdftex.def Info: figures/ges emp2.JPG  used on input line 170.
 (pdftex.def)             Requested size: 426.79137pt x 202.8113pt.
-<figures/create form by the central manager.JPG, id=1596, 655.248pt x 308.95425pt>
+<figures/create form by the central manager.JPG, id=1588, 655.248pt x 308.95425pt>
 File: figures/create form by the central manager.JPG Graphic file (type jpg)
 <use figures/create form by the central manager.JPG>
 Package pdftex.def Info: figures/create form by the central manager.JPG  used on input line 179.
 (pdftex.def)             Requested size: 426.79137pt x 201.24216pt.
 
 
-[52
+[47
 
  <./figures/ges emp2.JPG> <./figures/create form by the central manager.JPG>]
 
-[53
+[48
 
 ]
-<figures/seqAuthentification.png, id=1606, 564.60938pt x 554.07pt>
+<figures/seqAuthentification.png, id=1598, 564.60938pt x 554.07pt>
 File: figures/seqAuthentification.png Graphic file (type png)
 <use figures/seqAuthentification.png>
 Package pdftex.def Info: figures/seqAuthentification.png  used on input line 225.
 (pdftex.def)             Requested size: 426.79137pt x 418.83179pt.
 
 
-[54
+[49
 
  <./figures/seqAuthentification.png>]
 
-[55
+[50
 
 ]
-<figures/seqSubmits_service_request.png, id=1617, 474.27188pt x 599.23875pt>
+<figures/seqSubmits_service_request.png, id=1610, 474.27188pt x 599.23875pt>
 File: figures/seqSubmits_service_request.png Graphic file (type png)
 <use figures/seqSubmits_service_request.png>
 Package pdftex.def Info: figures/seqSubmits_service_request.png  used on input line 270.
 (pdftex.def)             Requested size: 426.79137pt x 539.26418pt.
 
 
-[56
+[51
 
  <./figures/seqSubmits_service_request.png>]
-<figures/bd_manage_profile.png, id=1624, 583.17876pt x 221.82875pt>
+<figures/bd_manage_profile.png, id=1616, 583.17876pt x 221.82875pt>
 File: figures/bd_manage_profile.png Graphic file (type png)
 <use figures/bd_manage_profile.png>
 Package pdftex.def Info: figures/bd_manage_profile.png  used on input line 280.
 (pdftex.def)             Requested size: 426.79137pt x 162.34657pt.
 
 
-[57
+[52
 
  <./figures/bd_manage_profile.png>]
-<figures/seqDisplay_profile.png, id=1632, 593.21625pt x 284.06125pt>
+<figures/seqDisplay_profile.png, id=1624, 593.21625pt x 284.06125pt>
 File: figures/seqDisplay_profile.png Graphic file (type png)
 <use figures/seqDisplay_profile.png>
 Package pdftex.def Info: figures/seqDisplay_profile.png  used on input line 313.
 (pdftex.def)             Requested size: 426.79137pt x 204.37656pt.
 
 
-[58
+[53
 
  <./figures/seqDisplay_profile.png>]
 Overfull \hbox (2.48862pt too wide) in paragraph at lines 331--338
@@ -2673,17 +2668,17 @@ Overfull \hbox (3.441pt too wide) in paragraph at lines 340--346
 
 
 
-[59
+[54
 
 ]
-<figures/seqUpdate_profile.png, id=1643, 603.25375pt x 626.34pt>
+<figures/seqUpdate_profile.png, id=1635, 603.25375pt x 626.34pt>
 File: figures/seqUpdate_profile.png Graphic file (type png)
 <use figures/seqUpdate_profile.png>
 Package pdftex.def Info: figures/seqUpdate_profile.png  used on input line 354.
 (pdftex.def)             Requested size: 426.79137pt x 443.11801pt.
 
 
-[60
+[55
 
  <./figures/seqUpdate_profile.png>]
 Overfull \hbox (12.7666pt too wide) in paragraph at lines 371--378
@@ -2697,37 +2692,37 @@ Overfull \hbox (8.56079pt too wide) in paragraph at lines 380--392
 
 
 
-[61
+[56
 
 ]
-<figures/sequpdate_password.png, id=1654, 603.25375pt x 754.82pt>
+<figures/sequpdate_password.png, id=1647, 603.25375pt x 754.82pt>
 File: figures/sequpdate_password.png Graphic file (type png)
 <use figures/sequpdate_password.png>
 Package pdftex.def Info: figures/sequpdate_password.png  used on input line 400.
 (pdftex.def)             Requested size: 426.79137pt x 534.01404pt.
 
 
-[62
+[57
 
  <./figures/sequpdate_password.png>]
-<figures/bdreview_submission.drawio.png, id=1661, 633.36626pt x 403.5075pt>
+<figures/bdreview_submission.drawio.png, id=1653, 633.36626pt x 403.5075pt>
 File: figures/bdreview_submission.drawio.png Graphic file (type png)
 <use figures/bdreview_submission.drawio.png>
 Package pdftex.def Info: figures/bdreview_submission.drawio.png  used on input line 409.
 (pdftex.def)             Requested size: 426.79137pt x 271.90634pt.
 
 
-[63
+[58
 
  <./figures/bdreview_submission.drawio.png>]
-<figures/seqdisplay_submission_details.png, id=1669, 593.21625pt x 303.1325pt>
+<figures/seqdisplay_submission_details.png, id=1661, 593.21625pt x 303.1325pt>
 File: figures/seqdisplay_submission_details.png Graphic file (type png)
 <use figures/seqdisplay_submission_details.png>
 Package pdftex.def Info: figures/seqdisplay_submission_details.png  used on input line 442.
 (pdftex.def)             Requested size: 426.79137pt x 218.09796pt.
 
 
-[64
+[59
 
  <./figures/seqdisplay_submission_details.png>]
 Overfull \hbox (0.61658pt too wide) in paragraph at lines 460--466
@@ -2741,17 +2736,17 @@ Overfull \hbox (2.40106pt too wide) in paragraph at lines 468--473
 
 
 
-[65
+[60
 
 ]
-<figures/seqrefuse_submission.png, id=1680, 581.17125pt x 625.33624pt>
+<figures/seqrefuse_submission.png, id=1672, 581.17125pt x 625.33624pt>
 File: figures/seqrefuse_submission.png Graphic file (type png)
 <use figures/seqrefuse_submission.png>
 Package pdftex.def Info: figures/seqrefuse_submission.png  used on input line 481.
 (pdftex.def)             Requested size: 426.79137pt x 459.23018pt.
 
 
-[66
+[61
 
  <./figures/seqrefuse_submission.png>]
 Overfull \hbox (2.40106pt too wide) in paragraph at lines 505--510
@@ -2760,41 +2755,41 @@ Overfull \hbox (2.40106pt too wide) in paragraph at lines 505--510
 
 
 
-[67
+[62
 
 ]
-<figures/seqescalate_submission.png, id=1691, 581.17125pt x 554.07pt>
+<figures/seqescalate_submission.png, id=1684, 581.17125pt x 554.07pt>
 File: figures/seqescalate_submission.png Graphic file (type png)
 <use figures/seqescalate_submission.png>
 Package pdftex.def Info: figures/seqescalate_submission.png  used on input line 518.
 (pdftex.def)             Requested size: 426.79137pt x 406.89415pt.
 
 
-[68
+[63
 
  <./figures/seqescalate_submission.png>]
-<figures/bdManages Internal Stakeholders.png, id=1698, 603.25375pt x 322.20375pt>
+<figures/bdManages Internal Stakeholders.png, id=1690, 603.25375pt x 322.20375pt>
 File: figures/bdManages Internal Stakeholders.png Graphic file (type png)
 <use figures/bdManages Internal Stakeholders.png>
 Package pdftex.def Info: figures/bdManages Internal Stakeholders.png  used on input line 526.
 (pdftex.def)             Requested size: 426.79137pt x 227.95013pt.
 
 
-[69
+[64
 
  <./figures/bdManages Internal Stakeholders.png>]
 
-[70
+[65
 
 ]
-<figures/seqcreate internal skateholder.png, id=1710, 593.21625pt x 615.29875pt>
+<figures/seqcreate internal skateholder.png, id=1702, 593.21625pt x 615.29875pt>
 File: figures/seqcreate internal skateholder.png Graphic file (type png)
 <use figures/seqcreate internal skateholder.png>
 Package pdftex.def Info: figures/seqcreate internal skateholder.png  used on input line 563.
 (pdftex.def)             Requested size: 426.79137pt x 442.69554pt.
 
 
-[71
+[66
 
  <./figures/seqcreate internal skateholder.png>]
 Overfull \hbox (11.3037pt too wide) in paragraph at lines 580--585
@@ -2803,17 +2798,17 @@ Overfull \hbox (11.3037pt too wide) in paragraph at lines 580--585
 
 
 
-[72
+[67
 
 ]
-<figures/seqdelete internal.png, id=1721, 543.02875pt x 543.02875pt>
+<figures/seqdelete internal.png, id=1714, 543.02875pt x 543.02875pt>
 File: figures/seqdelete internal.png Graphic file (type png)
 <use figures/seqdelete internal.png>
 Package pdftex.def Info: figures/seqdelete internal.png  used on input line 597.
 (pdftex.def)             Requested size: 426.79137pt x 426.80879pt.
 
 
-[73
+[68
 
  <./figures/seqdelete internal.png>]
 Overfull \hbox (3.0364pt too wide) in paragraph at lines 613--617
@@ -2827,161 +2822,161 @@ Overfull \hbox (0.83542pt too wide) in paragraph at lines 619--622
 
 
 
-[74
+[69
 
 ]
-<figures/seqassign internal stakeholders.png, id=1733, 573.14125pt x 493.845pt>
+<figures/seqassign internal stakeholders.png, id=1725, 573.14125pt x 493.845pt>
 File: figures/seqassign internal stakeholders.png Graphic file (type png)
 <use figures/seqassign internal stakeholders.png>
 Package pdftex.def Info: figures/seqassign internal stakeholders.png  used on input line 630.
 (pdftex.def)             Requested size: 426.79137pt x 367.74542pt.
 
 
-[75
+[70
 
  <./figures/seqassign internal stakeholders.png>]
-<figures/bdmanages dynamic forms-Break down.png, id=1739, 583.17876pt x 282.05376pt>
+<figures/bdmanages dynamic forms-Break down.png, id=1731, 583.17876pt x 282.05376pt>
 File: figures/bdmanages dynamic forms-Break down.png Graphic file (type png)
 <use figures/bdmanages dynamic forms-Break down.png>
 Package pdftex.def Info: figures/bdmanages dynamic forms-Break down.png  used on input line 639.
 (pdftex.def)             Requested size: 426.79137pt x 206.42258pt.
 
 
-[76
+[71
 
  <./figures/bdmanages dynamic forms-Break down.png>]
 
-[77
+[72
 
 ]
-<figures/seqcreate a form..png, id=1751, 593.21625pt x 606.265pt>
+<figures/seqcreate a form..png, id=1743, 593.21625pt x 606.265pt>
 File: figures/seqcreate a form..png Graphic file (type png)
 <use figures/seqcreate a form..png>
 Package pdftex.def Info: figures/seqcreate a form..png  used on input line 677.
 (pdftex.def)             Requested size: 426.79137pt x 436.19594pt.
 
 
-[78
+[73
 
  <./figures/seqcreate a form..png>]
 Overfull \hbox (20.45541pt too wide) in paragraph at lines 687--704
  [][] 
  []
 
-<figures/seqDisableenable a form.png, id=1757, 593.21625pt x 344.28625pt>
+<figures/seqDisableenable a form.png, id=1750, 593.21625pt x 344.28625pt>
 File: figures/seqDisableenable a form.png Graphic file (type png)
 <use figures/seqDisableenable a form.png>
 Package pdftex.def Info: figures/seqDisableenable a form.png  used on input line 708.
 (pdftex.def)             Requested size: 426.79137pt x 247.70729pt.
 
 
-[79
+[74
 
  <./figures/seqDisableenable a form.png>]
-<figures/dc auth.png, id=1765, 848.16875pt x 584.1825pt>
+<figures/dc auth.png, id=1758, 848.16875pt x 584.1825pt>
 File: figures/dc auth.png Graphic file (type png)
 <use figures/dc auth.png>
 Package pdftex.def Info: figures/dc auth.png  used on input line 720.
 (pdftex.def)             Requested size: 426.79137pt x 293.95352pt.
-<figures/dc Submits a service request.png, id=1766, 916.42375pt x 463.7325pt>
+<figures/dc Submits a service request.png, id=1759, 916.42375pt x 463.7325pt>
 File: figures/dc Submits a service request.png Graphic file (type png)
 <use figures/dc Submits a service request.png>
 Package pdftex.def Info: figures/dc Submits a service request.png  used on input line 727.
 (pdftex.def)             Requested size: 426.79137pt x 215.96594pt.
 
 
-[80
+[75
 
  <./figures/dc auth.png>]
-<figures/dc manage profile.png, id=1775, 858.20625pt x 584.1825pt>
+<figures/dc manage profile.png, id=1767, 858.20625pt x 584.1825pt>
 File: figures/dc manage profile.png Graphic file (type png)
 <use figures/dc manage profile.png>
 Package pdftex.def Info: figures/dc manage profile.png  used on input line 734.
 (pdftex.def)             Requested size: 426.79137pt x 290.52168pt.
 
 
-[81 <./figures/dc Submits a service request.png> <./figures/dc manage profile.png>]
-<figures/dc review submission.png, id=1784, 907.39pt x 528.97626pt>
+[76 <./figures/dc Submits a service request.png> <./figures/dc manage profile.png>]
+<figures/dc review submission.png, id=1776, 907.39pt x 528.97626pt>
 File: figures/dc review submission.png Graphic file (type png)
 <use figures/dc review submission.png>
 Package pdftex.def Info: figures/dc review submission.png  used on input line 741.
 (pdftex.def)             Requested size: 426.79137pt x 248.80452pt.
-<figures/dc manageform.png, id=1785, 835.12pt x 376.40625pt>
+<figures/dc manageform.png, id=1777, 835.12pt x 376.40625pt>
 File: figures/dc manageform.png Graphic file (type png)
 <use figures/dc manageform.png>
 Package pdftex.def Info: figures/dc manageform.png  used on input line 748.
 (pdftex.def)             Requested size: 426.79137pt x 192.36668pt.
 
 
-[82
+[77
 
  <./figures/dc review submission.png> <./figures/dc manageform.png>]
-<figures/dc Manages Internal Stakeholders.png, id=1794, 855.195pt x 642.4pt>
+<figures/dc Manages Internal Stakeholders.png, id=1786, 855.195pt x 642.4pt>
 File: figures/dc Manages Internal Stakeholders.png Graphic file (type png)
 <use figures/dc Manages Internal Stakeholders.png>
 Package pdftex.def Info: figures/dc Manages Internal Stakeholders.png  used on input line 756.
 (pdftex.def)             Requested size: 426.79137pt x 320.59148pt.
 
 
-[83
+[78
 
  <./figures/dc Manages Internal Stakeholders.png>]
-<figures/det authentificate.png, id=1802, 1165.35374pt x 693.59125pt>
+<figures/det authentificate.png, id=1794, 1165.35374pt x 693.59125pt>
 File: figures/det authentificate.png Graphic file (type png)
 <use figures/det authentificate.png>
 Package pdftex.def Info: figures/det authentificate.png  used on input line 765.
 (pdftex.def)             Requested size: 426.79137pt x 254.01065pt.
-<figures/det Submits a service request.png, id=1803, 1457.445pt x 1097.09875pt>
+<figures/det Submits a service request.png, id=1795, 1457.445pt x 1097.09875pt>
 File: figures/det Submits a service request.png Graphic file (type png)
 <use figures/det Submits a service request.png>
 Package pdftex.def Info: figures/det Submits a service request.png  used on input line 772.
 (pdftex.def)             Requested size: 426.79137pt x 321.26419pt.
 
 
-[84
+[79
 
  <./figures/det authentificate.png> <./figures/det Submits a service request.png>]
-<figures/det display profile.png, id=1811, 1145.27875pt x 544.0325pt>
+<figures/det display profile.png, id=1804, 1145.27875pt x 544.0325pt>
 File: figures/det display profile.png Graphic file (type png)
 <use figures/det display profile.png>
 Package pdftex.def Info: figures/det display profile.png  used on input line 780.
 (pdftex.def)             Requested size: 426.79137pt x 202.73329pt.
-<figures/det update profile.png, id=1812, 1175.39125pt x 809.0225pt>
+<figures/det update profile.png, id=1805, 1175.39125pt x 809.0225pt>
 File: figures/det update profile.png Graphic file (type png)
 <use figures/det update profile.png>
 Package pdftex.def Info: figures/det update profile.png  used on input line 785.
 (pdftex.def)             Requested size: 426.79137pt x 293.75385pt.
 
 
-[85
+[80
 
  <./figures/det display profile.png> <./figures/det update profile.png>]
-<figures/det update password.png, id=1820, 1145.27875pt x 1326.9575pt>
+<figures/det update password.png, id=1813, 1145.27875pt x 1326.9575pt>
 File: figures/det update password.png Graphic file (type png)
 <use figures/det update password.png>
 Package pdftex.def Info: figures/det update password.png  used on input line 791.
 (pdftex.def)             Requested size: 426.79137pt x 494.4897pt.
 
 
-[86
+[81
 
  <./figures/det update password.png>]
-<figures/det review submission.png, id=1827, 1627.07875pt x 1348.03625pt>
+<figures/det review submission.png, id=1819, 1627.07875pt x 1348.03625pt>
 File: figures/det review submission.png Graphic file (type png)
 <use figures/det review submission.png>
 Package pdftex.def Info: figures/det review submission.png  used on input line 798.
 (pdftex.def)             Requested size: 426.79137pt x 353.58713pt.
 
 
-[87
+[82
 
  <./figures/det review submission.png>]
-<figures/det Manages Internal Stakeholders create.png, id=1834, 1456.44125pt x 1207.51125pt>
+<figures/det Manages Internal Stakeholders create.png, id=1826, 1456.44125pt x 1207.51125pt>
 File: figures/det Manages Internal Stakeholders create.png Graphic file (type png)
 <use figures/det Manages Internal Stakeholders create.png>
 Package pdftex.def Info: figures/det Manages Internal Stakeholders create.png  used on input line 805.
 (pdftex.def)             Requested size: 426.79137pt x 353.83589pt.
-<figures/det Manages Internal Stakeholders delete.png, id=1835, 1185.42876pt x 666.49pt>
+<figures/det Manages Internal Stakeholders delete.png, id=1827, 1185.42876pt x 666.49pt>
 File: figures/det Manages Internal Stakeholders delete.png Graphic file (type png)
 <use figures/det Manages Internal Stakeholders delete.png>
 Package pdftex.def Info: figures/det Manages Internal Stakeholders delete.png  used on input line 811.
@@ -2990,7 +2985,7 @@ Package pdftex.def Info: figures/det Manages Internal Stakeholders delete.png  u
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/det Manages Internal Stakeholders assign.png, id=1836, 1195.46625pt x 868.24374pt>
+<figures/det Manages Internal Stakeholders assign.png, id=1828, 1195.46625pt x 868.24374pt>
 File: figures/det Manages Internal Stakeholders assign.png Graphic file (type png)
 <use figures/det Manages Internal Stakeholders assign.png>
 Package pdftex.def Info: figures/det Manages Internal Stakeholders assign.png  used on input line 816.
@@ -3000,34 +2995,34 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[88
+[83
 
  <./figures/det Manages Internal Stakeholders create.png>]
 
-[89 <./figures/det Manages Internal Stakeholders delete.png> <./figures/det Manages Internal Stakeholders assign.png>]
-<figures/det manages dynamic form create a form.png, id=1849, 1185.42876pt x 757.83125pt>
+[84 <./figures/det Manages Internal Stakeholders delete.png> <./figures/det Manages Internal Stakeholders assign.png>]
+<figures/det manages dynamic form create a form.png, id=1841, 1185.42876pt x 757.83125pt>
 File: figures/det manages dynamic form create a form.png Graphic file (type png)
 <use figures/det manages dynamic form create a form.png>
 Package pdftex.def Info: figures/det manages dynamic form create a form.png  used on input line 823.
 (pdftex.def)             Requested size: 426.79137pt x 272.84216pt.
-<figures/det enable a form.png, id=1850, 934.49126pt x 414.54875pt>
+<figures/det enable a form.png, id=1842, 934.49126pt x 414.54875pt>
 File: figures/det enable a form.png Graphic file (type png)
 <use figures/det enable a form.png>
 Package pdftex.def Info: figures/det enable a form.png  used on input line 828.
 (pdftex.def)             Requested size: 426.79137pt x 189.32843pt.
 
 
-[90
+[85
 
  <./figures/det manages dynamic form create a form.png> <./figures/det enable a form.png>]
-<figures/global_class_diagram_sprint_1-diagram_de_classe_sprint_1.png, id=1858, 1033.8625pt x 1067.99pt>
+<figures/global_class_diagram_sprint_1-diagram_de_classe_sprint_1.png, id=1851, 1033.8625pt x 1067.99pt>
 File: figures/global_class_diagram_sprint_1-diagram_de_classe_sprint_1.png Graphic file (type png)
 <use figures/global_class_diagram_sprint_1-diagram_de_classe_sprint_1.png>
 Package pdftex.def Info: figures/global_class_diagram_sprint_1-diagram_de_classe_sprint_1.png  used on input line 837.
 (pdftex.def)             Requested size: 426.79137pt x 440.87724pt.
 
 
-[91
+[86
 
  <./figures/global_class_diagram_sprint_1-diagram_de_classe_sprint_1.png>]
 
@@ -3056,26 +3051,26 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[92
+[87
 
 ]
 
-[93]
+[88]
 
-[94]
+[89]
 
-[95]
-<figures/ui-auth.png, id=1881, 1340.75906pt x 666.23906pt>
+[90]
+<figures/ui-auth.png, id=1873, 1340.75906pt x 666.23906pt>
 File: figures/ui-auth.png Graphic file (type png)
 <use figures/ui-auth.png>
 Package pdftex.def Info: figures/ui-auth.png  used on input line 1038.
 (pdftex.def)             Requested size: 426.79137pt x 212.07242pt.
-<figures/ui-signup.png, id=1882, 1897.0875pt x 1380.15625pt>
+<figures/ui-signup.png, id=1874, 1897.0875pt x 1380.15625pt>
 File: figures/ui-signup.png Graphic file (type png)
 <use figures/ui-signup.png>
 Package pdftex.def Info: figures/ui-signup.png  used on input line 1043.
 (pdftex.def)             Requested size: 426.79137pt x 310.47964pt.
-<figures/ui-servicepage.png, id=1883, 1896.08376pt x 1117.17375pt>
+<figures/ui-servicepage.png, id=1875, 1896.08376pt x 1117.17375pt>
 File: figures/ui-servicepage.png Graphic file (type png)
 <use figures/ui-servicepage.png>
 Package pdftex.def Info: figures/ui-servicepage.png  used on input line 1049.
@@ -3084,7 +3079,7 @@ Package pdftex.def Info: figures/ui-servicepage.png  used on input line 1049.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-detform.png, id=1884, 1882.03125pt x 1681.28125pt>
+<figures/ui-detform.png, id=1876, 1882.03125pt x 1681.28125pt>
 File: figures/ui-detform.png Graphic file (type png)
 <use figures/ui-detform.png>
 Package pdftex.def Info: figures/ui-detform.png  used on input line 1054.
@@ -3092,7 +3087,7 @@ Package pdftex.def Info: figures/ui-detform.png  used on input line 1054.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-form.png, id=1885, 1776.6375pt x 1179.40625pt>
+<figures/ui-form.png, id=1877, 1776.6375pt x 1179.40625pt>
 File: figures/ui-form.png Graphic file (type png)
 <use figures/ui-form.png>
 Package pdftex.def Info: figures/ui-form.png  used on input line 1059.
@@ -3100,7 +3095,7 @@ Package pdftex.def Info: figures/ui-form.png  used on input line 1059.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-reviewsub.png, id=1886, 1425.82687pt x 665.48625pt>
+<figures/ui-reviewsub.png, id=1878, 1425.82687pt x 665.48625pt>
 File: figures/ui-reviewsub.png Graphic file (type png)
 <use figures/ui-reviewsub.png>
 Package pdftex.def Info: figures/ui-reviewsub.png  used on input line 1064.
@@ -3108,7 +3103,7 @@ Package pdftex.def Info: figures/ui-reviewsub.png  used on input line 1064.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-reviewsubdetails.png, id=1887, 1403.99532pt x 662.475pt>
+<figures/ui-reviewsubdetails.png, id=1879, 1403.99532pt x 662.475pt>
 File: figures/ui-reviewsubdetails.png Graphic file (type png)
 <use figures/ui-reviewsubdetails.png>
 Package pdftex.def Info: figures/ui-reviewsubdetails.png  used on input line 1069.
@@ -3116,7 +3111,7 @@ Package pdftex.def Info: figures/ui-reviewsubdetails.png  used on input line 106
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-profile.png, id=1888, 1294.8375pt x 657.2053pt>
+<figures/ui-profile.png, id=1880, 1294.8375pt x 657.2053pt>
 File: figures/ui-profile.png Graphic file (type png)
 <use figures/ui-profile.png>
 Package pdftex.def Info: figures/ui-profile.png  used on input line 1074.
@@ -3124,7 +3119,7 @@ Package pdftex.def Info: figures/ui-profile.png  used on input line 1074.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-managestakeholders.png, id=1889, 1403.2425pt x 663.22781pt>
+<figures/ui-managestakeholders.png, id=1881, 1403.2425pt x 663.22781pt>
 File: figures/ui-managestakeholders.png Graphic file (type png)
 <use figures/ui-managestakeholders.png>
 Package pdftex.def Info: figures/ui-managestakeholders.png  used on input line 1079.
@@ -3132,7 +3127,7 @@ Package pdftex.def Info: figures/ui-managestakeholders.png  used on input line 1
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-manageform.png, id=1890, 1404.74812pt x 654.19406pt>
+<figures/ui-manageform.png, id=1882, 1404.74812pt x 654.19406pt>
 File: figures/ui-manageform.png Graphic file (type png)
 <use figures/ui-manageform.png>
 Package pdftex.def Info: figures/ui-manageform.png  used on input line 1084.
@@ -3140,7 +3135,7 @@ Package pdftex.def Info: figures/ui-manageform.png  used on input line 1084.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-createform.png, id=1891, 764.10469pt x 1145.78062pt>
+<figures/ui-createform.png, id=1883, 764.10469pt x 1145.78062pt>
 File: figures/ui-createform.png Graphic file (type png)
 <use figures/ui-createform.png>
 Package pdftex.def Info: figures/ui-createform.png  used on input line 1089.
@@ -3150,85 +3145,77 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[96
+[91
 
  <./figures/ui-auth.png> <./figures/ui-signup.png (PNG copy)>]
 
-[97 <./figures/ui-servicepage.png (PNG copy)> <./figures/ui-detform.png (PNG copy)>]
+[92 <./figures/ui-servicepage.png (PNG copy)> <./figures/ui-detform.png (PNG copy)>]
 
-[98 <./figures/ui-form.png (PNG copy)> <./figures/ui-reviewsub.png>]
+[93 <./figures/ui-form.png (PNG copy)> <./figures/ui-reviewsub.png>]
 
-[99 <./figures/ui-reviewsubdetails.png> <./figures/ui-profile.png>]
+[94 <./figures/ui-reviewsubdetails.png> <./figures/ui-profile.png>]
 
-[100 <./figures/ui-managestakeholders.png> <./figures/ui-manageform.png>]
+[95 <./figures/ui-managestakeholders.png> <./figures/ui-manageform.png>]
 
-[101 <./figures/ui-createform.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1099--1100
-
- []
-
-<figures/subScode.JPG, id=1925, 475.7775pt x 494.44725pt>
+[96 <./figures/ui-createform.png>]
+<figures/subScode.JPG, id=1917, 475.7775pt x 494.44725pt>
 File: figures/subScode.JPG Graphic file (type jpg)
 <use figures/subScode.JPG>
 Package pdftex.def Info: figures/subScode.JPG  used on input line 1110.
 (pdftex.def)             Requested size: 426.79137pt x 443.55739pt.
-<figures/test success submit service request.png, id=1926, 779.16093pt x 233.37187pt>
+<figures/test success submit service request.png, id=1918, 779.16093pt x 233.37187pt>
 File: figures/test success submit service request.png Graphic file (type png)
 <use figures/test success submit service request.png>
 Package pdftex.def Info: figures/test success submit service request.png  used on input line 1115.
 (pdftex.def)             Requested size: 426.79137pt x 127.83145pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[102
+
+
+[97
 
 ]
 
-[103 <./figures/subScode.JPG> <./figures/test success submit service request.png>]
-<figures/subFcode.JPG, id=1939, 766.66425pt x 391.4625pt>
+[98 <./figures/subScode.JPG> <./figures/test success submit service request.png>]
+<figures/subFcode.JPG, id=1932, 766.66425pt x 391.4625pt>
 File: figures/subFcode.JPG Graphic file (type jpg)
 <use figures/subFcode.JPG>
 Package pdftex.def Info: figures/subFcode.JPG  used on input line 1123.
 (pdftex.def)             Requested size: 426.79137pt x 217.92131pt.
-<figures/test fail submit service request.png, id=1940, 723.45282pt x 264.99pt>
+<figures/test fail submit service request.png, id=1933, 723.45282pt x 264.99pt>
 File: figures/test fail submit service request.png Graphic file (type png)
 <use figures/test fail submit service request.png>
 Package pdftex.def Info: figures/test fail submit service request.png  used on input line 1128.
 (pdftex.def)             Requested size: 426.79137pt x 156.32657pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1136--1137
 
- []
-
-
-
-[104
+[99
 
  <./figures/subFcode.JPG> <./figures/test fail submit service request.png>]
-<figures/createformScode.JPG, id=1949, 478.1865pt x 469.755pt>
+<figures/createformScode.JPG, id=1941, 478.1865pt x 469.755pt>
 File: figures/createformScode.JPG Graphic file (type jpg)
 <use figures/createformScode.JPG>
 Package pdftex.def Info: figures/createformScode.JPG  used on input line 1147.
 (pdftex.def)             Requested size: 426.79137pt x 419.28485pt.
 
 
-[105 <./figures/createformScode.JPG>]
-<figures/test succes create form.png, id=1955, 776.14969pt x 199.49532pt>
+[100 <./figures/createformScode.JPG>]
+<figures/test succes create form.png, id=1947, 776.14969pt x 199.49532pt>
 File: figures/test succes create form.png Graphic file (type png)
 <use figures/test succes create form.png>
 Package pdftex.def Info: figures/test succes create form.png  used on input line 1153.
 (pdftex.def)             Requested size: 426.79137pt x 109.70145pt.
-<figures/createformFcode.JPG, id=1956, 803.4015pt x 491.436pt>
+<figures/createformFcode.JPG, id=1948, 803.4015pt x 491.436pt>
 File: figures/createformFcode.JPG Graphic file (type jpg)
 <use figures/createformFcode.JPG>
 Package pdftex.def Info: figures/createformFcode.JPG  used on input line 1161.
 (pdftex.def)             Requested size: 426.79137pt x 261.06723pt.
-<figures/test fail create form.png, id=1957, 744.53156pt x 192.72pt>
+<figures/test fail create form.png, id=1949, 744.53156pt x 192.72pt>
 File: figures/test fail create form.png Graphic file (type png)
 <use figures/test fail create form.png>
 Package pdftex.def Info: figures/test fail create form.png  used on input line 1166.
@@ -3241,7 +3228,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1202.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1202.
-<figures/burn down chart 1.png, id=1959, 1987.425pt x 1184.425pt>
+<figures/burn down chart 1.png, id=1951, 1987.425pt x 1184.425pt>
 File: figures/burn down chart 1.png Graphic file (type png)
 <use figures/burn down chart 1.png>
 Package pdftex.def Info: figures/burn down chart 1.png  used on input line 1207.
@@ -3254,24 +3241,24 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[106
+[101
 
  <./figures/test succes create form.png> <./figures/createformFcode.JPG>]
 
-LaTeX Warning: Text page 107 contains only floats.
+LaTeX Warning: Text page 102 contains only floats.
 
 
 Overfull \vbox (0.96179pt too high) has occurred while \output is active []
 
 
 
-[107 <./figures/test fail create form.png> <./figures/burn down chart 1.png (PNG copy)>])
+[102 <./figures/test fail create form.png> <./figures/burn down chart 1.png (PNG copy)>])
 
-[108] (chapitres/chapitre4.tex
+[103] (chapitres/chapitre4.tex
 Chapter 4.
 
 
-[109
+[104
 
 
 ]
@@ -3289,33 +3276,33 @@ Overfull \hbox (2.64894pt too wide) in alignment at lines 30--75
  [] [] [] [] [] 
  []
 
-[110] [111] [112]
-<figures/Tracksubstatus.JPG, id=1993, 635.976pt x 317.38576pt>
+[105] [106] [107]
+<figures/Tracksubstatus.JPG, id=1985, 635.976pt x 317.38576pt>
 File: figures/Tracksubstatus.JPG Graphic file (type jpg)
 <use figures/Tracksubstatus.JPG>
 Package pdftex.def Info: figures/Tracksubstatus.JPG  used on input line 81.
 (pdftex.def)             Requested size: 384.10962pt x 191.69208pt.
-<figures/notifications.JPG, id=1994, 634.7715pt x 317.38576pt>
+<figures/notifications.JPG, id=1986, 634.7715pt x 317.38576pt>
 File: figures/notifications.JPG Graphic file (type jpg)
 <use figures/notifications.JPG>
 Package pdftex.def Info: figures/notifications.JPG  used on input line 86.
 (pdftex.def)             Requested size: 384.10962pt x 192.06013pt.
-<figures/consult basic statics.JPG, id=1995, 656.4525pt x 308.95425pt>
+<figures/consult basic statics.JPG, id=1987, 656.4525pt x 308.95425pt>
 File: figures/consult basic statics.JPG Graphic file (type jpg)
 <use figures/consult basic statics.JPG>
 Package pdftex.def Info: figures/consult basic statics.JPG  used on input line 91.
 (pdftex.def)             Requested size: 384.10962pt x 180.77757pt.
-<figures/supervise assigned file managers.JPG, id=1996, 658.8615pt x 311.36325pt>
+<figures/supervise assigned file managers.JPG, id=1988, 658.8615pt x 311.36325pt>
 File: figures/supervise assigned file managers.JPG Graphic file (type jpg)
 <use figures/supervise assigned file managers.JPG>
 Package pdftex.def Info: figures/supervise assigned file managers.JPG  used on input line 96.
 (pdftex.def)             Requested size: 384.10962pt x 181.522pt.
-<figures/track sub workflow.JPG, id=1997, 655.248pt x 311.9655pt>
+<figures/track sub workflow.JPG, id=1989, 655.248pt x 311.9655pt>
 File: figures/track sub workflow.JPG Graphic file (type jpg)
 <use figures/track sub workflow.JPG>
 Package pdftex.def Info: figures/track sub workflow.JPG  used on input line 101.
 (pdftex.def)             Requested size: 384.10962pt x 182.88228pt.
-<figures/consult global statics.JPG, id=1998, 658.8615pt x 311.36325pt>
+<figures/consult global statics.JPG, id=1990, 658.8615pt x 311.36325pt>
 File: figures/consult global statics.JPG Graphic file (type jpg)
 <use figures/consult global statics.JPG>
 Package pdftex.def Info: figures/consult global statics.JPG  used on input line 106.
@@ -3339,19 +3326,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/use case par acteur2.png, id=1999, 558.58687pt x 526.21594pt>
+<figures/use case par acteur2.png, id=1991, 558.58687pt x 526.21594pt>
 File: figures/use case par acteur2.png Graphic file (type png)
 <use figures/use case par acteur2.png>
 Package pdftex.def Info: figures/use case par acteur2.png  used on input line 114.
 (pdftex.def)             Requested size: 256.07742pt x 241.24327pt.
-<figures/diagram use case s2.png, id=2000, 786.68906pt x 581.92406pt>
+<figures/diagram use case s2.png, id=1992, 786.68906pt x 581.92406pt>
 File: figures/diagram use case s2.png Graphic file (type png)
 <use figures/diagram use case s2.png>
 Package pdftex.def Info: figures/diagram use case s2.png  used on input line 119.
 (pdftex.def)             Requested size: 384.10962pt x 284.1419pt.
 
 
-[113]
+[108]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -3360,11 +3347,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[114 <./figures/Tracksubstatus.JPG> <./figures/notifications.JPG>]
+[109 <./figures/Tracksubstatus.JPG> <./figures/notifications.JPG>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/seq track sub status.JPG, id=2009, 405.9165pt x 276.43275pt>
+<figures/seq track sub status.JPG, id=2002, 405.9165pt x 276.43275pt>
 File: figures/seq track sub status.JPG Graphic file (type jpg)
 <use figures/seq track sub status.JPG>
 Package pdftex.def Info: figures/seq track sub status.JPG  used on input line 146.
@@ -3374,7 +3361,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[115 <./figures/consult basic statics.JPG> <./figures/supervise assigned file managers.JPG>]
+[110 <./figures/consult basic statics.JPG> <./figures/supervise assigned file managers.JPG>]
 Overfull \hbox (1.76587pt too wide) in paragraph at lines 162--165
 []|[]| 
  []
@@ -3382,7 +3369,7 @@ Overfull \hbox (1.76587pt too wide) in paragraph at lines 162--165
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/seq consult notifications.JPG, id=2015, 439.04025pt x 268.00125pt>
+<figures/seq consult notifications.JPG, id=2008, 439.04025pt x 268.00125pt>
 File: figures/seq consult notifications.JPG Graphic file (type jpg)
 <use figures/seq consult notifications.JPG>
 Package pdftex.def Info: figures/seq consult notifications.JPG  used on input line 172.
@@ -3392,7 +3379,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[116 <./figures/track sub workflow.JPG> <./figures/consult global statics.JPG>]
+[111 <./figures/track sub workflow.JPG> <./figures/consult global statics.JPG>]
 Overfull \hbox (5.78528pt too wide) in paragraph at lines 188--191
 []|[]| 
  []
@@ -3400,7 +3387,7 @@ Overfull \hbox (5.78528pt too wide) in paragraph at lines 188--191
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/seq supervise assigned file managers activities.JPG, id=2022, 404.10976pt x 281.853pt>
+<figures/seq supervise assigned file managers activities.JPG, id=2014, 404.10976pt x 281.853pt>
 File: figures/seq supervise assigned file managers activities.JPG Graphic file (type jpg)
 <use figures/seq supervise assigned file managers activities.JPG>
 Package pdftex.def Info: figures/seq supervise assigned file managers activities.JPG  used on input line 198.
@@ -3410,7 +3397,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[117 <./figures/use case par acteur2.png> <./figures/diagram use case s2.png>]
+[112 <./figures/use case par acteur2.png> <./figures/diagram use case s2.png>]
 Overfull \hbox (3.10202pt too wide) in paragraph at lines 214--221
 []|[]| 
  []
@@ -3418,7 +3405,7 @@ Overfull \hbox (3.10202pt too wide) in paragraph at lines 214--221
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/seq track sub workflow history.png, id=2030, 522.95375pt x 573.14125pt>
+<figures/seq track sub workflow history.png, id=2022, 522.95375pt x 573.14125pt>
 File: figures/seq track sub workflow history.png Graphic file (type png)
 <use figures/seq track sub workflow history.png>
 Package pdftex.def Info: figures/seq track sub workflow history.png  used on input line 229.
@@ -3428,14 +3415,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[118 <./figures/seq track sub status.JPG>]
+[113 <./figures/seq track sub status.JPG>]
 
-[119 <./figures/seq consult notifications.JPG>]
+[114 <./figures/seq consult notifications.JPG>]
 
-[120 <./figures/seq supervise assigned file managers activities.JPG>]
+[115 <./figures/seq supervise assigned file managers activities.JPG>]
 
-[121 <./figures/seq track sub workflow history.png>]
-<figures/seq consult global statistics.png, id=2049, 584.1825pt x 892.33376pt>
+[116 <./figures/seq track sub workflow history.png>]
+<figures/seq consult global statistics.png, id=2042, 584.1825pt x 892.33376pt>
 File: figures/seq consult global statistics.png Graphic file (type png)
 <use figures/seq consult global statistics.png>
 Package pdftex.def Info: figures/seq consult global statistics.png  used on input line 266.
@@ -3446,143 +3433,138 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[122
+[117
 
 ]
 
-LaTeX Warning: Text page 123 contains only floats.
+LaTeX Warning: Text page 118 contains only floats.
 
 
 Overfull \vbox (2.19614pt too high) has occurred while \output is active []
 
 
 
-[123 <./figures/seq consult global statistics.png>]
-<figures/dc track sub status.JPG, id=2061, 680.5425pt x 249.93375pt>
+[118 <./figures/seq consult global statistics.png>]
+<figures/dc track sub status.JPG, id=2053, 680.5425pt x 249.93375pt>
 File: figures/dc track sub status.JPG Graphic file (type jpg)
 <use figures/dc track sub status.JPG>
 Package pdftex.def Info: figures/dc track sub status.JPG  used on input line 277.
 (pdftex.def)             Requested size: 426.79137pt x 156.74211pt.
-<figures/dc consult notifications.JPG, id=2062, 638.385pt x 171.64125pt>
+<figures/dc consult notifications.JPG, id=2054, 638.385pt x 171.64125pt>
 File: figures/dc consult notifications.JPG Graphic file (type jpg)
 <use figures/dc consult notifications.JPG>
 Package pdftex.def Info: figures/dc consult notifications.JPG  used on input line 284.
 (pdftex.def)             Requested size: 426.79137pt x 114.75021pt.
 
 
-[124
+[119
 
  <./figures/dc track sub status.JPG> <./figures/dc consult notifications.JPG>]
-<figures/dc consult basic statistics.JPG, id=2069, 690.1785pt x 218.61674pt>
+<figures/dc consult basic statistics.JPG, id=2061, 690.1785pt x 218.61674pt>
 File: figures/dc consult basic statistics.JPG Graphic file (type jpg)
 <use figures/dc consult basic statistics.JPG>
 Package pdftex.def Info: figures/dc consult basic statistics.JPG  used on input line 291.
 (pdftex.def)             Requested size: 426.79137pt x 135.1907pt.
-<figures/dc supervise assigned file managers activities.JPG, id=2070, 700.41675pt x 213.1965pt>
+<figures/dc supervise assigned file managers activities.JPG, id=2062, 700.41675pt x 213.1965pt>
 File: figures/dc supervise assigned file managers activities.JPG Graphic file (type jpg)
 <use figures/dc supervise assigned file managers activities.JPG>
 Package pdftex.def Info: figures/dc supervise assigned file managers activities.JPG  used on input line 297.
 (pdftex.def)             Requested size: 426.79137pt x 129.90977pt.
 
 
-[125
+[120
 
  <./figures/dc consult basic statistics.JPG> <./figures/dc supervise assigned file managers activities.JPG>]
-<figures/dc Track submissions Workflows history.png, id=2077, 886.31125pt x 616.3025pt>
+<figures/dc Track submissions Workflows history.png, id=2069, 886.31125pt x 616.3025pt>
 File: figures/dc Track submissions Workflows history.png Graphic file (type png)
 <use figures/dc Track submissions Workflows history.png>
 Package pdftex.def Info: figures/dc Track submissions Workflows history.png  used on input line 304.
 (pdftex.def)             Requested size: 426.79137pt x 296.78105pt.
-<figures/dc Consult global statistics.png, id=2078, 890.32625pt x 232.87pt>
+<figures/dc Consult global statistics.png, id=2070, 890.32625pt x 232.87pt>
 File: figures/dc Consult global statistics.png Graphic file (type png)
 <use figures/dc Consult global statistics.png>
 Package pdftex.def Info: figures/dc Consult global statistics.png  used on input line 310.
 (pdftex.def)             Requested size: 426.79137pt x 111.63063pt.
 
 
-[126
+[121
 
  <./figures/dc Track submissions Workflows history.png> <./figures/dc Consult global statistics.png>]
-<figures/det Tracks submission status.png, id=2087, 934.49126pt x 473.77pt>
+<figures/det Tracks submission status.png, id=2080, 934.49126pt x 473.77pt>
 File: figures/det Tracks submission status.png Graphic file (type png)
 <use figures/det Tracks submission status.png>
 Package pdftex.def Info: figures/det Tracks submission status.png  used on input line 318.
 (pdftex.def)             Requested size: 426.79137pt x 216.37535pt.
-<figures/det consult notification.png, id=2088, 934.49126pt x 473.77pt>
+<figures/det consult notification.png, id=2081, 934.49126pt x 473.77pt>
 File: figures/det consult notification.png Graphic file (type png)
 <use figures/det consult notification.png>
 Package pdftex.def Info: figures/det consult notification.png  used on input line 324.
 (pdftex.def)             Requested size: 426.79137pt x 216.37535pt.
 
 
-[127
+[122
 
  <./figures/det Tracks submission status.png> <./figures/det consult notification.png>]
-<figures/det consult basic stat.png, id=2097, 954.56625pt x 947.54pt>
+<figures/det consult basic stat.png, id=2090, 954.56625pt x 947.54pt>
 File: figures/det consult basic stat.png Graphic file (type png)
 <use figures/det consult basic stat.png>
 Package pdftex.def Info: figures/det consult basic stat.png  used on input line 331.
 (pdftex.def)             Requested size: 426.79137pt x 423.64198pt.
 
 
-[128
+[123
 
  <./figures/det consult basic stat.png>]
-<figures/det supervise assigned file managers activities.png, id=2105, 934.49126pt x 459.7175pt>
+<figures/det supervise assigned file managers activities.png, id=2097, 934.49126pt x 459.7175pt>
 File: figures/det supervise assigned file managers activities.png Graphic file (type png)
 <use figures/det supervise assigned file managers activities.png>
 Package pdftex.def Info: figures/det supervise assigned file managers activities.png  used on input line 338.
 (pdftex.def)             Requested size: 426.79137pt x 209.95743pt.
-<figures/det track sub workflow history.png, id=2106, 1466.47874pt x 840.13875pt>
+<figures/det track sub workflow history.png, id=2098, 1466.47874pt x 840.13875pt>
 File: figures/det track sub workflow history.png Graphic file (type png)
 <use figures/det track sub workflow history.png>
 Package pdftex.def Info: figures/det track sub workflow history.png  used on input line 344.
 (pdftex.def)             Requested size: 426.79137pt x 244.50572pt.
 
 
-[129
+[124
 
  <./figures/det supervise assigned file managers activities.png> <./figures/det track sub workflow history.png>]
-<figures/det consult global statistics.png, id=2115, 954.56625pt x 1410.26875pt>
+<figures/det consult global statistics.png, id=2107, 954.56625pt x 1410.26875pt>
 File: figures/det consult global statistics.png Graphic file (type png)
 <use figures/det consult global statistics.png>
 Package pdftex.def Info: figures/det consult global statistics.png  used on input line 352.
 (pdftex.def)             Requested size: 426.79137pt x 630.52649pt.
-<figures/global class dia s2.jpg, id=2116, 982.67125pt x 1067.99pt>
+<figures/global class dia s2.jpg, id=2108, 982.67125pt x 1067.99pt>
 File: figures/global class dia s2.jpg Graphic file (type jpg)
 <use figures/global class dia s2.jpg>
 Package pdftex.def Info: figures/global class dia s2.jpg  used on input line 359.
 (pdftex.def)             Requested size: 426.79137pt x 463.83858pt.
 
 
-[130
+[125
 
  <./figures/det consult global statistics.png>]
 
-[131 <./figures/global class dia s2.jpg>]
-Overfull \hbox (2.03925pt too wide) in paragraph at lines 364--365
-\T1/phv/m/n/14.4 (-20) In this step, we will de-fine the struc-ture of the cur-rent sprint's database
- []
+[126 <./figures/global class dia s2.jpg>]
 
-
-
-[132
+[127
 
 ]
 
-[133
+[128
 
 ]
 
-[134
+[129
 
 ]
-<figures/ui-track sub status.png, id=2140, 1276.01718pt x 618.05907pt>
+<figures/ui-track sub status.png, id=2132, 1276.01718pt x 618.05907pt>
 File: figures/ui-track sub status.png Graphic file (type png)
 <use figures/ui-track sub status.png>
 Package pdftex.def Info: figures/ui-track sub status.png  used on input line 552.
 (pdftex.def)             Requested size: 426.79137pt x 206.72334pt.
-<figures/ui-consult notif.png, id=2141, 1400.98407pt x 655.69969pt>
+<figures/ui-consult notif.png, id=2133, 1400.98407pt x 655.69969pt>
 File: figures/ui-consult notif.png Graphic file (type png)
 <use figures/ui-consult notif.png>
 Package pdftex.def Info: figures/ui-consult notif.png  used on input line 559.
@@ -3591,7 +3573,7 @@ Package pdftex.def Info: figures/ui-consult notif.png  used on input line 559.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-consult basic stat.png, id=2142, 1407.75937pt x 663.98062pt>
+<figures/ui-consult basic stat.png, id=2134, 1407.75937pt x 663.98062pt>
 File: figures/ui-consult basic stat.png Graphic file (type png)
 <use figures/ui-consult basic stat.png>
 Package pdftex.def Info: figures/ui-consult basic stat.png  used on input line 564.
@@ -3599,7 +3581,7 @@ Package pdftex.def Info: figures/ui-consult basic stat.png  used on input line 5
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-supervise assigned fl activities.png, id=2143, 1411.52344pt x 665.48625pt>
+<figures/ui-supervise assigned fl activities.png, id=2135, 1411.52344pt x 665.48625pt>
 File: figures/ui-supervise assigned fl activities.png Graphic file (type png)
 <use figures/ui-supervise assigned fl activities.png>
 Package pdftex.def Info: figures/ui-supervise assigned fl activities.png  used on input line 569.
@@ -3607,7 +3589,7 @@ Package pdftex.def Info: figures/ui-supervise assigned fl activities.png  used o
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-track workflow history.png, id=2144, 1409.265pt x 661.72218pt>
+<figures/ui-track workflow history.png, id=2136, 1409.265pt x 661.72218pt>
 File: figures/ui-track workflow history.png Graphic file (type png)
 <use figures/ui-track workflow history.png>
 Package pdftex.def Info: figures/ui-track workflow history.png  used on input line 574.
@@ -3615,7 +3597,7 @@ Package pdftex.def Info: figures/ui-track workflow history.png  used on input li
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ui-consult global stat.png, id=2145, 1404.74812pt x 663.98062pt>
+<figures/ui-consult global stat.png, id=2137, 1404.74812pt x 663.98062pt>
 File: figures/ui-consult global stat.png Graphic file (type png)
 <use figures/ui-consult global stat.png>
 Package pdftex.def Info: figures/ui-consult global stat.png  used on input line 579.
@@ -3625,90 +3607,84 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[135
+[130
 
  <./figures/ui-track sub status.png>]
 
-[136 <./figures/ui-consult notif.png> <./figures/ui-consult basic stat.png> <./figures/ui-supervise assigned fl activities.png>]
+[131 <./figures/ui-consult notif.png> <./figures/ui-consult basic stat.png> <./figures/ui-supervise assigned fl activities.png>]
 
-[137 <./figures/ui-track workflow history.png> <./figures/ui-consult global stat.png>]
-Overfull \hbox (7.84593pt too wide) in paragraph at lines 595--596
-[]\T1/phv/m/n/14.4 (-20) Simulate or re-trieve a sub-mis-sion sta-tus up-date from the database. 
- []
-
-<figures/track subS code.png, id=2164, 532.23843pt x 378.66469pt>
+[132 <./figures/ui-track workflow history.png> <./figures/ui-consult global stat.png>]
+<figures/track subS code.png, id=2156, 532.23843pt x 378.66469pt>
 File: figures/track subS code.png Graphic file (type png)
 <use figures/track subS code.png>
 Package pdftex.def Info: figures/track subS code.png  used on input line 602.
 (pdftex.def)             Requested size: 426.79137pt x 303.64862pt.
-<figures/result tracksubS.png, id=2165, 721.19438pt x 222.07968pt>
+<figures/result tracksubS.png, id=2157, 721.19438pt x 222.07968pt>
 File: figures/result tracksubS.png Graphic file (type png)
 <use figures/result tracksubS.png>
 Package pdftex.def Info: figures/result tracksubS.png  used on input line 607.
 (pdftex.def)             Requested size: 426.79137pt x 131.42233pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[138
+
+
+[133
 
 ]
 
-[139 <./figures/track subS code.png> <./figures/result tracksubS.png>]
-<figures/track subF code.png, id=2178, 651.93562pt x 391.4625pt>
+[134 <./figures/track subS code.png> <./figures/result tracksubS.png>]
+<figures/track subF code.png, id=2171, 651.93562pt x 391.4625pt>
 File: figures/track subF code.png Graphic file (type png)
 <use figures/track subF code.png>
 Package pdftex.def Info: figures/track subF code.png  used on input line 615.
 (pdftex.def)             Requested size: 426.79137pt x 256.28139pt.
-<figures/result tracksubF.png, id=2179, 810.02625pt x 262.73157pt>
+<figures/result tracksubF.png, id=2172, 810.02625pt x 262.73157pt>
 File: figures/result tracksubF.png Graphic file (type png)
 <use figures/result tracksubF.png>
 Package pdftex.def Info: figures/result tracksubF.png  used on input line 620.
 (pdftex.def)             Requested size: 426.79137pt x 138.43324pt.
 
 
-[140
+[135
 
  <./figures/track subF code.png> <./figures/result tracksubF.png>]
-Overfull \hbox (11.48134pt too wide) in paragraph at lines 631--632
-[]\T1/phv/m/n/14.4 (-20) Simulate fetch-ing no-ti-fi-ca-tions for a spe-cific user from the database. 
- []
-
-<figures/consult notifS code.png, id=2188, 509.65407pt x 353.82187pt>
+<figures/consult notifS code.png, id=2180, 509.65407pt x 353.82187pt>
 File: figures/consult notifS code.png Graphic file (type png)
 <use figures/consult notifS code.png>
 Package pdftex.def Info: figures/consult notifS code.png  used on input line 638.
 (pdftex.def)             Requested size: 426.79137pt x 296.30672pt.
-<figures/result consult notifS.png, id=2189, 745.28438pt x 241.65282pt>
+<figures/result consult notifS.png, id=2181, 745.28438pt x 241.65282pt>
 File: figures/result consult notifS.png Graphic file (type png)
 <use figures/result consult notifS.png>
 Package pdftex.def Info: figures/result consult notifS.png  used on input line 643.
 (pdftex.def)             Requested size: 426.79137pt x 138.38144pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/consult notifF code.png, id=2190, 661.72218pt x 369.63094pt>
+<figures/consult notifF code.png, id=2182, 661.72218pt x 369.63094pt>
 File: figures/consult notifF code.png Graphic file (type png)
 <use figures/consult notifF code.png>
 Package pdftex.def Info: figures/consult notifF code.png  used on input line 651.
 (pdftex.def)             Requested size: 426.79137pt x 238.40166pt.
 
 
-[141
+[136
 
  <./figures/consult notifS code.png>]
 
-[142 <./figures/result consult notifS.png> <./figures/consult notifF code.png>]
-<figures/result consult notifF.png, id=2205, 737.75626pt x 271.0125pt>
+[137 <./figures/result consult notifS.png> <./figures/consult notifF code.png>]
+<figures/result consult notifF.png, id=2197, 737.75626pt x 271.0125pt>
 File: figures/result consult notifF.png Graphic file (type png)
 <use figures/result consult notifF.png>
 Package pdftex.def Info: figures/result consult notifF.png  used on input line 657.
 (pdftex.def)             Requested size: 426.79137pt x 156.77795pt.
-<figures/burn down chart 2.JPG, id=2206, 479.391pt x 238.491pt>
+<figures/burn down chart 2.JPG, id=2198, 479.391pt x 238.491pt>
 File: figures/burn down chart 2.JPG Graphic file (type jpg)
 <use figures/burn down chart 2.JPG>
 Package pdftex.def Info: figures/burn down chart 2.JPG  used on input line 701.
@@ -3719,15 +3695,15 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[143
+[138
 
  <./figures/result consult notifF.png>])
 
-[144 <./figures/burn down chart 2.JPG>] (chapitres/chapitre5.tex
+[139 <./figures/burn down chart 2.JPG>] (chapitres/chapitre5.tex
 Chapter 5.
 
 
-[145
+[140
 
 
 ]
@@ -3740,78 +3716,78 @@ Overfull \hbox (2.64894pt too wide) in alignment at lines 26--61
  [] [] [] [] [] 
  []
 
-[146] [147]
-<figures/acceuil.JPG, id=2229, 474.573pt x 257.763pt>
+[141] [142]
+<figures/acceuil.JPG, id=2221, 474.573pt x 257.763pt>
 File: figures/acceuil.JPG Graphic file (type jpg)
 <use figures/acceuil.JPG>
 Package pdftex.def Info: figures/acceuil.JPG  used on input line 67.
 (pdftex.def)             Requested size: 384.10962pt x 208.62956pt.
-<figures/actualité.JPG, id=2230, 711.25725pt x 379.4175pt>
+<figures/actualité.JPG, id=2222, 711.25725pt x 379.4175pt>
 File: figures/actualité.JPG Graphic file (type jpg)
 <use figures/actualité.JPG>
 Package pdftex.def Info: figures/actualité.JPG  used on input line 72.
 (pdftex.def)             Requested size: 384.10962pt x 204.89977pt.
 
 
-[148]
+[143]
 
-[149 <./figures/acceuil.JPG> <./figures/actualité.JPG>]
-<figures/e-mailing system.JPG, id=2239, 614.89725pt x 336.65775pt>
+[144 <./figures/acceuil.JPG> <./figures/actualité.JPG>]
+<figures/e-mailing system.JPG, id=2231, 614.89725pt x 336.65775pt>
 File: figures/e-mailing system.JPG Graphic file (type jpg)
 <use figures/e-mailing system.JPG>
 Package pdftex.def Info: figures/e-mailing system.JPG  used on input line 78.
 (pdftex.def)             Requested size: 384.10962pt x 210.30782pt.
-<figures/reset password.JPG, id=2240, 711.25725pt x 381.8265pt>
+<figures/reset password.JPG, id=2232, 711.25725pt x 381.8265pt>
 File: figures/reset password.JPG Graphic file (type jpg)
 <use figures/reset password.JPG>
 Package pdftex.def Info: figures/reset password.JPG  used on input line 83.
 (pdftex.def)             Requested size: 384.10962pt x 206.20071pt.
 
 
-[150
+[145
 
  <./figures/e-mailing system.JPG> <./figures/reset password.JPG>]
-<figures/reset pass 2.JPG, id=2245, 611.28375pt x 333.6465pt>
+<figures/reset pass 2.JPG, id=2238, 611.28375pt x 333.6465pt>
 File: figures/reset pass 2.JPG Graphic file (type jpg)
 <use figures/reset pass 2.JPG>
 Package pdftex.def Info: figures/reset pass 2.JPG  used on input line 89.
 (pdftex.def)             Requested size: 384.10962pt x 209.64856pt.
-<figures/manage acceuil.JPG, id=2246, 658.25925pt x 311.9655pt>
+<figures/manage acceuil.JPG, id=2239, 658.25925pt x 311.9655pt>
 File: figures/manage acceuil.JPG Graphic file (type jpg)
 <use figures/manage acceuil.JPG>
 Package pdftex.def Info: figures/manage acceuil.JPG  used on input line 94.
 (pdftex.def)             Requested size: 384.10962pt x 182.03972pt.
 
 
-[151
+[146
 
  <./figures/reset pass 2.JPG> <./figures/manage acceuil.JPG>]
-<figures/AI.JPG, id=2251, 633.567pt x 314.3745pt>
+<figures/AI.JPG, id=2244, 633.567pt x 314.3745pt>
 File: figures/AI.JPG Graphic file (type jpg)
 <use figures/AI.JPG>
 Package pdftex.def Info: figures/AI.JPG  used on input line 100.
 (pdftex.def)             Requested size: 384.10962pt x 190.5929pt.
-<figures/table des cas d’utilisation du sprint 3.png, id=2252, 502.87875pt x 381.425pt>
+<figures/table des cas d’utilisation du sprint 3.png, id=2245, 502.87875pt x 381.425pt>
 File: figures/table des cas d’utilisation du sprint 3.png Graphic file (type png)
 <use figures/table des cas d’utilisation du sprint 3.png>
 Package pdftex.def Info: figures/table des cas d’utilisation du sprint 3.png  used on input line 108.
 (pdftex.def)             Requested size: 256.07742pt x 194.22734pt.
 
 
-[152
+[147
 
  <./figures/AI.JPG> <./figures/table des cas d’utilisation du sprint 3.png>]
-<figures/Diagramme des cas d’utilisation du sprint 3.png, id=2259, 769.87625pt x 440.64626pt>
+<figures/Diagramme des cas d’utilisation du sprint 3.png, id=2251, 769.87625pt x 440.64626pt>
 File: figures/Diagramme des cas d’utilisation du sprint 3.png Graphic file (type png)
 <use figures/Diagramme des cas d’utilisation du sprint 3.png>
 Package pdftex.def Info: figures/Diagramme des cas d’utilisation du sprint 3.png  used on input line 114.
 (pdftex.def)             Requested size: 384.10962pt x 219.85191pt.
 
 
-[153
+[148
 
  <./figures/Diagramme des cas d’utilisation du sprint 3.png>]
-<figures/seq see the news.png, id=2266, 500.87125pt x 291.0875pt>
+<figures/seq see the news.png, id=2258, 500.87125pt x 291.0875pt>
 File: figures/seq see the news.png Graphic file (type png)
 <use figures/seq see the news.png>
 Package pdftex.def Info: figures/seq see the news.png  used on input line 141.
@@ -3823,24 +3799,24 @@ Overfull \hbox (0.87889pt too wide) in paragraph at lines 155--159
 
 
 
-[154
+[149
 
  <./figures/seq see the news.png>]
-<figures/seq Receive emails about my submissions.png, id=2273, 551.05875pt x 491.8375pt>
+<figures/seq Receive emails about my submissions.png, id=2265, 551.05875pt x 491.8375pt>
 File: figures/seq Receive emails about my submissions.png Graphic file (type png)
 <use figures/seq Receive emails about my submissions.png>
 Package pdftex.def Info: figures/seq Receive emails about my submissions.png  used on input line 167.
 (pdftex.def)             Requested size: 384.10962pt x 342.84297pt.
 
 
-[155
+[150
 
  <./figures/seq Receive emails about my submissions.png>]
 Overfull \hbox (8.13924pt too wide) in paragraph at lines 192--197
 []|[]| 
  []
 
-<figures/seq reset my forgoten password.png, id=2279, 551.05875pt x 633.36626pt>
+<figures/seq reset my forgoten password.png, id=2271, 551.05875pt x 633.36626pt>
 File: figures/seq reset my forgoten password.png Graphic file (type png)
 <use figures/seq reset my forgoten password.png>
 Package pdftex.def Info: figures/seq reset my forgoten password.png  used on input line 203.
@@ -3850,12 +3826,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[156
+[151
 
 ]
 
-[157 <./figures/seq reset my forgoten password.png>]
-<figures/seq manages News-break down.png, id=2290, 591.20876pt x 259.97125pt>
+[152 <./figures/seq reset my forgoten password.png>]
+<figures/seq manages News-break down.png, id=2283, 591.20876pt x 259.97125pt>
 File: figures/seq manages News-break down.png Graphic file (type png)
 <use figures/seq manages News-break down.png>
 Package pdftex.def Info: figures/seq manages News-break down.png  used on input line 212.
@@ -3865,7 +3841,7 @@ Overfull \hbox (8.31448pt too wide) in paragraph at lines 225--232
 []|[]| 
  []
 
-<figures/seq create a news.png, id=2291, 551.05875pt x 633.36626pt>
+<figures/seq create a news.png, id=2284, 551.05875pt x 633.36626pt>
 File: figures/seq create a news.png Graphic file (type png)
 <use figures/seq create a news.png>
 Package pdftex.def Info: figures/seq create a news.png  used on input line 243.
@@ -3875,12 +3851,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[158
+[153
 
  <./figures/seq manages News-break down.png>]
 
-[159 <./figures/seq create a news.png>]
-<figures/seq update a news.png, id=2305, 581.17125pt x 643.40375pt>
+[154 <./figures/seq create a news.png>]
+<figures/seq update a news.png, id=2297, 581.17125pt x 643.40375pt>
 File: figures/seq update a news.png Graphic file (type png)
 <use figures/seq update a news.png>
 Package pdftex.def Info: figures/seq update a news.png  used on input line 276.
@@ -3891,12 +3867,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[160
+[155
 
 ]
 
-[161 <./figures/seq update a news.png>]
-<figures/seq delete a news.png, id=2316, 520.94624pt x 511.9125pt>
+[156 <./figures/seq update a news.png>]
+<figures/seq delete a news.png, id=2308, 520.94624pt x 511.9125pt>
 File: figures/seq delete a news.png Graphic file (type png)
 <use figures/seq delete a news.png>
 Package pdftex.def Info: figures/seq delete a news.png  used on input line 306.
@@ -3907,52 +3883,52 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[162
+[157
 
 ]
 
-[163 <./figures/seq delete a news.png>]
+[158 <./figures/seq delete a news.png>]
 Overfull \hbox (3.67104pt too wide) in paragraph at lines 329--331
 []|[]| 
  []
 
-<figures/seq validate national identity documents.png, id=2327, 500.87125pt x 351.3125pt>
+<figures/seq validate national identity documents.png, id=2320, 500.87125pt x 351.3125pt>
 File: figures/seq validate national identity documents.png Graphic file (type png)
 <use figures/seq validate national identity documents.png>
 Package pdftex.def Info: figures/seq validate national identity documents.png  used on input line 337.
 (pdftex.def)             Requested size: 298.75264pt x 209.55618pt.
 
 
-[164
+[159
 
  <./figures/seq validate national identity documents.png>]
-<figures/dc see the news.png, id=2335, 880.28876pt x 182.6825pt>
+<figures/dc see the news.png, id=2327, 880.28876pt x 182.6825pt>
 File: figures/dc see the news.png Graphic file (type png)
 <use figures/dc see the news.png>
 Package pdftex.def Info: figures/dc see the news.png  used on input line 347.
 (pdftex.def)             Requested size: 426.79137pt x 88.57024pt.
-<figures/dc Receive emails about my submissions.png, id=2336, 925.4575pt x 806.01125pt>
+<figures/dc Receive emails about my submissions.png, id=2328, 925.4575pt x 806.01125pt>
 File: figures/dc Receive emails about my submissions.png Graphic file (type png)
 <use figures/dc Receive emails about my submissions.png>
 Package pdftex.def Info: figures/dc Receive emails about my submissions.png  used on input line 353.
 (pdftex.def)             Requested size: 384.10962pt x 334.53763pt.
-<figures/dc reset my forgoten password.png, id=2337, 906.38625pt x 597.23125pt>
+<figures/dc reset my forgoten password.png, id=2329, 906.38625pt x 597.23125pt>
 File: figures/dc reset my forgoten password.png Graphic file (type png)
 <use figures/dc reset my forgoten password.png>
 Package pdftex.def Info: figures/dc reset my forgoten password.png  used on input line 360.
 (pdftex.def)             Requested size: 426.79137pt x 281.21815pt.
 
 
-[165
+[160
 
 
  <./figures/dc see the news.png> <./figures/dc Receive emails about my submissions.png>]
-<figures/dc manages News.png, id=2346, 843.15pt x 354.32375pt>
+<figures/dc manages News.png, id=2338, 843.15pt x 354.32375pt>
 File: figures/dc manages News.png Graphic file (type png)
 <use figures/dc manages News.png>
 Package pdftex.def Info: figures/dc manages News.png  used on input line 366.
 (pdftex.def)             Requested size: 426.79137pt x 179.35649pt.
-<figures/dc validate national identity documents.png, id=2347, 956.57375pt x 202.7575pt>
+<figures/dc validate national identity documents.png, id=2339, 956.57375pt x 202.7575pt>
 File: figures/dc validate national identity documents.png Graphic file (type png)
 <use figures/dc validate national identity documents.png>
 Package pdftex.def Info: figures/dc validate national identity documents.png  used on input line 372.
@@ -3961,69 +3937,64 @@ Package pdftex.def Info: figures/dc validate national identity documents.png  us
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/det see the news.png, id=2348, 922.44624pt x 481.8pt>
+<figures/det see the news.png, id=2340, 922.44624pt x 481.8pt>
 File: figures/det see the news.png Graphic file (type png)
 <use figures/det see the news.png>
 Package pdftex.def Info: figures/det see the news.png  used on input line 380.
 (pdftex.def)             Requested size: 426.79137pt x 222.91722pt.
 
 
-[166 <./figures/dc reset my forgoten password.png> <./figures/dc manages News.png>]
+[161 <./figures/dc reset my forgoten password.png> <./figures/dc manages News.png>]
 
-[167 <./figures/dc validate national identity documents.png> <./figures/det see the news.png>]
-<figures/det Receive emails about my submissions.png, id=2365, 942.52126pt x 562.1pt>
+[162 <./figures/dc validate national identity documents.png> <./figures/det see the news.png>]
+<figures/det Receive emails about my submissions.png, id=2357, 942.52126pt x 562.1pt>
 File: figures/det Receive emails about my submissions.png Graphic file (type png)
 <use figures/det Receive emails about my submissions.png>
 Package pdftex.def Info: figures/det Receive emails about my submissions.png  used on input line 387.
 (pdftex.def)             Requested size: 426.79137pt x 254.5294pt.
-<figures/det reset my forgoten password.png, id=2366, 1333.98375pt x 926.46124pt>
+<figures/det reset my forgoten password.png, id=2358, 1333.98375pt x 926.46124pt>
 File: figures/det reset my forgoten password.png Graphic file (type png)
 <use figures/det reset my forgoten password.png>
 Package pdftex.def Info: figures/det reset my forgoten password.png  used on input line 393.
 (pdftex.def)             Requested size: 341.43439pt x 237.12802pt.
 
 
-[168
+[163
 
  <./figures/det Receive emails about my submissions.png> <./figures/det reset my forgoten password.png>]
-<figures/det create a news.png, id=2375, 952.55875pt x 762.85pt>
+<figures/det create a news.png, id=2368, 952.55875pt x 762.85pt>
 File: figures/det create a news.png Graphic file (type png)
 <use figures/det create a news.png>
 Package pdftex.def Info: figures/det create a news.png  used on input line 400.
 (pdftex.def)             Requested size: 341.43439pt x 273.43849pt.
-<figures/det update a news.png, id=2376, 942.52126pt x 762.85pt>
+<figures/det update a news.png, id=2369, 942.52126pt x 762.85pt>
 File: figures/det update a news.png Graphic file (type png)
 <use figures/det update a news.png>
 Package pdftex.def Info: figures/det update a news.png  used on input line 405.
 (pdftex.def)             Requested size: 341.43439pt x 276.34853pt.
 
 
-[169
+[164
 
  <./figures/det create a news.png> <./figures/det update a news.png>]
-<figures/det delete a news.png, id=2384, 942.52126pt x 673.51625pt>
+<figures/det delete a news.png, id=2377, 942.52126pt x 673.51625pt>
 File: figures/det delete a news.png Graphic file (type png)
 <use figures/det delete a news.png>
 Package pdftex.def Info: figures/det delete a news.png  used on input line 411.
 (pdftex.def)             Requested size: 426.79137pt x 304.98076pt.
 
 
-[170
+[165
 
  <./figures/det delete a news.png>]
-<figures/global class diagram sprint 3.png, id=2391, 922.44624pt x 607.26875pt>
+<figures/global class diagram sprint 3.png, id=2383, 922.44624pt x 607.26875pt>
 File: figures/global class diagram sprint 3.png Graphic file (type png)
 <use figures/global class diagram sprint 3.png>
 Package pdftex.def Info: figures/global class diagram sprint 3.png  used on input line 418.
 (pdftex.def)             Requested size: 426.79137pt x 280.9686pt.
 
-Overfull \hbox (2.03925pt too wide) in paragraph at lines 424--425
-\T1/phv/m/n/14.4 (-20) In this step, we will de-fine the struc-ture of the cur-rent sprint's database
- []
 
-
-
-[171
+[166
 
  <./figures/global class diagram sprint 3.png>]
 
@@ -4037,91 +4008,91 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[172
+[167
 
 ]
 
-LaTeX Warning: Text page 173 contains only floats.
+LaTeX Warning: Text page 168 contains only floats.
 
 
 
-[173]
-<figures/ui-see news1.png, id=2405, 1415.2875pt x 661.72218pt>
+[168]
+<figures/ui-see news1.png, id=2397, 1415.2875pt x 661.72218pt>
 File: figures/ui-see news1.png Graphic file (type png)
 <use figures/ui-see news1.png>
 Package pdftex.def Info: figures/ui-see news1.png  used on input line 575.
 (pdftex.def)             Requested size: 426.79137pt x 199.53798pt.
 
 
-[174
+[169
 
  <./figures/ui-see news1.png>]
-<figures/ui-see news2.png, id=2411, 1420.55719pt x 660.96938pt>
+<figures/ui-see news2.png, id=2404, 1420.55719pt x 660.96938pt>
 File: figures/ui-see news2.png Graphic file (type png)
 <use figures/ui-see news2.png>
 Package pdftex.def Info: figures/ui-see news2.png  used on input line 581.
 (pdftex.def)             Requested size: 426.79137pt x 198.57474pt.
-<figures/ui-see news3.png, id=2412, 1414.53468pt x 661.72218pt>
+<figures/ui-see news3.png, id=2405, 1414.53468pt x 661.72218pt>
 File: figures/ui-see news3.png Graphic file (type png)
 <use figures/ui-see news3.png>
 Package pdftex.def Info: figures/ui-see news3.png  used on input line 587.
 (pdftex.def)             Requested size: 426.79137pt x 199.64905pt.
 
 
-[175
+[170
 
  <./figures/ui-see news2.png> <./figures/ui-see news3.png>]
-<figures/ui-receive emails.png, id=2419, 1370.11874pt x 667.74469pt>
+<figures/ui-receive emails.png, id=2412, 1370.11874pt x 667.74469pt>
 File: figures/ui-receive emails.png Graphic file (type png)
 <use figures/ui-receive emails.png>
 Package pdftex.def Info: figures/ui-receive emails.png  used on input line 593.
 (pdftex.def)             Requested size: 426.79137pt x 207.99722pt.
-<figures/ui-reset pass1.png, id=2420, 1415.2875pt x 635.37375pt>
+<figures/ui-reset pass1.png, id=2413, 1415.2875pt x 635.37375pt>
 File: figures/ui-reset pass1.png Graphic file (type png)
 <use figures/ui-reset pass1.png>
 Package pdftex.def Info: figures/ui-reset pass1.png  used on input line 599.
 (pdftex.def)             Requested size: 426.79137pt x 191.59279pt.
 
 
-[176
+[171
 
  <./figures/ui-receive emails.png> <./figures/ui-reset pass1.png>]
-<figures/ui-reset pass2.png, id=2428, 1290.32062pt x 641.39626pt>
+<figures/ui-reset pass2.png, id=2420, 1290.32062pt x 641.39626pt>
 File: figures/ui-reset pass2.png Graphic file (type png)
 <use figures/ui-reset pass2.png>
 Package pdftex.def Info: figures/ui-reset pass2.png  used on input line 605.
 (pdftex.def)             Requested size: 426.79137pt x 212.15076pt.
-<figures/ui-reset pass3.png, id=2429, 1401.73688pt x 597.73312pt>
+<figures/ui-reset pass3.png, id=2421, 1401.73688pt x 597.73312pt>
 File: figures/ui-reset pass3.png Graphic file (type png)
 <use figures/ui-reset pass3.png>
 Package pdftex.def Info: figures/ui-reset pass3.png  used on input line 611.
 (pdftex.def)             Requested size: 426.79137pt x 181.99367pt.
 
 
-[177
+[172
 
  <./figures/ui-reset pass2.png> <./figures/ui-reset pass3.png>]
-<figures/ui-manage news.png, id=2436, 1427.3325pt x 645.91313pt>
+<figures/ui-manage news.png, id=2428, 1427.3325pt x 645.91313pt>
 File: figures/ui-manage news.png Graphic file (type png)
 <use figures/ui-manage news.png>
 Package pdftex.def Info: figures/ui-manage news.png  used on input line 617.
 (pdftex.def)             Requested size: 426.79137pt x 193.1348pt.
-<figures/ui-recognize ai.png, id=2437, 1265.47781pt x 666.23906pt>
+<figures/ui-recognize ai.png, id=2429, 1265.47781pt x 666.23906pt>
 File: figures/ui-recognize ai.png Graphic file (type png)
 <use figures/ui-recognize ai.png>
 Package pdftex.def Info: figures/ui-recognize ai.png  used on input line 623.
 (pdftex.def)             Requested size: 426.79137pt x 224.6884pt.
 
 
-[178
+[173
 
  <./figures/ui-manage news.png> <./figures/ui-recognize ai.png>]
-<figures/create newsS code.png, id=2444, 637.63219pt x 499.8675pt>
+<figures/create newsS code.png, id=2436, 637.63219pt x 499.8675pt>
 File: figures/create newsS code.png Graphic file (type png)
 <use figures/create newsS code.png>
 Package pdftex.def Info: figures/create newsS code.png  used on input line 647.
 (pdftex.def)             Requested size: 426.79137pt x 334.5815pt.
-<figures/result create newsS.png, id=2445, 741.52031pt x 241.65282pt>
+<figures/result create newsS.png, id=2437, 741.52031pt x 241.65282pt>
 File: figures/result create newsS.png Graphic file (type png)
 <use figures/result create newsS.png>
 Package pdftex.def Info: figures/result create newsS.png  used on input line 652.
@@ -4135,32 +4106,32 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[179
+[174
 
 ]
 
-[180 <./figures/create newsS code.png> <./figures/result create newsS.png>]
-<figures/create newsF code.png, id=2458, 640.64343pt x 409.53pt>
+[175 <./figures/create newsS code.png> <./figures/result create newsS.png>]
+<figures/create newsF code.png, id=2451, 640.64343pt x 409.53pt>
 File: figures/create newsF code.png Graphic file (type png)
 <use figures/create newsF code.png>
 Package pdftex.def Info: figures/create newsF code.png  used on input line 660.
 (pdftex.def)             Requested size: 426.79137pt x 272.82768pt.
-<figures/result create newsF.png, id=2459, 737.75626pt x 266.49562pt>
+<figures/result create newsF.png, id=2452, 737.75626pt x 266.49562pt>
 File: figures/result create newsF.png Graphic file (type png)
 <use figures/result create newsF.png>
 Package pdftex.def Info: figures/result create newsF.png  used on input line 665.
 (pdftex.def)             Requested size: 426.79137pt x 154.165pt.
 
 
-[181
+[176
 
  <./figures/create newsF code.png> <./figures/result create newsF.png>]
-<figures/validate idS code.png, id=2467, 641.39626pt x 393.72093pt>
+<figures/validate idS code.png, id=2460, 641.39626pt x 393.72093pt>
 File: figures/validate idS code.png Graphic file (type png)
 <use figures/validate idS code.png>
 Package pdftex.def Info: figures/validate idS code.png  used on input line 683.
 (pdftex.def)             Requested size: 426.79137pt x 261.98935pt.
-<figures/result validate national idS.png, id=2468, 740.7675pt x 242.40562pt>
+<figures/result validate national idS.png, id=2461, 740.7675pt x 242.40562pt>
 File: figures/result validate national idS.png Graphic file (type png)
 <use figures/result validate national idS.png>
 Package pdftex.def Info: figures/result validate national idS.png  used on input line 688.
@@ -4169,42 +4140,42 @@ Package pdftex.def Info: figures/result validate national idS.png  used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/validate idF code.png, id=2469, 624.83438pt x 392.21532pt>
+<figures/validate idF code.png, id=2462, 624.83438pt x 392.21532pt>
 File: figures/validate idF code.png Graphic file (type png)
 <use figures/validate idF code.png>
 Package pdftex.def Info: figures/validate idF code.png  used on input line 696.
 (pdftex.def)             Requested size: 426.79137pt x 267.9058pt.
 
 
-[182
+[177
 
  <./figures/validate idS code.png>]
 
-[183 <./figures/result validate national idS.png> <./figures/validate idF code.png>]
-<figures/result validate national idF.png, id=2485, 736.25063pt x 265.74281pt>
+[178 <./figures/result validate national idS.png> <./figures/validate idF code.png>]
+<figures/result validate national idF.png, id=2477, 736.25063pt x 265.74281pt>
 File: figures/result validate national idF.png Graphic file (type png)
 <use figures/result validate national idF.png>
 Package pdftex.def Info: figures/result validate national idF.png  used on input line 702.
 (pdftex.def)             Requested size: 426.79137pt x 154.04984pt.
 
 
-[184
+[179
 
  <./figures/result validate national idF.png>]
-<figures/burn down chart 3.JPG, id=2491, 478.1865pt x 236.082pt>
+<figures/burn down chart 3.JPG, id=2483, 478.1865pt x 236.082pt>
 File: figures/burn down chart 3.JPG Graphic file (type jpg)
 <use figures/burn down chart 3.JPG>
 Package pdftex.def Info: figures/burn down chart 3.JPG  used on input line 745.
 (pdftex.def)             Requested size: 426.79137pt x 210.71748pt.
 )
 
-[185
+[180
 
  <./figures/burn down chart 3.JPG>] (chapitres/chapitre6.tex
 Chapter 6.
 
 
-[186
+[181
 
 
 ]
@@ -4212,7 +4183,7 @@ Chapter 6.
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 9.
 
-<figures/drawio.png, id=2500, 1027.84pt x 1027.84pt>
+<figures/drawio.png, id=2493, 1027.84pt x 1027.84pt>
 File: figures/drawio.png Graphic file (type png)
 <use figures/drawio.png>
 Package pdftex.def Info: figures/drawio.png  used on input line 36.
@@ -4227,7 +4198,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/overleaf.png, id=2502, 845.3181pt x 856.1586pt>
+<figures/overleaf.png, id=2495, 845.3181pt x 856.1586pt>
 File: figures/overleaf.png Graphic file (type png)
 <use figures/overleaf.png>
 Package pdftex.def Info: figures/overleaf.png  used on input line 49.
@@ -4240,7 +4211,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 49--50
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/balsamiq.png, id=2504, 259.97125pt x 194.7275pt>
+<figures/balsamiq.png, id=2497, 259.97125pt x 194.7275pt>
 File: figures/balsamiq.png Graphic file (type png)
 <use figures/balsamiq.png>
 Package pdftex.def Info: figures/balsamiq.png  used on input line 62.
@@ -4253,7 +4224,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 62--63
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/postman.png, id=2506, 513.92pt x 513.92pt>
+<figures/postman.png, id=2499, 513.92pt x 513.92pt>
 File: figures/postman.png Graphic file (type png)
 <use figures/postman.png>
 Package pdftex.def Info: figures/postman.png  used on input line 75.
@@ -4266,7 +4237,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 75--76
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/sql developer.png, id=2508, 1204.5pt x 602.25pt>
+<figures/sql developer.png, id=2501, 1204.5pt x 602.25pt>
 File: figures/sql developer.png Graphic file (type png)
 <use figures/sql developer.png>
 Package pdftex.def Info: figures/sql developer.png  used on input line 88.
@@ -4279,7 +4250,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 88--89
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/oracle database.png, id=2510, 923.45pt x 501.875pt>
+<figures/oracle database.png, id=2503, 923.45pt x 501.875pt>
 File: figures/oracle database.png Graphic file (type png)
 <use figures/oracle database.png>
 Package pdftex.def Info: figures/oracle database.png  used on input line 101.
@@ -4297,7 +4268,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--102
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/vs code.png, id=2512, 1284.8pt x 722.7pt>
+<figures/vs code.png, id=2505, 1284.8pt x 722.7pt>
 File: figures/vs code.png Graphic file (type png)
 <use figures/vs code.png>
 Package pdftex.def Info: figures/vs code.png  used on input line 114.
@@ -4310,7 +4281,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 114--115
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/node.png, id=2514, 1204.5pt x 737.75626pt>
+<figures/node.png, id=2507, 1204.5pt x 737.75626pt>
 File: figures/node.png Graphic file (type png)
 <use figures/node.png>
 Package pdftex.def Info: figures/node.png  used on input line 127.
@@ -4323,7 +4294,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 127--128
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/react.png, id=2516, 1405.25pt x 790.955pt>
+<figures/react.png, id=2509, 1405.25pt x 790.955pt>
 File: figures/react.png Graphic file (type png)
 <use figures/react.png>
 Package pdftex.def Info: figures/react.png  used on input line 140.
@@ -4336,7 +4307,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 140--141
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/express.png, id=2518, 421.575pt x 120.45pt>
+<figures/express.png, id=2511, 421.575pt x 120.45pt>
 File: figures/express.png Graphic file (type png)
 <use figures/express.png>
 Package pdftex.def Info: figures/express.png  used on input line 153.
@@ -4349,7 +4320,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 153--154
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/tailwind.png, id=2520, 513.92pt x 256.96pt>
+<figures/tailwind.png, id=2513, 513.92pt x 256.96pt>
 File: figures/tailwind.png Graphic file (type png)
 <use figures/tailwind.png>
 Package pdftex.def Info: figures/tailwind.png  used on input line 166.
@@ -4362,7 +4333,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 166--167
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/paperless.png, id=2522, 602.25pt x 227.85126pt>
+<figures/paperless.png, id=2515, 602.25pt x 227.85126pt>
 File: figures/paperless.png Graphic file (type png)
 <use figures/paperless.png>
 Package pdftex.def Info: figures/paperless.png  used on input line 179.
@@ -4385,7 +4356,7 @@ Underfull \hbox (badness 1824) in paragraph at lines 184--185
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/redis.png, id=2524, 309.155pt x 260.975pt>
+<figures/redis.png, id=2517, 309.155pt x 260.975pt>
 File: figures/redis.png Graphic file (type png)
 <use figures/redis.png>
 Package pdftex.def Info: figures/redis.png  used on input line 192.
@@ -4398,7 +4369,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 192--193
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/jwt.png, id=2526, 319.1925pt x 159.59625pt>
+<figures/jwt.png, id=2519, 319.1925pt x 159.59625pt>
 File: figures/jwt.png Graphic file (type png)
 <use figures/jwt.png>
 Package pdftex.def Info: figures/jwt.png  used on input line 205.
@@ -4411,7 +4382,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 205--206
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/smtp.jpg, id=2528, 642.4pt x 481.8pt>
+<figures/smtp.jpg, id=2521, 642.4pt x 481.8pt>
 File: figures/smtp.jpg Graphic file (type jpg)
 <use figures/smtp.jpg>
 Package pdftex.def Info: figures/smtp.jpg  used on input line 218.
@@ -4424,7 +4395,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 218--219
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/openaiapi.png, id=2530, 1405.25pt x 605.26125pt>
+<figures/openaiapi.png, id=2523, 1405.25pt x 605.26125pt>
 File: figures/openaiapi.png Graphic file (type png)
 <use figures/openaiapi.png>
 Package pdftex.def Info: figures/openaiapi.png  used on input line 231.
@@ -4437,7 +4408,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 231--232
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/chartjs.jpg, id=2532, 401.5pt x 278.03876pt>
+<figures/chartjs.jpg, id=2525, 401.5pt x 278.03876pt>
 File: figures/chartjs.jpg Graphic file (type jpg)
 <use figures/chartjs.jpg>
 Package pdftex.def Info: figures/chartjs.jpg  used on input line 244.
@@ -4450,7 +4421,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 244--245
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/uuid.png, id=2534, 777.90625pt x 378.41376pt>
+<figures/uuid.png, id=2527, 777.90625pt x 378.41376pt>
 File: figures/uuid.png Graphic file (type png)
 <use figures/uuid.png>
 Package pdftex.def Info: figures/uuid.png  used on input line 257.
@@ -4463,7 +4434,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 257--258
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/docker.png, id=2536, 401.5pt x 401.5pt>
+<figures/docker.png, id=2529, 401.5pt x 401.5pt>
 File: figures/docker.png Graphic file (type png)
 <use figures/docker.png>
 Package pdftex.def Info: figures/docker.png  used on input line 270.
@@ -4488,7 +4459,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 283--284
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/github.png, id=2539, 3854.4pt x 2168.1pt>
+<figures/github.png, id=2532, 3854.4pt x 2168.1pt>
 File: figures/github.png Graphic file (type png)
 <use figures/github.png>
 Package pdftex.def Info: figures/github.png  used on input line 296.
@@ -4503,16 +4474,16 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[187]
+[182]
 
-[188 <./figures/drawio.png> <./figures/overleaf.png> <./figures/balsamiq.png> <./figures/postman.png>]
+[183 <./figures/drawio.png> <./figures/overleaf.png> <./figures/balsamiq.png> <./figures/postman.png>]
 
-[189 <./figures/sql developer.png> <./figures/oracle database.png> <./figures/vs code.png> <./figures/node.png> <./figures/react.png> <./figures/express.png>]
+[184 <./figures/sql developer.png> <./figures/oracle database.png> <./figures/vs code.png> <./figures/node.png> <./figures/react.png> <./figures/express.png>]
 
-[190 <./figures/tailwind.png> <./figures/paperless.png (PNG copy)> <./figures/redis.png> <./figures/jwt.png> <./figures/smtp.jpg> <./figures/openaiapi.png>]
+[185 <./figures/tailwind.png> <./figures/paperless.png (PNG copy)> <./figures/redis.png> <./figures/jwt.png> <./figures/smtp.jpg> <./figures/openaiapi.png>]
 
-[191 <./figures/chartjs.jpg> <./figures/uuid.png> <./figures/docker.png> <./figures/github.png>]
-<figures/mvc.png, id=2599, 839.38594pt x 526.21594pt>
+[186 <./figures/chartjs.jpg> <./figures/uuid.png> <./figures/docker.png> <./figures/github.png>]
+<figures/mvc.png, id=2591, 839.38594pt x 526.21594pt>
 File: figures/mvc.png Graphic file (type png)
 <use figures/mvc.png>
 Package pdftex.def Info: figures/mvc.png  used on input line 317.
@@ -4523,27 +4494,27 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[192
+[187
 
 ]
 
-[193 <./figures/mvc.png>]
-<figures/diagram de deploiement.png, id=2610, 688.82344pt x 500.62032pt>
+[188 <./figures/mvc.png>]
+<figures/diagram de deploiement.png, id=2603, 688.82344pt x 500.62032pt>
 File: figures/diagram de deploiement.png Graphic file (type png)
 <use figures/diagram de deploiement.png>
 Package pdftex.def Info: figures/diagram de deploiement.png  used on input line 325.
 (pdftex.def)             Requested size: 384.10962pt x 279.16144pt.
-<figures/sprint1 jira.png, id=2611, 1384.42218pt x 666.99188pt>
+<figures/sprint1 jira.png, id=2604, 1384.42218pt x 666.99188pt>
 File: figures/sprint1 jira.png Graphic file (type png)
 <use figures/sprint1 jira.png>
 Package pdftex.def Info: figures/sprint1 jira.png  used on input line 333.
 (pdftex.def)             Requested size: 384.10962pt x 185.05681pt.
-<figures/sprint2 jira.png, id=2612, 1343.77031pt x 658.71094pt>
+<figures/sprint2 jira.png, id=2605, 1343.77031pt x 658.71094pt>
 File: figures/sprint2 jira.png Graphic file (type png)
 <use figures/sprint2 jira.png>
 Package pdftex.def Info: figures/sprint2 jira.png  used on input line 338.
 (pdftex.def)             Requested size: 384.10962pt x 188.28737pt.
-<figures/sprint3 jira.png, id=2613, 1348.28719pt x 655.69969pt>
+<figures/sprint3 jira.png, id=2606, 1348.28719pt x 655.69969pt>
 File: figures/sprint3 jira.png Graphic file (type png)
 <use figures/sprint3 jira.png>
 Package pdftex.def Info: figures/sprint3 jira.png  used on input line 343.
@@ -4560,11 +4531,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[194
+[189
 
  <./figures/diagram de deploiement.png>]
 
-[195 <./figures/sprint1 jira.png> <./figures/sprint2 jira.png> <./figures/sprint3 jira.png>]
+[190 <./figures/sprint1 jira.png> <./figures/sprint2 jira.png> <./figures/sprint3 jira.png>]
 Overfull \hbox (1.43558pt too wide) in paragraph at lines 365--365
  []|[]\T1/phv/b/n/10.95 (-20) Duration[]| 
  []
@@ -4574,27 +4545,27 @@ Overfull \hbox (20.7398pt too wide) in paragraph at lines 355--378
  [][] 
  []
 
-<figures/diagram de gantt.png, id=2629, 1388.18625pt x 693.59125pt>
+<figures/diagram de gantt.png, id=2621, 1388.18625pt x 693.59125pt>
 File: figures/diagram de gantt.png Graphic file (type png)
 <use figures/diagram de gantt.png>
 Package pdftex.def Info: figures/diagram de gantt.png  used on input line 382.
 (pdftex.def)             Requested size: 384.10962pt x 191.91821pt.
 
 
-[196
+[191
 
  <./figures/diagram de gantt.png>])
 
-[197
+[192
 
 ] (chapitres/Conclusion.tex)
 
-[198
+[193
 
 
 ]
 
-[199]
+[194]
 
 Package biblatex Warning: Split bibliography detected.
 (biblatex)                Many simple split bibliography setups with
@@ -4606,7 +4577,7 @@ Package biblatex Warning: Split bibliography detected.
 
 
 
-[200
+[195
 
 
 ]
@@ -4621,33 +4592,33 @@ Package biblatex Warning: Split bibliography detected.
 
 
 
-[201
+[196
 
 ]
 
-[202] (main.aux)
+[197] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A28A8284A2FFB762150CB1693899EC28;28888.
+(rerunfilecheck)             Checksum: 47DCB38977E06972B59C5DB8C7491E89;28888.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35706 strings out of 469958
- 703946 string characters out of 5467878
- 1573283 words of memory out of 5000000
- 60675 multiletter control sequences out of 15000+600000
- 704256 words of font info for 431 fonts, out of 8000000 for 9000
+ 35725 strings out of 469958
+ 705563 string characters out of 5467878
+ 1577943 words of memory out of 5000000
+ 60811 multiletter control sequences out of 15000+600000
+ 697777 words of font info for 344 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,18n,87p,1038b,2112s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,18n,87p,1044b,2116s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Nourchene\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk><C:/Users/Nourchene/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Nourchene/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Nourchene/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Nourchene/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (219 pages, 23664380 bytes).
+Output written on main.pdf (215 pages, 23795196 bytes).
 PDF statistics:
- 2960 PDF objects out of 2984 (max. 8388607)
- 744 named destinations out of 1000 (max. 500000)
- 86638 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 2939 PDF objects out of 2984 (max. 8388607)
+ 745 named destinations out of 1000 (max. 500000)
+ 88696 words of extra memory for PDF output out of 89155 (max. 10000000)
 
