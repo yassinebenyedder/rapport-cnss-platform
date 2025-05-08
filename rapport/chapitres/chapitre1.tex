@@ -10,7 +10,8 @@
 During the process of carrying out our project, the project study represents an important phase since it guarantees the successful completion of this project. The project study must go through a key phase of analysis of the existing situation in order to criticize it and extract the needs which will be our reference for setting the objectives of the project. This first chapter is organized as follows: presentation of the host organization, description of the project context and definition of the language and methodology of design.
 
 \section{ Project context}
-The fruit of three years of studies at the Higher School of Digital Economy (ESEN) is presented in this project under the name of "Design and realization of a folder warehouse platform" which is the objective of obtaining the diploma "Applied license in IT applied to management" which is our entry point into professional life.This project is carried out within the national social security fund - CNSS from 01/02/2025 until 10/05/2025.
+The fruit of three years of studies at the Higher School of Digital Economy (ESEN) is presented in this project under the name of \textbf{"Design and
+Digitalization of the Online File Submission Process"} which is the objective of obtaining the diploma \textbf{"Applied license in Business Computing"} which is our entry point into professional life.This project is carried out within the national social security fund - CNSS from 01/02/2025 until 10/05/2025.
 \section{Host Organization Presentation}
 The CNSS (Caisse Nationale de Sécurité Sociale) is a public national social security fund, responsible for managing social insurance for private and public sector employees (excluding civil servants, who are covered by other systems.\\
 
@@ -51,27 +52,13 @@ The CNSS (Caisse Nationale de Sécurité Sociale) is a public national social se
 \end{figure} \ 
 
 \section{Department of Communication and Systems Information (DCSI)}  
-The DCSI (Direction de la Communication et des Systèmes d'Information) is a key department within the CNSS Tunisia, responsible for IT systems, digital transformation, and communication strategies.
+The DCSI (Direction de la Communication et des Systèmes d'Information) is a key department within the CNSS , responsible for IT systems, digital transformation, and communication strategies.
 
 \subsection{Main Responsibilities}
 \begin{itemize}
-    \item Information Systems Management (IT Infrastructure).
-    \item Maintains and develops the CNSS's digital platforms (e.g., online services for contributors, employers, and beneficiaries).
+    \item Information Systems Management.
+    \item Maintains and develops the CNSS's digital platforms.
     \item Ensures data security and system reliability.
-    \item Implements new technologies (e.g., AI, cloud computing) for improved service delivery.
-\end{itemize}
-
-\subsection{Digital Transformation and E-Services}
-\begin{itemize}
-    \item Manages the CNSS portal (www.cnss.tn) for online declarations, payments, and claims.
-    \item Develops mobile apps (if applicable) for easier access to services.
-    \item Works on automating processes (e.g., electronic document management).
-\end{itemize}
-\subsection{Internal and External Communication}
-\begin{itemize}
-    \item Handles press relations, media announcements, and public awareness campaigns.
-    \item Manages internal communication (employee newsletters, intranet updates).
-    \item Organizes training sessions on digital tools for staff and users.
 \end{itemize}
 \subsection{Cybersecurity and Data Protection}
 \begin{itemize}
@@ -79,12 +66,6 @@ The DCSI (Direction de la Communication et des Systèmes d'Information) is a key
     \item Ensures compliance with Tunisia’s data privacy laws.
 \end{itemize}
 
-\subsection{Collaboration with Other Departments}
-\begin{itemize}
-    \item Works closely with Direction des Prestations (Benefits) to improve online claim processing.
-    \item Supports Direction des Collectes (Contributions) in digital payment solutions.
-    \item Assists regional offices in IT troubleshooting and system updates.
-\end{itemize}
 \subsection{ Missions and Values of DCSI} 
 \begin{itemize}
     \item Improves efficiency by reducing paperwork and manual processes.
@@ -94,15 +75,15 @@ The DCSI (Direction de la Communication et des Systèmes d'Information) is a key
 
 \section{Project Context Description}
 \subsection{Project Description}
-The Online Folder Management Platform is a web-based system designed to streamline and digitalize the handling of administrative and social security-related documents within the "Caisse Nationale de Sécurité Sociale (CNSS)". The platform aims to enhance efficiency, accessibility, and security by allowing users to manage, track, and retrieve digital folders in a structured manner.
+The Online Folder Management Platform is a responsive web application designed to streamline and digitalize the handling of administrative and social security-related documents within the "Caisse Nationale de Sécurité Sociale (CNSS)". The platform aims to enhance efficiency, accessibility, and security by allowing users to manage, track, and retrieve digital folders in a structured manner.
 The application is designed to benefit various users, including the Insured , File manager, Office Supervisor, Central Agent and the Central Manager. 
 
 \subsection{Key Functionalities}
 \subsubsection{ Folder Creation and Management}
 \begin{itemize}
-    \item Allows users to create and register new folders (e.g., employee records, pension applications, medical claims).
+    \item Allows users to create and register new folders (e.g., car loans, pension applications).
     \item Supports document uploads in various formats (PDF, images, etc.).
-    \item Enables folder categorization based on predefined criteria (e.g., type of request, department, status).
+    \item Enables folder categorization based on predefined criteria (e.g., submission date, region, file reference).
 \end{itemize}
 
 \subsubsection{ Advanced Search and Filtering}
@@ -114,7 +95,7 @@ The application is designed to benefit various users, including the Insured , Fi
 \subsubsection{ Workflow and Status Tracking}
 \begin{itemize}
     \item Tracks the progress of each request (e.g., under review, awaiting approval, completed).
-    \item Notifies users about status updates via email or dashboard alerts.
+    \item Notifies users about status updates via email or notification alerts.
 \end{itemize}
 
 \subsubsection{ Role-Based Access Control (RBAC)}
@@ -128,16 +109,11 @@ Defines different access levels for CNSS employees, ensuring data security and c
 \subsubsection{ Integration with CNSS Systems}
 \begin{itemize}
     \item Connects with existing CNSS databases to retrieve or verify contributor information.
-    \item Supports integration with CNSS’s e-services for automated validation and cross-checking.
+    \item Supports integration with CNSS’s database version.
 \end{itemize}
 
 \subsubsection{ Secure Data Storage}
 Implements encryption and secure authentication to protect sensitive data.
-\subsubsection{ Analytics and Reporting}
-\begin{itemize}
-    \item Generates reports on folder processing times, workload distribution, and approval rates.
-    \item Provides insights for optimizing workflows within CNSS.
-\end{itemize}
 
 
 \section{Existing System Description}
@@ -145,7 +121,7 @@ The current document processing system at CNSS is entirely paper-based, followin
 \subsection{Breakdown of the Existing Process}
 \textbf{ Step 1: Submission of the Folder by the Insured Person}
 \begin{itemize}
-    \item The insured person (worker, retiree, or employer) submits a physical folder containing the required documents for a social security-related request (e.g., pension application, medical reimbursement, workplace accident claim).
+    \item The insured person (worker, retiree, or employer) submits a physical folder containing the required documents for a social security-related request.
     \item The folder is manually registered and assigned a reference number by a front-desk agent.
     \item The physical folder is placed in a queue for processing.
 \end{itemize}
@@ -161,7 +137,7 @@ A file manager reviews the submitted folder and checks if all required documents
 
 \textbf{ Step 3: Review by the Office Supervisor}
 The Office Supervisor handles cases that were escalated by the file manager.
-The supervisor performs a secondary review of the folder and can also request additional documents if needed.
+The supervisor performs a secondary review of the folder and can also request additional documents if needed.\\
 \textbf{Decision Point 2:}
 \begin{itemize}
     \item If the case is clear and acceptable, the supervisor approves it and forwards it for further processing.

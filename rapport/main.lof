@@ -4,202 +4,202 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Logo de CNSS.}}{4}{figure.1.1}%
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Organizational Chart of CNSS.}}{5}{figure.1.2}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Existing workflow.}}{10}{figure.1.3}%
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Agile Methodology.}}{13}{figure.1.4}%
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Rugby SCRUM Stock.}}{14}{figure.1.5}%
-\contentsline {figure}{\numberline {1.6}{\ignorespaces SCRUM Review table.}}{15}{figure.1.6}%
-\contentsline {figure}{\numberline {1.7}{\ignorespaces SCRUM Team.}}{16}{figure.1.7}%
-\contentsline {figure}{\numberline {1.8}{\ignorespaces UML Modeling Language.}}{17}{figure.1.8}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Existing workflow.}}{9}{figure.1.3}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Agile Methodology.}}{12}{figure.1.4}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Rugby SCRUM Stock.}}{13}{figure.1.5}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces SCRUM Review table.}}{14}{figure.1.6}%
+\contentsline {figure}{\numberline {1.7}{\ignorespaces SCRUM Team.}}{15}{figure.1.7}%
+\contentsline {figure}{\numberline {1.8}{\ignorespaces UML Modeling Language.}}{16}{figure.1.8}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Static context Diagram.}}{22}{figure.2.1}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Roles of the Team.}}{25}{figure.2.2}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Roles of the Team.}}{31}{figure.2.3}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Sprints Planification.}}{31}{figure.2.4}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Execution Plan.}}{32}{figure.2.5}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Global Use Case Diagram.}}{34}{figure.2.6}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Static context Diagram.}}{21}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Roles of the Team.}}{24}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Roles of the Team.}}{30}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Sprints Planification.}}{30}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Execution Plan.}}{31}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Global Use Case Diagram.}}{32}{figure.2.6}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Use Case Diagram by Actor.}}{41}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Use Case Diagram by Actor.}}{42}{figure.3.2}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Prototype of Login Page.}}{43}{figure.3.3}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Prototype of Sign-up Page.}}{43}{figure.3.4}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Prototype of Service Page.}}{44}{figure.3.5}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Prototype of form Page.}}{44}{figure.3.6}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Prototype of form submission Page.}}{45}{figure.3.7}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Prototype of Profile Page.}}{45}{figure.3.8}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Prototype of Submission Review Page.}}{46}{figure.3.9}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Prototype of managing skateholders.}}{46}{figure.3.10}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Prototype of managing the submission coordinators.}}{47}{figure.3.11}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Prototype of the creation of a form Page.}}{47}{figure.3.12}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces System Sequence Diagram of the "Authenticate" Use Case.}}{49}{figure.3.13}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces System Sequence Diagram of the "Submit a service request" Use Case.}}{51}{figure.3.14}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Refinement of the use case 'Manage Profile'}}{52}{figure.3.15}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces System Sequence Diagram of the "Display Profile page" Use Case.}}{53}{figure.3.16}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces System Sequence Diagram of the "Update Profile" Use Case.}}{55}{figure.3.17}%
-\contentsline {figure}{\numberline {3.18}{\ignorespaces System Sequence Diagram of the "Update Password" Use Case.}}{57}{figure.3.18}%
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Refinement of the use case 'Review a submission'}}{58}{figure.3.19}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces system Sequence Diagram of the "Display submission details" Use Case.'}}{59}{figure.3.20}%
-\contentsline {figure}{\numberline {3.21}{\ignorespaces system Sequence Diagram of the "Refuse Submission" Use Case.'}}{61}{figure.3.21}%
-\contentsline {figure}{\numberline {3.22}{\ignorespaces system Sequence Diagram of the "Escalate Submission to a Higher Authority" \centering Use Case.}}{63}{figure.3.22}%
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Refinement of the use case 'Manage Profile'}}{64}{figure.3.23}%
-\contentsline {figure}{\numberline {3.24}{\ignorespaces System Sequence Diagram of the "Create Internal Stakeholders" Use Case.}}{66}{figure.3.24}%
-\contentsline {figure}{\numberline {3.25}{\ignorespaces System Sequence Diagram of the "Delete an Internal Stakeholder" Use Case.}}{68}{figure.3.25}%
-\contentsline {figure}{\numberline {3.26}{\ignorespaces System Sequence Diagram of the "Assign an internal stakeholder to another" Use Case.}}{70}{figure.3.26}%
-\contentsline {figure}{\numberline {3.27}{\ignorespaces Refinement of the use case 'Manage Dynamic forms'}}{71}{figure.3.27}%
-\contentsline {figure}{\numberline {3.28}{\ignorespaces System Sequence Diagram of the "Create a new form " Use Case.}}{73}{figure.3.28}%
-\contentsline {figure}{\numberline {3.29}{\ignorespaces System Sequence Diagram of the "Disable/Enable a form " Use Case.}}{74}{figure.3.29}%
-\contentsline {figure}{\numberline {3.30}{\ignorespaces Participant class Diagram for the use case "Authenticate"}}{75}{figure.3.30}%
-\contentsline {figure}{\numberline {3.31}{\ignorespaces Participant class Diagram for the use case "Submit a service request"}}{76}{figure.3.31}%
-\contentsline {figure}{\numberline {3.32}{\ignorespaces Participant class Diagram for the use case "Manage Profile"}}{76}{figure.3.32}%
-\contentsline {figure}{\numberline {3.33}{\ignorespaces Participant class Diagram for the use case "Review Submission"}}{77}{figure.3.33}%
-\contentsline {figure}{\numberline {3.34}{\ignorespaces Participant class Diagram for the use case "Manage Dynamic Forms}}{77}{figure.3.34}%
-\contentsline {figure}{\numberline {3.35}{\ignorespaces Participant class Diagram for the use case "Manage Internal Stakeholders}}{78}{figure.3.35}%
-\contentsline {figure}{\numberline {3.36}{\ignorespaces Detailed sequence diagram of the 'Authenticate' use case}}{79}{figure.3.36}%
-\contentsline {figure}{\numberline {3.37}{\ignorespaces Detailed sequence diagram of the 'submit a service request' use case}}{79}{figure.3.37}%
-\contentsline {figure}{\numberline {3.38}{\ignorespaces Detailed sequence diagram of the 'Display Profile' use case}}{80}{figure.3.38}%
-\contentsline {figure}{\numberline {3.39}{\ignorespaces Detailed sequence diagram of the 'Update Profile' use case}}{80}{figure.3.39}%
-\contentsline {figure}{\numberline {3.40}{\ignorespaces Detailed sequence diagram of the 'Update Password' use case}}{81}{figure.3.40}%
-\contentsline {figure}{\numberline {3.41}{\ignorespaces Detailed sequence diagram of the 'Review Submission' use case}}{82}{figure.3.41}%
-\contentsline {figure}{\numberline {3.42}{\ignorespaces Detailed sequence diagram of the 'Create a new stakeholder' use case}}{83}{figure.3.42}%
-\contentsline {figure}{\numberline {3.43}{\ignorespaces Detailed sequence diagram of the 'Delete a stakeholder' use case}}{84}{figure.3.43}%
-\contentsline {figure}{\numberline {3.44}{\ignorespaces Detailed sequence diagram of the 'Assign a stakeholder' use case}}{84}{figure.3.44}%
-\contentsline {figure}{\numberline {3.45}{\ignorespaces Detailed sequence diagram of the 'Create a form' use case}}{85}{figure.3.45}%
-\contentsline {figure}{\numberline {3.46}{\ignorespaces Detailed sequence diagram of the 'Disable/Enable a form' use case}}{85}{figure.3.46}%
-\contentsline {figure}{\numberline {3.47}{\ignorespaces Global class diagram of Sprint 1.}}{86}{figure.3.47}%
-\contentsline {figure}{\numberline {3.48}{\ignorespaces Interface of the Login page.}}{91}{figure.3.48}%
-\contentsline {figure}{\numberline {3.49}{\ignorespaces Interface of the Sign-up page.}}{91}{figure.3.49}%
-\contentsline {figure}{\numberline {3.50}{\ignorespaces Interface of the Service page.}}{92}{figure.3.50}%
-\contentsline {figure}{\numberline {3.51}{\ignorespaces Interface of the Form details page.}}{92}{figure.3.51}%
-\contentsline {figure}{\numberline {3.52}{\ignorespaces Interface of the Form page.}}{93}{figure.3.52}%
-\contentsline {figure}{\numberline {3.53}{\ignorespaces Interface of the Review Submissions page.}}{93}{figure.3.53}%
-\contentsline {figure}{\numberline {3.54}{\ignorespaces Interface of the Review Submissions details page.}}{94}{figure.3.54}%
-\contentsline {figure}{\numberline {3.55}{\ignorespaces Interface of the Profile page.}}{94}{figure.3.55}%
-\contentsline {figure}{\numberline {3.56}{\ignorespaces Interface of the Manage Internal stakeholders page.}}{95}{figure.3.56}%
-\contentsline {figure}{\numberline {3.57}{\ignorespaces Interface of Manage Form page.}}{95}{figure.3.57}%
-\contentsline {figure}{\numberline {3.58}{\ignorespaces Interface of create a form page.}}{96}{figure.3.58}%
-\contentsline {figure}{\numberline {3.59}{\ignorespaces Source code of the method submit a service request.}}{98}{figure.3.59}%
-\contentsline {figure}{\numberline {3.60}{\ignorespaces Result of the test submitting a file request.}}{98}{figure.3.60}%
-\contentsline {figure}{\numberline {3.61}{\ignorespaces Source code of the method submit a service request.}}{99}{figure.3.61}%
-\contentsline {figure}{\numberline {3.62}{\ignorespaces Result of the test submitting a file request.}}{99}{figure.3.62}%
-\contentsline {figure}{\numberline {3.63}{\ignorespaces Source code of the method create a form.}}{100}{figure.3.63}%
-\contentsline {figure}{\numberline {3.64}{\ignorespaces Result of the test creating a new form.}}{101}{figure.3.64}%
-\contentsline {figure}{\numberline {3.65}{\ignorespaces Source code of the method create a new form.}}{101}{figure.3.65}%
-\contentsline {figure}{\numberline {3.66}{\ignorespaces Result of the test creating a new form.}}{102}{figure.3.66}%
-\contentsline {figure}{\numberline {3.67}{\ignorespaces Burn down chart of sprint 1.}}{102}{figure.3.67}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Use Case Diagram by Actor.}}{39}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Use Case Diagram by Actor.}}{40}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Prototype of Login Page.}}{41}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Prototype of Sign-up Page.}}{41}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Prototype of Service Page.}}{42}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Prototype of form Page.}}{42}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Prototype of form submission Page.}}{43}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Prototype of Profile Page.}}{43}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Prototype of Submission Review Page.}}{44}{figure.3.9}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Prototype of managing skateholders.}}{44}{figure.3.10}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Prototype of managing the submission coordinators.}}{45}{figure.3.11}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Prototype of the creation of a form Page.}}{45}{figure.3.12}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces System Sequence Diagram of the "Authenticate" Use Case.}}{47}{figure.3.13}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces System Sequence Diagram of the "Submit a service request" Use Case.}}{49}{figure.3.14}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Refinement of the use case 'Manage Profile'}}{50}{figure.3.15}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces System Sequence Diagram of the "Display Profile page" Use Case.}}{51}{figure.3.16}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces System Sequence Diagram of the "Update Profile" Use Case.}}{53}{figure.3.17}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces System Sequence Diagram of the "Update Password" Use Case.}}{55}{figure.3.18}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Refinement of the use case 'Review a submission'}}{56}{figure.3.19}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces system Sequence Diagram of the "Display submission details" Use Case.'}}{57}{figure.3.20}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces system Sequence Diagram of the "Refuse Submission" Use Case.'}}{59}{figure.3.21}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces system Sequence Diagram of the "Escalate Submission to a Higher Authority" \centering Use Case.}}{61}{figure.3.22}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Refinement of the use case 'Manage Profile'}}{62}{figure.3.23}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces System Sequence Diagram of the "Create Internal Stakeholders" Use Case.}}{64}{figure.3.24}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces System Sequence Diagram of the "Delete an Internal Stakeholder" Use Case.}}{66}{figure.3.25}%
+\contentsline {figure}{\numberline {3.26}{\ignorespaces System Sequence Diagram of the "Assign an internal stakeholder to another" Use Case.}}{68}{figure.3.26}%
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Refinement of the use case 'Manage Dynamic forms'}}{69}{figure.3.27}%
+\contentsline {figure}{\numberline {3.28}{\ignorespaces System Sequence Diagram of the "Create a new form " Use Case.}}{71}{figure.3.28}%
+\contentsline {figure}{\numberline {3.29}{\ignorespaces System Sequence Diagram of the "Disable/Enable a form " Use Case.}}{72}{figure.3.29}%
+\contentsline {figure}{\numberline {3.30}{\ignorespaces Participant class Diagram for the use case "Authenticate"}}{73}{figure.3.30}%
+\contentsline {figure}{\numberline {3.31}{\ignorespaces Participant class Diagram for the use case "Submit a service request"}}{74}{figure.3.31}%
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Participant class Diagram for the use case "Manage Profile"}}{74}{figure.3.32}%
+\contentsline {figure}{\numberline {3.33}{\ignorespaces Participant class Diagram for the use case "Review Submission"}}{75}{figure.3.33}%
+\contentsline {figure}{\numberline {3.34}{\ignorespaces Participant class Diagram for the use case "Manage Dynamic Forms}}{75}{figure.3.34}%
+\contentsline {figure}{\numberline {3.35}{\ignorespaces Participant class Diagram for the use case "Manage Internal Stakeholders}}{76}{figure.3.35}%
+\contentsline {figure}{\numberline {3.36}{\ignorespaces Detailed sequence diagram of the 'Authenticate' use case}}{77}{figure.3.36}%
+\contentsline {figure}{\numberline {3.37}{\ignorespaces Detailed sequence diagram of the 'submit a service request' use case}}{77}{figure.3.37}%
+\contentsline {figure}{\numberline {3.38}{\ignorespaces Detailed sequence diagram of the 'Display Profile' use case}}{78}{figure.3.38}%
+\contentsline {figure}{\numberline {3.39}{\ignorespaces Detailed sequence diagram of the 'Update Profile' use case}}{78}{figure.3.39}%
+\contentsline {figure}{\numberline {3.40}{\ignorespaces Detailed sequence diagram of the 'Update Password' use case}}{79}{figure.3.40}%
+\contentsline {figure}{\numberline {3.41}{\ignorespaces Detailed sequence diagram of the 'Review Submission' use case}}{80}{figure.3.41}%
+\contentsline {figure}{\numberline {3.42}{\ignorespaces Detailed sequence diagram of the 'Create a new stakeholder' use case}}{81}{figure.3.42}%
+\contentsline {figure}{\numberline {3.43}{\ignorespaces Detailed sequence diagram of the 'Delete a stakeholder' use case}}{82}{figure.3.43}%
+\contentsline {figure}{\numberline {3.44}{\ignorespaces Detailed sequence diagram of the 'Assign a stakeholder' use case}}{82}{figure.3.44}%
+\contentsline {figure}{\numberline {3.45}{\ignorespaces Detailed sequence diagram of the 'Create a form' use case}}{83}{figure.3.45}%
+\contentsline {figure}{\numberline {3.46}{\ignorespaces Detailed sequence diagram of the 'Disable/Enable a form' use case}}{83}{figure.3.46}%
+\contentsline {figure}{\numberline {3.47}{\ignorespaces Global class diagram of Sprint 1.}}{84}{figure.3.47}%
+\contentsline {figure}{\numberline {3.48}{\ignorespaces Interface of the Login page.}}{89}{figure.3.48}%
+\contentsline {figure}{\numberline {3.49}{\ignorespaces Interface of the Sign-up page.}}{89}{figure.3.49}%
+\contentsline {figure}{\numberline {3.50}{\ignorespaces Interface of the Service page.}}{90}{figure.3.50}%
+\contentsline {figure}{\numberline {3.51}{\ignorespaces Interface of the Form details page.}}{90}{figure.3.51}%
+\contentsline {figure}{\numberline {3.52}{\ignorespaces Interface of the Form page.}}{91}{figure.3.52}%
+\contentsline {figure}{\numberline {3.53}{\ignorespaces Interface of the Review Submissions page.}}{91}{figure.3.53}%
+\contentsline {figure}{\numberline {3.54}{\ignorespaces Interface of the Review Submissions details page.}}{92}{figure.3.54}%
+\contentsline {figure}{\numberline {3.55}{\ignorespaces Interface of the Profile page.}}{92}{figure.3.55}%
+\contentsline {figure}{\numberline {3.56}{\ignorespaces Interface of the Manage Internal stakeholders page.}}{93}{figure.3.56}%
+\contentsline {figure}{\numberline {3.57}{\ignorespaces Interface of Manage Form page.}}{93}{figure.3.57}%
+\contentsline {figure}{\numberline {3.58}{\ignorespaces Interface of create a form page.}}{94}{figure.3.58}%
+\contentsline {figure}{\numberline {3.59}{\ignorespaces Source code of the method submit a service request.}}{96}{figure.3.59}%
+\contentsline {figure}{\numberline {3.60}{\ignorespaces Result of the test submitting a file request.}}{96}{figure.3.60}%
+\contentsline {figure}{\numberline {3.61}{\ignorespaces Source code of the method submit a service request.}}{97}{figure.3.61}%
+\contentsline {figure}{\numberline {3.62}{\ignorespaces Result of the test submitting a file request.}}{97}{figure.3.62}%
+\contentsline {figure}{\numberline {3.63}{\ignorespaces Source code of the method create a form.}}{98}{figure.3.63}%
+\contentsline {figure}{\numberline {3.64}{\ignorespaces Result of the test creating a new form.}}{99}{figure.3.64}%
+\contentsline {figure}{\numberline {3.65}{\ignorespaces Source code of the method create a new form.}}{99}{figure.3.65}%
+\contentsline {figure}{\numberline {3.66}{\ignorespaces Result of the test creating a new form.}}{100}{figure.3.66}%
+\contentsline {figure}{\numberline {3.67}{\ignorespaces Burn down chart of sprint 1.}}{100}{figure.3.67}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Prototype of Tracking the submission Page.}}{109}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Prototype of The notification drop-down.}}{109}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Prototype of consulting the basic statics Page.}}{110}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Prototype of the supervision of the file managers Page.}}{110}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Prototype of Tracking the submission history Page.}}{111}{figure.4.5}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Prototype of consulting the global statics Page.}}{111}{figure.4.6}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Classification of the use cases per actor.}}{112}{figure.4.7}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Use Case Diagram of the Second Sprint}}{112}{figure.4.8}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Sequence Diagram of the use case 'Track submission status'}}{113}{figure.4.9}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Sequence Diagram of the use case 'Consult the notifications'}}{114}{figure.4.10}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Sequence Diagram of the use case 'Supervise Assigned File Managers Activities'}}{115}{figure.4.11}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Sequence Diagram of the use case 'Track Submissions Workflows History'}}{116}{figure.4.12}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Sequence Diagram of the use case 'Consult Global Statistics'}}{118}{figure.4.13}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Participant class Diagram for the use case "Track Submission Status"}}{119}{figure.4.14}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Participant class Diagram for the use case "Consult Notifications"}}{119}{figure.4.15}%
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Participant class Diagram for the use case "Consult Basic Statistics"}}{120}{figure.4.16}%
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Participant class Diagram for the use case "Supervise Assigned File Managers"}}{120}{figure.4.17}%
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Participant class Diagram for the use case "Track Submissions Workflows History"}}{121}{figure.4.18}%
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Participant class Diagram for the use case "Consult Global Statistics"}}{121}{figure.4.19}%
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Detailed sequence diagram of the 'Track Submission Status' use case}}{122}{figure.4.20}%
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Detailed sequence diagram of the 'Consult Notifications' use case}}{122}{figure.4.21}%
-\contentsline {figure}{\numberline {4.22}{\ignorespaces Detailed sequence diagram of the 'Consult Basic Statistics' use case}}{123}{figure.4.22}%
-\contentsline {figure}{\numberline {4.23}{\ignorespaces Detailed sequence diagram of the 'Supervise Assigned File Managers Activities' use case}}{124}{figure.4.23}%
-\contentsline {figure}{\numberline {4.24}{\ignorespaces Detailed sequence diagram of the 'Track Submissions Workflow History' use case}}{124}{figure.4.24}%
-\contentsline {figure}{\numberline {4.25}{\ignorespaces Detailed sequence diagram of the 'Consult Global Statistics' use case}}{125}{figure.4.25}%
-\contentsline {figure}{\numberline {4.26}{\ignorespaces Global class diagram of Sprint 2.}}{126}{figure.4.26}%
-\contentsline {figure}{\numberline {4.27}{\ignorespaces Interface of Tracking submissions status page.}}{130}{figure.4.27}%
-\contentsline {figure}{\numberline {4.28}{\ignorespaces Interface of the Notification drop-down.}}{131}{figure.4.28}%
-\contentsline {figure}{\numberline {4.29}{\ignorespaces Interface of the basic statistics Page.}}{131}{figure.4.29}%
-\contentsline {figure}{\numberline {4.30}{\ignorespaces Interface of supervising the file managers activities Page.}}{131}{figure.4.30}%
-\contentsline {figure}{\numberline {4.31}{\ignorespaces Interface of tracking the workflow history Page.}}{132}{figure.4.31}%
-\contentsline {figure}{\numberline {4.32}{\ignorespaces Interface of the Global statistics Page.}}{132}{figure.4.32}%
-\contentsline {figure}{\numberline {4.33}{\ignorespaces Source code of the method track submission status.}}{134}{figure.4.33}%
-\contentsline {figure}{\numberline {4.34}{\ignorespaces Result of the test tracking the submission status.}}{134}{figure.4.34}%
-\contentsline {figure}{\numberline {4.35}{\ignorespaces Source code of the method track submission status.}}{135}{figure.4.35}%
-\contentsline {figure}{\numberline {4.36}{\ignorespaces Result of the test tracking the submission status.}}{135}{figure.4.36}%
-\contentsline {figure}{\numberline {4.37}{\ignorespaces Source code of the method consult notifications.}}{136}{figure.4.37}%
-\contentsline {figure}{\numberline {4.38}{\ignorespaces Result of the test consulting notifications.}}{137}{figure.4.38}%
-\contentsline {figure}{\numberline {4.39}{\ignorespaces Source code of the method consult notifications.}}{137}{figure.4.39}%
-\contentsline {figure}{\numberline {4.40}{\ignorespaces Result of the test consulting notifications}}{138}{figure.4.40}%
-\contentsline {figure}{\numberline {4.41}{\ignorespaces Burn down chart of sprint 2.}}{139}{figure.4.41}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Prototype of Tracking the submission Page.}}{107}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Prototype of The notification drop-down.}}{107}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Prototype of consulting the basic statics Page.}}{108}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Prototype of the supervision of the file managers Page.}}{108}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Prototype of Tracking the submission history Page.}}{109}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Prototype of consulting the global statics Page.}}{109}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Classification of the use cases per actor.}}{110}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Use Case Diagram of the Second Sprint}}{110}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Sequence Diagram of the use case 'Track submission status'}}{111}{figure.4.9}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Sequence Diagram of the use case 'Consult the notifications'}}{112}{figure.4.10}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Sequence Diagram of the use case 'Supervise Assigned File Managers Activities'}}{113}{figure.4.11}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Sequence Diagram of the use case 'Track Submissions Workflows History'}}{114}{figure.4.12}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Sequence Diagram of the use case 'Consult Global Statistics'}}{116}{figure.4.13}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Participant class Diagram for the use case "Track Submission Status"}}{117}{figure.4.14}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Participant class Diagram for the use case "Consult Notifications"}}{117}{figure.4.15}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Participant class Diagram for the use case "Consult Basic Statistics"}}{118}{figure.4.16}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Participant class Diagram for the use case "Supervise Assigned File Managers"}}{118}{figure.4.17}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Participant class Diagram for the use case "Track Submissions Workflows History"}}{119}{figure.4.18}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Participant class Diagram for the use case "Consult Global Statistics"}}{119}{figure.4.19}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Detailed sequence diagram of the 'Track Submission Status' use case}}{120}{figure.4.20}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Detailed sequence diagram of the 'Consult Notifications' use case}}{120}{figure.4.21}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Detailed sequence diagram of the 'Consult Basic Statistics' use case}}{121}{figure.4.22}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Detailed sequence diagram of the 'Supervise Assigned File Managers Activities' use case}}{122}{figure.4.23}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Detailed sequence diagram of the 'Track Submissions Workflow History' use case}}{122}{figure.4.24}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Detailed sequence diagram of the 'Consult Global Statistics' use case}}{123}{figure.4.25}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Global class diagram of Sprint 2.}}{124}{figure.4.26}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Interface of Tracking submissions status page.}}{128}{figure.4.27}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Interface of the Notification drop-down.}}{129}{figure.4.28}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Interface of the basic statistics Page.}}{129}{figure.4.29}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Interface of supervising the file managers activities Page.}}{129}{figure.4.30}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Interface of tracking the workflow history Page.}}{130}{figure.4.31}%
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Interface of the Global statistics Page.}}{130}{figure.4.32}%
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Source code of the method track submission status.}}{132}{figure.4.33}%
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Result of the test tracking the submission status.}}{132}{figure.4.34}%
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Source code of the method track submission status.}}{133}{figure.4.35}%
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Result of the test tracking the submission status.}}{133}{figure.4.36}%
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Source code of the method consult notifications.}}{134}{figure.4.37}%
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Result of the test consulting notifications.}}{135}{figure.4.38}%
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Source code of the method consult notifications.}}{135}{figure.4.39}%
+\contentsline {figure}{\numberline {4.40}{\ignorespaces Result of the test consulting notifications}}{136}{figure.4.40}%
+\contentsline {figure}{\numberline {4.41}{\ignorespaces Burn down chart of sprint 2.}}{137}{figure.4.41}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Prototype of consulting the Home Page.}}{144}{figure.5.1}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Prototype of consulting the Actuality Page.}}{144}{figure.5.2}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Prototype of the e-mailing system Page.}}{145}{figure.5.3}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Prototype of resetting the password Page.}}{145}{figure.5.4}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Prototype of resetting the password Page.}}{146}{figure.5.5}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Prototype of managing the news Page.}}{146}{figure.5.6}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Prototype of recognizing national documents form.}}{147}{figure.5.7}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Classification of the use cases per actor.}}{147}{figure.5.8}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Use Case Diagram of the Third Sprint}}{148}{figure.5.9}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Sequence Diagram of the use case 'Consult News'}}{149}{figure.5.10}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Sequence Diagram of the use case 'Receive e-mails about my submissions'}}{150}{figure.5.11}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Sequence Diagram of the use case 'Reset forgotten password'}}{152}{figure.5.12}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Refinement of the use case 'Manage News on the platform'}}{153}{figure.5.13}%
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Sequence Diagram of the use case 'Create News'}}{154}{figure.5.14}%
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Sequence Diagram of the use case 'Update News'}}{156}{figure.5.15}%
-\contentsline {figure}{\numberline {5.16}{\ignorespaces Sequence Diagram of the use case 'Delete News'}}{158}{figure.5.16}%
-\contentsline {figure}{\numberline {5.17}{\ignorespaces Sequence Diagram of the use case 'Recognize national identity documents'}}{159}{figure.5.17}%
-\contentsline {figure}{\numberline {5.18}{\ignorespaces Participant class Diagram for the use case "Consult News"}}{160}{figure.5.18}%
-\contentsline {figure}{\numberline {5.19}{\ignorespaces Participant class Diagram for the use case "Receive e-mails about my submissions"}}{160}{figure.5.19}%
-\contentsline {figure}{\numberline {5.20}{\ignorespaces Participant class Diagram for the use case "Reset forgotten password"}}{161}{figure.5.20}%
-\contentsline {figure}{\numberline {5.21}{\ignorespaces Participant class Diagram for the use case "Manage news on the platform"}}{161}{figure.5.21}%
-\contentsline {figure}{\numberline {5.22}{\ignorespaces Participant class Diagram for the use case "Recognize national identity documents"}}{162}{figure.5.22}%
-\contentsline {figure}{\numberline {5.23}{\ignorespaces Detailed sequence diagram of the 'Consult News' use case}}{162}{figure.5.23}%
-\contentsline {figure}{\numberline {5.24}{\ignorespaces Detailed sequence diagram of the 'Receive e-mails about my submissions' use case}}{163}{figure.5.24}%
-\contentsline {figure}{\numberline {5.25}{\ignorespaces Detailed sequence diagram of the 'Reset forgotten password' use case}}{163}{figure.5.25}%
-\contentsline {figure}{\numberline {5.26}{\ignorespaces Detailed sequence diagram of the 'Create news' use case}}{164}{figure.5.26}%
-\contentsline {figure}{\numberline {5.27}{\ignorespaces Detailed sequence diagram of the 'Update news' use case}}{164}{figure.5.27}%
-\contentsline {figure}{\numberline {5.28}{\ignorespaces Detailed sequence diagram of the 'Delete news' use case}}{165}{figure.5.28}%
-\contentsline {figure}{\numberline {5.29}{\ignorespaces Global class diagram of Sprint 3.}}{166}{figure.5.29}%
-\contentsline {figure}{\numberline {5.30}{\ignorespaces Interface of consulting news 1.}}{169}{figure.5.30}%
-\contentsline {figure}{\numberline {5.31}{\ignorespaces Interface of consulting news 2.}}{170}{figure.5.31}%
-\contentsline {figure}{\numberline {5.32}{\ignorespaces Interface of consulting news 3.}}{170}{figure.5.32}%
-\contentsline {figure}{\numberline {5.33}{\ignorespaces Interface of receiving an e-mail.}}{171}{figure.5.33}%
-\contentsline {figure}{\numberline {5.34}{\ignorespaces Interface of resetting password 1.}}{171}{figure.5.34}%
-\contentsline {figure}{\numberline {5.35}{\ignorespaces Interface of resetting password 2.}}{172}{figure.5.35}%
-\contentsline {figure}{\numberline {5.36}{\ignorespaces Interface of resetting password 3.}}{172}{figure.5.36}%
-\contentsline {figure}{\numberline {5.37}{\ignorespaces Interface of managing the news.}}{173}{figure.5.37}%
-\contentsline {figure}{\numberline {5.38}{\ignorespaces Interface of the form (recognize documents on file fields).}}{173}{figure.5.38}%
-\contentsline {figure}{\numberline {5.39}{\ignorespaces Source code of the method create news.}}{175}{figure.5.39}%
-\contentsline {figure}{\numberline {5.40}{\ignorespaces Result of the test creating news.}}{175}{figure.5.40}%
-\contentsline {figure}{\numberline {5.41}{\ignorespaces Source code of the method create news.}}{176}{figure.5.41}%
-\contentsline {figure}{\numberline {5.42}{\ignorespaces Result of the test Creating news.}}{176}{figure.5.42}%
-\contentsline {figure}{\numberline {5.43}{\ignorespaces Source code of the method Validating national identity documents.}}{177}{figure.5.43}%
-\contentsline {figure}{\numberline {5.44}{\ignorespaces Result of the test Validating national identity documentss.}}{178}{figure.5.44}%
-\contentsline {figure}{\numberline {5.45}{\ignorespaces Source code of the method Validating national identity documents.}}{178}{figure.5.45}%
-\contentsline {figure}{\numberline {5.46}{\ignorespaces Result of the test Validating national identity documentss}}{179}{figure.5.46}%
-\contentsline {figure}{\numberline {5.47}{\ignorespaces Burn down chart of sprint 3.}}{180}{figure.5.47}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Prototype of consulting the Home Page.}}{142}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Prototype of consulting the Actuality Page.}}{142}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Prototype of the e-mailing system Page.}}{143}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Prototype of resetting the password Page.}}{143}{figure.5.4}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Prototype of resetting the password Page.}}{144}{figure.5.5}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Prototype of managing the news Page.}}{144}{figure.5.6}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Prototype of recognizing national documents form.}}{145}{figure.5.7}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Classification of the use cases per actor.}}{145}{figure.5.8}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Use Case Diagram of the Third Sprint}}{146}{figure.5.9}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Sequence Diagram of the use case 'Consult News'}}{147}{figure.5.10}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Sequence Diagram of the use case 'Receive e-mails about my submissions'}}{148}{figure.5.11}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Sequence Diagram of the use case 'Reset forgotten password'}}{150}{figure.5.12}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Refinement of the use case 'Manage News on the platform'}}{151}{figure.5.13}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Sequence Diagram of the use case 'Create News'}}{152}{figure.5.14}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Sequence Diagram of the use case 'Update News'}}{154}{figure.5.15}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Sequence Diagram of the use case 'Delete News'}}{156}{figure.5.16}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Sequence Diagram of the use case 'Recognize national identity documents'}}{157}{figure.5.17}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Participant class Diagram for the use case "Consult News"}}{158}{figure.5.18}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Participant class Diagram for the use case "Receive e-mails about my submissions"}}{158}{figure.5.19}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Participant class Diagram for the use case "Reset forgotten password"}}{159}{figure.5.20}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Participant class Diagram for the use case "Manage news on the platform"}}{159}{figure.5.21}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Participant class Diagram for the use case "Recognize national identity documents"}}{160}{figure.5.22}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Detailed sequence diagram of the 'Consult News' use case}}{160}{figure.5.23}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Detailed sequence diagram of the 'Receive e-mails about my submissions' use case}}{161}{figure.5.24}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Detailed sequence diagram of the 'Reset forgotten password' use case}}{161}{figure.5.25}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Detailed sequence diagram of the 'Create news' use case}}{162}{figure.5.26}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Detailed sequence diagram of the 'Update news' use case}}{162}{figure.5.27}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Detailed sequence diagram of the 'Delete news' use case}}{163}{figure.5.28}%
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Global class diagram of Sprint 3.}}{164}{figure.5.29}%
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Interface of consulting news 1.}}{167}{figure.5.30}%
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Interface of consulting news 2.}}{168}{figure.5.31}%
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Interface of consulting news 3.}}{168}{figure.5.32}%
+\contentsline {figure}{\numberline {5.33}{\ignorespaces Interface of receiving an e-mail.}}{169}{figure.5.33}%
+\contentsline {figure}{\numberline {5.34}{\ignorespaces Interface of resetting password 1.}}{169}{figure.5.34}%
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Interface of resetting password 2.}}{170}{figure.5.35}%
+\contentsline {figure}{\numberline {5.36}{\ignorespaces Interface of resetting password 3.}}{170}{figure.5.36}%
+\contentsline {figure}{\numberline {5.37}{\ignorespaces Interface of managing the news.}}{171}{figure.5.37}%
+\contentsline {figure}{\numberline {5.38}{\ignorespaces Interface of the form (recognize documents on file fields).}}{171}{figure.5.38}%
+\contentsline {figure}{\numberline {5.39}{\ignorespaces Source code of the method create news.}}{173}{figure.5.39}%
+\contentsline {figure}{\numberline {5.40}{\ignorespaces Result of the test creating news.}}{173}{figure.5.40}%
+\contentsline {figure}{\numberline {5.41}{\ignorespaces Source code of the method create news.}}{174}{figure.5.41}%
+\contentsline {figure}{\numberline {5.42}{\ignorespaces Result of the test Creating news.}}{174}{figure.5.42}%
+\contentsline {figure}{\numberline {5.43}{\ignorespaces Source code of the method Validating national identity documents.}}{175}{figure.5.43}%
+\contentsline {figure}{\numberline {5.44}{\ignorespaces Result of the test Validating national identity documentss.}}{176}{figure.5.44}%
+\contentsline {figure}{\numberline {5.45}{\ignorespaces Source code of the method Validating national identity documents.}}{176}{figure.5.45}%
+\contentsline {figure}{\numberline {5.46}{\ignorespaces Result of the test Validating national identity documentss}}{177}{figure.5.46}%
+\contentsline {figure}{\numberline {5.47}{\ignorespaces Burn down chart of sprint 3.}}{178}{figure.5.47}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Draw.io}}{183}{figure.6.1}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Overleaf}}{183}{figure.6.2}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Balsamiq Wireframes}}{183}{figure.6.3}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Postman}}{183}{figure.6.4}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Oracle SQL Developer}}{184}{figure.6.5}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Oracle Database}}{184}{figure.6.6}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces VS Code}}{184}{figure.6.7}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Node.js}}{184}{figure.6.8}%
-\contentsline {figure}{\numberline {6.9}{\ignorespaces REACT.js}}{184}{figure.6.9}%
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Express.js}}{184}{figure.6.10}%
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Node.js}}{185}{figure.6.11}%
-\contentsline {figure}{\numberline {6.12}{\ignorespaces Paperless NGX}}{185}{figure.6.12}%
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Redis}}{185}{figure.6.13}%
-\contentsline {figure}{\numberline {6.14}{\ignorespaces JWT}}{185}{figure.6.14}%
-\contentsline {figure}{\numberline {6.15}{\ignorespaces Google SMTP}}{185}{figure.6.15}%
-\contentsline {figure}{\numberline {6.16}{\ignorespaces Open AI API}}{185}{figure.6.16}%
-\contentsline {figure}{\numberline {6.17}{\ignorespaces Chart.js}}{186}{figure.6.17}%
-\contentsline {figure}{\numberline {6.18}{\ignorespaces UUID}}{186}{figure.6.18}%
-\contentsline {figure}{\numberline {6.19}{\ignorespaces Docker}}{186}{figure.6.19}%
-\contentsline {figure}{\numberline {6.20}{\ignorespaces Jira}}{186}{figure.6.20}%
-\contentsline {figure}{\numberline {6.21}{\ignorespaces Github}}{186}{figure.6.21}%
-\contentsline {figure}{\numberline {6.22}{\ignorespaces The MVC Architecture.}}{188}{figure.6.22}%
-\contentsline {figure}{\numberline {6.23}{\ignorespaces Deployment Diagram.}}{189}{figure.6.23}%
-\contentsline {figure}{\numberline {6.24}{\ignorespaces Task distribution for the first sprint using Jira.}}{190}{figure.6.24}%
-\contentsline {figure}{\numberline {6.25}{\ignorespaces Task distribution for the second sprint using Jira.}}{190}{figure.6.25}%
-\contentsline {figure}{\numberline {6.26}{\ignorespaces Task distribution for the third sprint using Jira.}}{190}{figure.6.26}%
-\contentsline {figure}{\numberline {6.27}{\ignorespaces Tasks Diagram.}}{191}{figure.6.27}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Draw.io}}{181}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Overleaf}}{181}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Balsamiq Wireframes}}{181}{figure.6.3}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Postman}}{181}{figure.6.4}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Oracle SQL Developer}}{182}{figure.6.5}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Oracle Database}}{182}{figure.6.6}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces VS Code}}{182}{figure.6.7}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Node.js}}{182}{figure.6.8}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces REACT.js}}{182}{figure.6.9}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Express.js}}{182}{figure.6.10}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Node.js}}{183}{figure.6.11}%
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Paperless NGX}}{183}{figure.6.12}%
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Redis}}{183}{figure.6.13}%
+\contentsline {figure}{\numberline {6.14}{\ignorespaces JWT}}{183}{figure.6.14}%
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Google SMTP}}{183}{figure.6.15}%
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Open AI API}}{183}{figure.6.16}%
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Chart.js}}{184}{figure.6.17}%
+\contentsline {figure}{\numberline {6.18}{\ignorespaces UUID}}{184}{figure.6.18}%
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Docker}}{184}{figure.6.19}%
+\contentsline {figure}{\numberline {6.20}{\ignorespaces Jira}}{184}{figure.6.20}%
+\contentsline {figure}{\numberline {6.21}{\ignorespaces Github}}{184}{figure.6.21}%
+\contentsline {figure}{\numberline {6.22}{\ignorespaces The MVC Architecture.}}{186}{figure.6.22}%
+\contentsline {figure}{\numberline {6.23}{\ignorespaces Deployment Diagram.}}{187}{figure.6.23}%
+\contentsline {figure}{\numberline {6.24}{\ignorespaces Task distribution for the first sprint using Jira.}}{188}{figure.6.24}%
+\contentsline {figure}{\numberline {6.25}{\ignorespaces Task distribution for the second sprint using Jira.}}{188}{figure.6.25}%
+\contentsline {figure}{\numberline {6.26}{\ignorespaces Task distribution for the third sprint using Jira.}}{188}{figure.6.26}%
+\contentsline {figure}{\numberline {6.27}{\ignorespaces Tasks Diagram.}}{189}{figure.6.27}%
