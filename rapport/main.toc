@@ -74,161 +74,160 @@
 \contentsline {subsection}{\numberline {3.3.3}Use Case Analysis: "Manage Profile"}{50}{subsection.3.3.3}%
 \contentsline {subsubsection}{Refinement of the use case 'Manage Profile'}{50}{subsubsection*.21}%
 \contentsline {subsubsection}{Textual Description of the "Display profile page" Use Case}{50}{subsubsection*.22}%
-\contentsline {subsubsection}{Textual Description of the "Update Profile" Use Case}{52}{subsubsection*.23}%
-\contentsline {subsubsection}{Textual Description of the "Update Password" Use Case}{54}{subsubsection*.24}%
-\contentsline {subsection}{\numberline {3.3.4}Use Case Analysis: "Review a Submission"}{56}{subsection.3.3.4}%
-\contentsline {subsubsection}{Refinement of the use case 'Review a submission'}{56}{subsubsection*.25}%
-\contentsline {subsubsection}{Textual Description of the "Display submission details" Use Case}{56}{subsubsection*.26}%
-\contentsline {subsubsection}{Textual Description of the "Refuse submission" Use Case}{58}{subsubsection*.27}%
-\contentsline {subsubsection}{Textual Description of the "Escalate submission to a higher authority" Use Case}{60}{subsubsection*.28}%
-\contentsline {subsection}{\numberline {3.3.5}Use Case Analysis: "Manage internal skateholders"}{62}{subsection.3.3.5}%
-\contentsline {subsubsection}{Refinement of the use case 'Manage internal skateholders'}{62}{subsubsection*.29}%
-\contentsline {subsubsection}{Textual Description of the "Create new internal stakeholders" Use Case}{63}{subsubsection*.30}%
-\contentsline {subsubsection}{Textual Description of the "Delete an internal stakeholders" Use Case}{65}{subsubsection*.31}%
-\contentsline {subsubsection}{Textual Description of the "Assign an internal stakeholder to another" Use Case}{67}{subsubsection*.32}%
-\contentsline {subsection}{\numberline {3.3.6}Use Case Analysis: "Manage Dynamic Forms"}{69}{subsection.3.3.6}%
-\contentsline {subsubsection}{Refinement of the use case 'Manage dynamic forms'}{69}{subsubsection*.33}%
-\contentsline {subsubsection}{Textual Description of the "Create a new form" Use Case}{70}{subsubsection*.34}%
-\contentsline {subsubsection}{Textual Description of the "Disable/Enable a form" Use Case}{72}{subsubsection*.35}%
-\contentsline {section}{\numberline {3.4}Design of Use Cases}{73}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}The participant Class Diagram}{73}{subsection.3.4.1}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Authenticate"}{73}{subsubsection*.36}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Submit a service request"}{74}{subsubsection*.37}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Manage Profile"}{74}{subsubsection*.38}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Review Submission"}{75}{subsubsection*.39}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Manage Dynamic Forms"}{75}{subsubsection*.40}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Manage Internal Stakeholders"}{76}{subsubsection*.41}%
-\contentsline {subsection}{\numberline {3.4.2}Detailed Sequence Diagram}{76}{subsection.3.4.2}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Authenticate' use case}{76}{subsubsection*.42}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'submit a service request' use case}{77}{subsubsection*.43}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Manage Profile' use case}{78}{subsubsection*.44}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Review Submission' use case}{80}{subsubsection*.45}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Manage Internal stakeholders' use case}{81}{subsubsection*.46}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Manage Dynamic Forms' use case}{83}{subsubsection*.47}%
-\contentsline {section}{\numberline {3.5}Global class diagram of the first sprint}{84}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Implementation}{85}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}The Database Schemas}{85}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}The interfaces of the use cases}{89}{subsection.3.6.2}%
-\contentsline {section}{\numberline {3.7}Tests}{95}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Unit Tests}{95}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2} Unit Test for the Use Case "Submit a service request"}{95}{subsection.3.7.2}%
-\contentsline {subsubsection}{Reasoning}{95}{subsubsection*.48}%
-\contentsline {subsubsection}{Successful Test Case "Submit a service request"}{95}{subsubsection*.49}%
-\contentsline {subsubsection}{Failure Test Case "Submit a service request"}{97}{subsubsection*.50}%
-\contentsline {subsection}{\numberline {3.7.3} Unit Test for the Use Case "Create Dynamic forms"}{97}{subsection.3.7.3}%
-\contentsline {subsubsection}{Reasoning}{97}{subsubsection*.51}%
-\contentsline {subsubsection}{Successful Test Case "Create a dynamic form"}{98}{subsubsection*.52}%
-\contentsline {subsubsection}{Failure Test Case "Submit a service request"}{99}{subsubsection*.53}%
-\contentsline {section}{\numberline {3.8}Sprint Review – Burndown Chart Diagram}{99}{section.3.8}%
-\contentsline {section}{Conclusion}{101}{figure.3.67}%
-\contentsline {chapter}{\numberline {4}Sprint 2: Tracking, Notifications and Statistics}{102}{chapter.4}%
-\contentsline {section}{Introduction}{103}{section*.54}%
-\contentsline {section}{\numberline {4.1}Functional Specification}{103}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Sprint Backlog}{103}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Interface Prototyping}{106}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Use Case Diagram of the Second Sprint}{107}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Use Case Analysis}{108}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Use Case Analysis "Track submission status"}{108}{subsection.4.3.1}%
-\contentsline {subsubsection}{Textual Description of the "Track submission status" Use Case}{108}{subsubsection*.55}%
-\contentsline {subsection}{\numberline {4.3.2}Use Case Analysis "Consult the notifications"}{109}{subsection.4.3.2}%
-\contentsline {subsubsection}{Textual Description of the "Consult the notifications" Use Case}{109}{subsubsection*.56}%
-\contentsline {subsection}{\numberline {4.3.3}Use Case Analysis "Supervise Assigned File Managers"}{110}{subsection.4.3.3}%
-\contentsline {subsubsection}{Textual Description of the "Supervise Assigned File Managers" Use Case}{110}{subsubsection*.57}%
-\contentsline {subsection}{\numberline {4.3.4}Use Case Analysis "Track Submissions Workflows History"}{111}{subsection.4.3.4}%
-\contentsline {subsubsection}{Textual Description of the "Track Submissions Workflows History" Use Case}{111}{subsubsection*.58}%
-\contentsline {subsection}{\numberline {4.3.5}Use Case Analysis "Consult Global Statistics"}{115}{subsection.4.3.5}%
-\contentsline {subsubsection}{Textual Description of the "Consult Global Statistics" Use Case}{115}{subsubsection*.59}%
-\contentsline {section}{\numberline {4.4}Design of Use Cases}{117}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}The participant Class Diagram}{117}{subsection.4.4.1}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Track Submission Status"}{117}{subsubsection*.60}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Consult Notifications"}{117}{subsubsection*.61}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Consult Basic Statistics"}{118}{subsubsection*.62}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Supervise Assigned File Managers"}{118}{subsubsection*.63}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Track Submissions Workflows History"}{119}{subsubsection*.64}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Consult Global Statistics"}{119}{subsubsection*.65}%
-\contentsline {subsection}{\numberline {4.4.2}Detailed Sequence Diagram}{120}{subsection.4.4.2}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Track Submission Status' use case}{120}{subsubsection*.66}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Consult Notifications' use case}{120}{subsubsection*.67}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Consult Basic Statistics' use case}{121}{subsubsection*.68}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Supervise Assigned File Managers Activities' use case}{122}{subsubsection*.69}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Track Submissions Workflow History' use case}{122}{subsubsection*.70}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Consult Global Statistics' use case}{123}{subsubsection*.71}%
-\contentsline {section}{\numberline {4.5}Global class diagram of the second sprint}{124}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Implementation}{125}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}The Database Schemas}{125}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}The interfaces of the use cases}{128}{subsection.4.6.2}%
-\contentsline {section}{\numberline {4.7}Tests}{131}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Unit Testing}{131}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2} Unit Test for the Use Case "Track submission status"}{131}{subsection.4.7.2}%
-\contentsline {subsubsection}{Reasoning}{131}{subsubsection*.72}%
-\contentsline {subsubsection}{Successful Test Case "Track submission status"}{131}{subsubsection*.73}%
-\contentsline {subsubsection}{Failure Test Case "Track submission status"}{133}{subsubsection*.74}%
-\contentsline {subsection}{\numberline {4.7.3} Unit Test for the Use Case "Consult Notifications"}{134}{subsection.4.7.3}%
-\contentsline {subsubsection}{Reasoning}{134}{subsubsection*.75}%
-\contentsline {subsubsection}{Successful Test Case "Consult notifications"}{134}{subsubsection*.76}%
-\contentsline {subsubsection}{Failure Test Case "Consult notifications"}{135}{subsubsection*.77}%
-\contentsline {section}{\numberline {4.8}Sprint Review – Burndown Chart Diagram}{136}{section.4.8}%
-\contentsline {section}{Conclusion}{137}{figure.4.41}%
-\contentsline {chapter}{\numberline {5}Sprint 3: User Access and Service Request Foundation}{138}{chapter.5}%
-\contentsline {section}{Introduction}{139}{section*.78}%
-\contentsline {section}{\numberline {5.1}Functional Specification}{139}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Sprint Backlog}{139}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Interface Prototyping}{142}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Use Case Diagram of the Third Sprint}{145}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Use Case Analysis}{146}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Use Case Analysis "Track submission status"}{146}{subsection.5.3.1}%
-\contentsline {subsubsection}{Textual Description of the "Consult News" Use Case}{146}{subsubsection*.79}%
-\contentsline {subsection}{\numberline {5.3.2}Use Case Analysis "Receive E-mails about my submission"}{147}{subsection.5.3.2}%
-\contentsline {subsubsection}{Textual Description of the "Receive E-mails about my submission" Use Case}{147}{subsubsection*.80}%
-\contentsline {subsection}{\numberline {5.3.3}Use Case Analysis: "Reset forgotten password"}{149}{subsection.5.3.3}%
-\contentsline {subsubsection}{Textual Description of the "Reset forgotten password" Use Case}{149}{subsubsection*.81}%
-\contentsline {subsection}{\numberline {5.3.4}Use Case Analysis: "Manage News on the platform"}{151}{subsection.5.3.4}%
-\contentsline {subsubsection}{Refinement of the use case 'Manage News on the platform'}{151}{subsubsection*.82}%
-\contentsline {subsubsection}{Textual Description of the "Create News" Use Case}{151}{subsubsection*.83}%
-\contentsline {subsubsection}{Textual Description of the "Update News" Use Case}{153}{subsubsection*.84}%
-\contentsline {subsubsection}{Textual Description of the "Delete News" Use Case}{155}{subsubsection*.85}%
-\contentsline {subsection}{\numberline {5.3.5}Use Case Analysis "Recognize national identity documents"}{157}{subsection.5.3.5}%
-\contentsline {subsubsection}{Textual Description of the "Recognize national identity documents" Use Case}{157}{subsubsection*.86}%
-\contentsline {section}{\numberline {5.4}Design of Use Cases}{158}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}The participant Class Diagram}{158}{subsection.5.4.1}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Consult News"}{158}{subsubsection*.87}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Receive e-mails about my submissions"}{158}{subsubsection*.88}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Reset forgotten password"}{159}{subsubsection*.89}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Manage news on the platform"}{159}{subsubsection*.90}%
-\contentsline {subsubsection}{Participant class Diagram for the use case "Recognize national identity documents"}{159}{subsubsection*.91}%
-\contentsline {subsection}{\numberline {5.4.2}Detailed Sequence Diagram}{160}{subsection.5.4.2}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Consult News' use case}{160}{subsubsection*.92}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Receive e-mails about my submissions' use case}{161}{subsubsection*.93}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Reset forgotten password' use case}{161}{subsubsection*.94}%
-\contentsline {subsubsection}{Detailed sequence diagram of the 'Manage news on the platform' use case}{162}{subsubsection*.95}%
-\contentsline {section}{\numberline {5.5}Global class diagram of the third sprint}{164}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Implementation}{164}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}The Database Schemas}{164}{subsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.6.2}The interfaces of the use cases}{167}{subsection.5.6.2}%
-\contentsline {section}{\numberline {5.7}Tests}{172}{section.5.7}%
-\contentsline {subsection}{\numberline {5.7.1}Unit Testing}{172}{subsection.5.7.1}%
-\contentsline {subsection}{\numberline {5.7.2} Unit Test for the Use Case "Create news"}{172}{subsection.5.7.2}%
-\contentsline {subsubsection}{Reasoning}{172}{subsubsection*.96}%
-\contentsline {subsubsection}{Successful Test Case "Create News"}{172}{subsubsection*.97}%
-\contentsline {subsubsection}{Failure Test Case "Create News"}{174}{subsubsection*.98}%
-\contentsline {subsection}{\numberline {5.7.3} Unit Test for the Use Case "Validate national identity documents"}{175}{subsection.5.7.3}%
-\contentsline {subsubsection}{Reasoning}{175}{subsubsection*.99}%
-\contentsline {subsubsection}{Successful Test Case "Validate national identity documents"}{175}{subsubsection*.100}%
-\contentsline {subsubsection}{Failure Test Case "Validate national identity documents"}{176}{subsubsection*.101}%
-\contentsline {section}{\numberline {5.8}Sprint Review – Burndown Chart Diagram}{177}{section.5.8}%
-\contentsline {section}{Conclusion}{178}{figure.5.47}%
-\contentsline {chapter}{\numberline {6}Cloture Phase}{179}{chapter.6}%
-\contentsline {section}{Introduction}{180}{section*.102}%
-\contentsline {section}{\numberline {6.1}Development Environment}{180}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Hardware Environment}{180}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Software Environment}{180}{subsection.6.1.2}%
-\contentsline {section}{\numberline {6.2}Technological Choices}{185}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}The MVC Architecture}{185}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Deployment Diagram}{187}{subsection.6.2.2}%
-\contentsline {section}{\numberline {6.3}Project Management}{187}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Task Table}{187}{subsection.6.3.1}%
-\contentsline {section}{\numberline {6.4}Gantt Chart}{189}{section.6.4}%
-\contentsline {section}{Conclusion}{190}{figure.6.27}%
-\contentsline {chapter}{General Conclusion}{191}{chapter*.103}%
-\contentsline {chapter}{Bibliographie}{193}{section*.104}%
-\contentsline {chapter}{Webographie}{194}{section*.106}%
+\contentsline {subsubsection}{Textual Description of the "Update Password" Use Case}{52}{subsubsection*.23}%
+\contentsline {subsection}{\numberline {3.3.4}Use Case Analysis: "Review a Submission"}{54}{subsection.3.3.4}%
+\contentsline {subsubsection}{Refinement of the use case 'Review a submission'}{54}{subsubsection*.24}%
+\contentsline {subsubsection}{Textual Description of the "Display submission details" Use Case}{54}{subsubsection*.25}%
+\contentsline {subsubsection}{Textual Description of the "Refuse submission" Use Case}{56}{subsubsection*.26}%
+\contentsline {subsubsection}{Textual Description of the "Escalate submission to a higher authority" Use Case}{58}{subsubsection*.27}%
+\contentsline {subsection}{\numberline {3.3.5}Use Case Analysis: "Manage internal skateholders"}{60}{subsection.3.3.5}%
+\contentsline {subsubsection}{Refinement of the use case 'Manage internal skateholders'}{60}{subsubsection*.28}%
+\contentsline {subsubsection}{Textual Description of the "Create new internal stakeholders" Use Case}{61}{subsubsection*.29}%
+\contentsline {subsubsection}{Textual Description of the "Delete an internal stakeholders" Use Case}{63}{subsubsection*.30}%
+\contentsline {subsubsection}{Textual Description of the "Assign an Internal Stakeholder to another" Use Case}{65}{subsubsection*.31}%
+\contentsline {subsection}{\numberline {3.3.6}Use Case Analysis: "Manage Dynamic Forms"}{67}{subsection.3.3.6}%
+\contentsline {subsubsection}{Refinement of the use case 'Manage dynamic forms'}{67}{subsubsection*.32}%
+\contentsline {subsubsection}{Textual Description of the "Update a Form" Use Case}{68}{subsubsection*.33}%
+\contentsline {subsubsection}{Textual Description of the "Disable/Enable a form" Use Case}{70}{subsubsection*.34}%
+\contentsline {section}{\numberline {3.4}Design of Use Cases}{71}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}The participant Class Diagram}{71}{subsection.3.4.1}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Authenticate"}{71}{subsubsection*.35}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Submit a service request"}{72}{subsubsection*.36}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Manage Profile"}{72}{subsubsection*.37}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Review Submission"}{73}{subsubsection*.38}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Manage Dynamic Forms"}{73}{subsubsection*.39}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Manage Internal Stakeholders"}{74}{subsubsection*.40}%
+\contentsline {subsection}{\numberline {3.4.2}Detailed Sequence Diagram}{74}{subsection.3.4.2}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Authenticate' use case}{74}{subsubsection*.41}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'submit a service request' use case}{75}{subsubsection*.42}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Manage Profile' use case}{76}{subsubsection*.43}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Review Submission' use case}{78}{subsubsection*.44}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Manage Internal stakeholders' use case}{79}{subsubsection*.45}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Manage Dynamic Forms' use case}{81}{subsubsection*.46}%
+\contentsline {section}{\numberline {3.5}Global class diagram of the first sprint}{82}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Implementation}{83}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}The Database Schemas}{83}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}The interfaces of the use cases}{87}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Tests}{93}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Unit Tests}{93}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2} Unit Test for the Use Case "Submit a service request"}{93}{subsection.3.7.2}%
+\contentsline {subsubsection}{Reasoning}{93}{subsubsection*.47}%
+\contentsline {subsubsection}{Successful Test Case "Submit a service request"}{93}{subsubsection*.48}%
+\contentsline {subsubsection}{Failure Test Case "Submit a service request"}{95}{subsubsection*.49}%
+\contentsline {subsection}{\numberline {3.7.3} Unit Test for the Use Case "Create Dynamic forms"}{95}{subsection.3.7.3}%
+\contentsline {subsubsection}{Reasoning}{95}{subsubsection*.50}%
+\contentsline {subsubsection}{Successful Test Case "Create a dynamic form"}{96}{subsubsection*.51}%
+\contentsline {subsubsection}{Failure Test Case "Submit a service request"}{97}{subsubsection*.52}%
+\contentsline {section}{\numberline {3.8}Sprint Review – Burndown Chart Diagram}{97}{section.3.8}%
+\contentsline {section}{Conclusion}{99}{figure.3.66}%
+\contentsline {chapter}{\numberline {4}Sprint 2: Tracking, Notifications and Statistics}{100}{chapter.4}%
+\contentsline {section}{Introduction}{101}{section*.53}%
+\contentsline {section}{\numberline {4.1}Functional Specification}{101}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Sprint Backlog}{101}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Interface Prototyping}{104}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Use Case Diagram of the Second Sprint}{105}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Use Case Analysis}{106}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Use Case Analysis "Track submission status"}{106}{subsection.4.3.1}%
+\contentsline {subsubsection}{Textual Description of the "Track submission status" Use Case}{106}{subsubsection*.54}%
+\contentsline {subsection}{\numberline {4.3.2}Use Case Analysis "Consult the notifications"}{107}{subsection.4.3.2}%
+\contentsline {subsubsection}{Textual Description of the "Consult the notifications" Use Case}{107}{subsubsection*.55}%
+\contentsline {subsection}{\numberline {4.3.3}Use Case Analysis "Supervise Assigned File Managers"}{108}{subsection.4.3.3}%
+\contentsline {subsubsection}{Textual Description of the "Supervise Assigned File Managers" Use Case}{108}{subsubsection*.56}%
+\contentsline {subsection}{\numberline {4.3.4}Use Case Analysis "Track Submissions Workflows History"}{109}{subsection.4.3.4}%
+\contentsline {subsubsection}{Textual Description of the "Track Submissions Workflows History" Use Case}{109}{subsubsection*.57}%
+\contentsline {subsection}{\numberline {4.3.5}Use Case Analysis "Consult Global Statistics"}{113}{subsection.4.3.5}%
+\contentsline {subsubsection}{Textual Description of the "Consult Global Statistics" Use Case}{113}{subsubsection*.58}%
+\contentsline {section}{\numberline {4.4}Design of Use Cases}{115}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}The participant Class Diagram}{115}{subsection.4.4.1}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Track Submission Status"}{115}{subsubsection*.59}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Consult Notifications"}{115}{subsubsection*.60}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Consult Basic Statistics"}{116}{subsubsection*.61}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Supervise Assigned File Managers"}{116}{subsubsection*.62}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Track Submissions Workflows History"}{117}{subsubsection*.63}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Consult Global Statistics"}{117}{subsubsection*.64}%
+\contentsline {subsection}{\numberline {4.4.2}Detailed Sequence Diagram}{118}{subsection.4.4.2}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Track Submission Status' use case}{118}{subsubsection*.65}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Consult Notifications' use case}{118}{subsubsection*.66}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Consult Basic Statistics' use case}{119}{subsubsection*.67}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Supervise Assigned File Managers Activities' use case}{120}{subsubsection*.68}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Track Submissions Workflow History' use case}{120}{subsubsection*.69}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Consult Global Statistics' use case}{121}{subsubsection*.70}%
+\contentsline {section}{\numberline {4.5}Global class diagram of the second sprint}{122}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Implementation}{123}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}The Database Schemas}{123}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}The interfaces of the use cases}{126}{subsection.4.6.2}%
+\contentsline {section}{\numberline {4.7}Tests}{129}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Unit Testing}{129}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2} Unit Test for the Use Case "Track submission status"}{129}{subsection.4.7.2}%
+\contentsline {subsubsection}{Reasoning}{129}{subsubsection*.71}%
+\contentsline {subsubsection}{Successful Test Case "Track submission status"}{129}{subsubsection*.72}%
+\contentsline {subsubsection}{Failure Test Case "Track submission status"}{131}{subsubsection*.73}%
+\contentsline {subsection}{\numberline {4.7.3} Unit Test for the Use Case "Consult Notifications"}{132}{subsection.4.7.3}%
+\contentsline {subsubsection}{Reasoning}{132}{subsubsection*.74}%
+\contentsline {subsubsection}{Successful Test Case "Consult notifications"}{132}{subsubsection*.75}%
+\contentsline {subsubsection}{Failure Test Case "Consult notifications"}{133}{subsubsection*.76}%
+\contentsline {section}{\numberline {4.8}Sprint Review – Burndown Chart Diagram}{134}{section.4.8}%
+\contentsline {section}{Conclusion}{135}{figure.4.41}%
+\contentsline {chapter}{\numberline {5}Sprint 3: User Access and Service Request Foundation}{136}{chapter.5}%
+\contentsline {section}{Introduction}{137}{section*.77}%
+\contentsline {section}{\numberline {5.1}Functional Specification}{137}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Sprint Backlog}{137}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Interface Prototyping}{140}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Use Case Diagram of the Third Sprint}{143}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Use Case Analysis}{144}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Use Case Analysis "Track submission status"}{144}{subsection.5.3.1}%
+\contentsline {subsubsection}{Textual Description of the "Consult News" Use Case}{144}{subsubsection*.78}%
+\contentsline {subsection}{\numberline {5.3.2}Use Case Analysis "Receive E-mails about my submission"}{145}{subsection.5.3.2}%
+\contentsline {subsubsection}{Textual Description of the "Receive E-mails about my submission" Use Case}{145}{subsubsection*.79}%
+\contentsline {subsection}{\numberline {5.3.3}Use Case Analysis: "Reset forgotten password"}{147}{subsection.5.3.3}%
+\contentsline {subsubsection}{Textual Description of the "Reset forgotten password" Use Case}{147}{subsubsection*.80}%
+\contentsline {subsection}{\numberline {5.3.4}Use Case Analysis: "Manage News on the platform"}{149}{subsection.5.3.4}%
+\contentsline {subsubsection}{Refinement of the use case 'Manage News on the platform'}{149}{subsubsection*.81}%
+\contentsline {subsubsection}{Textual Description of the "Create News" Use Case}{149}{subsubsection*.82}%
+\contentsline {subsubsection}{Textual Description of the "Update News" Use Case}{151}{subsubsection*.83}%
+\contentsline {subsubsection}{Textual Description of the "Delete News" Use Case}{153}{subsubsection*.84}%
+\contentsline {subsection}{\numberline {5.3.5}Use Case Analysis "Recognize national identity documents"}{155}{subsection.5.3.5}%
+\contentsline {subsubsection}{Textual Description of the "Recognize national identity documents" Use Case}{155}{subsubsection*.85}%
+\contentsline {section}{\numberline {5.4}Design of Use Cases}{156}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}The participant Class Diagram}{156}{subsection.5.4.1}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Consult News"}{156}{subsubsection*.86}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Receive e-mails about my submissions"}{156}{subsubsection*.87}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Reset forgotten password"}{157}{subsubsection*.88}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Manage news on the platform"}{157}{subsubsection*.89}%
+\contentsline {subsubsection}{Participant class Diagram for the use case "Recognize national identity documents"}{157}{subsubsection*.90}%
+\contentsline {subsection}{\numberline {5.4.2}Detailed Sequence Diagram}{158}{subsection.5.4.2}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Consult News' use case}{158}{subsubsection*.91}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Receive e-mails about my submissions' use case}{159}{subsubsection*.92}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Reset forgotten password' use case}{159}{subsubsection*.93}%
+\contentsline {subsubsection}{Detailed sequence diagram of the 'Manage news on the platform' use case}{160}{subsubsection*.94}%
+\contentsline {section}{\numberline {5.5}Global class diagram of the third sprint}{162}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Implementation}{162}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}The Database Schemas}{162}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}The interfaces of the use cases}{165}{subsection.5.6.2}%
+\contentsline {section}{\numberline {5.7}Tests}{170}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Unit Testing}{170}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.2} Unit Test for the Use Case "Create news"}{170}{subsection.5.7.2}%
+\contentsline {subsubsection}{Reasoning}{170}{subsubsection*.95}%
+\contentsline {subsubsection}{Successful Test Case "Create News"}{170}{subsubsection*.96}%
+\contentsline {subsubsection}{Failure Test Case "Create News"}{172}{subsubsection*.97}%
+\contentsline {subsection}{\numberline {5.7.3} Unit Test for the Use Case "Validate national identity documents"}{173}{subsection.5.7.3}%
+\contentsline {subsubsection}{Reasoning}{173}{subsubsection*.98}%
+\contentsline {subsubsection}{Successful Test Case "Validate national identity documents"}{173}{subsubsection*.99}%
+\contentsline {subsubsection}{Failure Test Case "Validate national identity documents"}{174}{subsubsection*.100}%
+\contentsline {section}{\numberline {5.8}Sprint Review – Burndown Chart Diagram}{175}{section.5.8}%
+\contentsline {section}{Conclusion}{176}{figure.5.47}%
+\contentsline {chapter}{\numberline {6}Cloture Phase}{177}{chapter.6}%
+\contentsline {section}{Introduction}{178}{section*.101}%
+\contentsline {section}{\numberline {6.1}Development Environment}{178}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Hardware Environment}{178}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Software Environment}{178}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Technological Choices}{183}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}The MVC Architecture}{183}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Deployment Diagram}{185}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Project Management}{185}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Task Table}{185}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Gantt Chart}{187}{section.6.4}%
+\contentsline {section}{Conclusion}{188}{figure.6.27}%
+\contentsline {chapter}{General Conclusion}{189}{chapter*.102}%
+\contentsline {chapter}{Bibliographie}{191}{section*.103}%
+\contentsline {chapter}{Webographie}{192}{section*.105}%

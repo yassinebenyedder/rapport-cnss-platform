@@ -98,7 +98,7 @@ This table presents a general classification of functionalities by actor.
 Le diagramme de cas d’utilisation initiale de premier sprint est présenté dans la figure suivante :
 \begin{figure}[h]
     \centering
-    \includegraphics[width=1\textwidth]{figures/sprint1 use case.jpg}
+    \includegraphics[width=1\textwidth]{figures/sprint1 use case.png}
     \caption{Use Case Diagram by Actor.}
 \end{figure}
 \clearpage
@@ -313,50 +313,8 @@ None \\
     \includegraphics[width=1\textwidth]{figures/seqDisplay_profile.png}
     \caption{System Sequence Diagram of the "Display Profile page" Use Case.}
 \end{figure}
+
 \clearpage
-
-
-\subsubsection{Textual Description of the "Update Profile" Use Case}
-
-\begin{table}[h!]
-\centering
-\renewcommand{\arraystretch}{1.5}
-\begin{tabular}{|c|p{8cm}|}
-\hline
-\textbf{Use Case} & \textbf{Update Profile} \\ \hline
-\textbf{Actor} & Insured \\ \hline
-\textbf{Pre-condition} & The insured is logged in and on their profile page. \\ \hline
-\textbf{Post-condition} & The profile information is successfully updated. \\ \hline
-\textbf{Main Scenario Description} & 
-\begin{tabular}[c]{@{}l@{}} 
-1. The insured clicks the "Update my profile" \\button. \\
-2. The system displays a form to update profile\\ information. \\
-3. The insured updates their profile information. \\
-4. The insured clicks the "Confirm" button. \\
-5. The system verifies the provided data. \\
-6. The system displays a success message: \\"Profile updated\\ successfully." \\
-\end{tabular} \\ \hline
-\textbf{Alternative Scenarios} & 
-\begin{tabular}[c]{@{}l@{}} 
-4.a. The insured clicks "Cancel" instead of \\confirming. \\
-4.a.1. The system redirects the insured back to \\the profile page. \\[0.2cm]
-5.a. Some required fields are missing. \\
-5.a.1. The system displays an error message:\\ "Please fill in this field." \\
-5.a.2. The process returns to step 3 of the main \\scenario. \\
-\end{tabular} \\ \hline
-\end{tabular}
-\caption{Use Case: Update Profile}
-\end{table}
-\clearpage
-
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=1\textwidth]{figures/seqUpdate_profile.png}
-    \caption{System Sequence Diagram of the "Update Profile" Use Case.}
-\end{figure}
-\clearpage
-
-
 \subsubsection{Textual Description of the "Update Password" Use Case}
 \begin{table}[h!]
 \centering
@@ -599,7 +557,7 @@ None \\
 \end{figure}
 \clearpage
 
-\subsubsection{Textual Description of the "Assign an internal stakeholder to another" Use Case}
+\subsubsection{Textual Description of the "Assign an Internal Stakeholder to another" Use Case}
 \begin{table}[h!]
 \centering
 \renewcommand{\arraystretch}{1.5}
@@ -611,14 +569,19 @@ None \\
 \textbf{Post-condition} & The stakeholder is either successfully assigned or a validation error is shown. \\ \hline
 \textbf{Main Scenario Description} & 
 \begin{tabular}[c]{@{}l@{}}
-1. The Central Manager selects the assignment \\type and submits. \\
-2. The system performs data verification. \\
-3. If the data is valid, the system displays a \\success message. \\
+1. The Central Manager clicks the assign button \\beside an Office Supervisor or Central Agent. \\
+2. The Central Manager assigns one or many\\ internal stakeholders. \\
+3. The system performs data verification. \\
+4. If data is valid, the system displays a \\success message. \\
 \end{tabular} \\ \hline
 \textbf{Alternative Scenarios} & 
 \begin{tabular}[c]{@{}l@{}}
-\textbf{3.a.} If the assignment is invalid due to region \\conflict:
-\quad 3.a.1. Display: "File manager should\\ have the same region as office supervisor." \\
+\textbf{2.a.} If the Central Manager clicks "Cancel": \\
+\quad 2.a.1. The system redirects to the Internal\\ Stakeholders List page. \\
+
+\textbf{3.a.} If assigning a file manager to an \\office supervisor with a different region: \\
+\quad 3.a.1. The system displays the message: \\
+\quad \quad "File manager should have the same\\ region as office supervisor". \\
 \end{tabular} \\ \hline
 \end{tabular}
 \caption{Use Case: Assign an Internal Stakeholder to another}
@@ -628,7 +591,7 @@ None \\
 \begin{figure}[h!]
     \centering
     \includegraphics[width=1\textwidth]{figures/seqassign internal stakeholders.png}
-    \caption{System Sequence Diagram of the "Assign an internal stakeholder to another" Use Case.}
+    \caption{System Sequence Diagram of the "Assign an Internal Stakeholder to another" Use Case.}
 \end{figure}
 \clearpage
 
@@ -641,41 +604,43 @@ None \\
 \end{figure}\
 
 \clearpage
-\subsubsection{Textual Description of the "Create a new form" Use Case}
+\subsubsection{Textual Description of the "Update a Form" Use Case}
 \begin{table}[h!]
 \centering
 \renewcommand{\arraystretch}{1.5}
 \begin{tabular}{|c|p{8cm}|}
 \hline
-\textbf{Use Case} & Create a New Form \\ \hline
+\textbf{Use Case} & Update a Form \\ \hline
 \textbf{Actor} & Central Manager \\ \hline
 \textbf{Pre-condition} & The Central Manager is authenticated and on the "Forms List" page. \\ \hline
-\textbf{Post-condition} & A new form is created and displayed in the list, or the operation is canceled. \\ \hline
+\textbf{Post-condition} & The form is updated and the success message is displayed, or the operation is canceled. \\ \hline
 \textbf{Main Scenario Description} & 
 \begin{tabular}[c]{@{}l@{}}
-1. The Central Manager clicks "Add new form". \\
-2. The system displays a form to add a new \\form. \\
-3. The Central Manager fills in the form. \\
+1. The Central Manager clicks the "Update" \\button. \\
+2. The system displays a form to update the \\selected form. \\
+3. The Central Manager edits and updates the \\form. \\
 4. The Central Manager clicks the "Submit" \\button. \\
 5. The system verifies the submitted data. \\
-6. If the data is complete, the system displays \\"Form created successfully". \\
+6. If the data is complete, the system displays \\
+"Form updated successfully". \\
 \end{tabular} \\ \hline
 \textbf{Alternative Scenarios} & 
 \begin{tabular}[c]{@{}l@{}}
 \textbf{4.a.} If the Central Manager clicks "Cancel": \\
 \quad 4.a.1. The system redirects to the forms list. \\
 \textbf{5.a.} If required data is missing: \\
-\quad 5.a.1. The system displays a message:\\ "Please fill in \\this field". \\
+\quad 5.a.1. The system displays a message: \\
+"Please fill in this field". \\
 \end{tabular} \\ \hline
 \end{tabular}
-\caption{Use Case: Create a New Form}
+\caption{Use Case: Update a Form}
 \end{table}
 
 \clearpage
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=1\textwidth]{figures/seqcreate a form..png}
-    \caption{System Sequence Diagram of the "Create a new form " Use Case.}
+    \includegraphics[width=1\textwidth]{figures/sequpdate a form..png}
+    \caption{System Sequence Diagram of the "Update a Form" Use Case.}
 \end{figure}
 \clearpage
 
